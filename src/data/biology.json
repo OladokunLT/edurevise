@@ -1,0 +1,19 @@
+[
+  {
+    "question": "Which of these is not a function of the mammalian liver?",
+    "options": [
+      "Regulation of blood sugar",
+      "Production of bile",
+      "Urea formation",
+      "Production of insulin"
+    ],
+    "correctAnswer": "Production of insulin",
+    "explanation": "Insulin is produced by the pancreas, not the liver."
+  },
+  {
+    "question": "The basic unit of life is the ______.",
+    "options": ["Organ", "Tissue", "Cell", "System"],
+    "correctAnswer": "Cell",
+    "explanation": "The cell is the smallest structural and functional unit of life."
+  }
+]
