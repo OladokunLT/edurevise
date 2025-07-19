@@ -14,7 +14,7 @@ export default defineConfig({
         short_name: "EduRevise",
         start_url: "/",
         display: "standalone",
-        background_color: "#aaffaa",
+        background_color: "#ddffdd",
         theme_color: "#1976d2",
         icons: [
           {
