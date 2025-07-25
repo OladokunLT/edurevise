@@ -15,7 +15,7 @@ const Result = () => {
   const { questions, answers } = location.state || {};
 
   if (!questions || !answers) {
-    return <Typography>Invalid result data</Typography>;
+    return <Typography>Invalid result data.</Typography>;
   }
 
   const score = questions.reduce((acc, q, i) => {

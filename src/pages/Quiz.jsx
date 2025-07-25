@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useSearchParams, useNavigate } from "react-router-dom";
 import QuizCard from "../components/QuizCard";
 import { Box, Button, Typography } from "@mui/material";
+
 const Quiz = () => {
   const [questions, setQuestions] = useState([]);
   const [index, setIndex] = useState(0);
@@ -30,43 +31,40 @@ const Quiz = () => {
     setAnswers({ ...answers, [index]: answer });
   };
 
-  handleNext = () => {
+  const handleNext = () => {
     if (index < questions.length - 1) {
-      setAnswers(index + 1);
+      setIndex(index + 1);
     } else {
       // Submit and go to result
-      navigate("/result", { state: { questions, answers } });
+      navigate("/result", {
+        state: { questions, answers },
+      });
     }
   };
 
-  handlePrevious = () => {
+  const handlePrev = () => {
     if (index > 0) setIndex(index - 1);
   };
 
-  if (loading) <Typography>Loading...</Typography>;
-  if (!questions.length) <Typography>No questions found</Typography>;
+  if (loading) return <Typography>Loading...</Typography>;
+  if (!questions.length) return <Typography>No questions found.</Typography>;
 
   return (
-    <Box>
-      <Typography>
-        {subject.toUpperCase()} Quiz ({index + 1}/ {questions.length})
+    <Box p={3}>
+      <Typography variant="h5" mb={2}>
+        {subject.toUpperCase()} Quiz ({index + 1}/{questions.length})
       </Typography>
 
       <QuizCard
-        onSelect={handleSelect}
         questionData={questions[index]}
         selected={answers[index]}
+        onSelect={handleSelect}
       />
 
       <Box mt={2} display="flex" gap={2}>
-        <Button
-          variant="outline"
-          onClick={handlePrevious}
-          disabled={index === 0}
-        >
+        <Button variant="outlined" onClick={handlePrev} disabled={index === 0}>
           Previous
         </Button>
-
         <Button variant="contained" onClick={handleNext}>
           {index === questions.length - 1 ? "Finish" : "Next"}
         </Button>

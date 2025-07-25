@@ -1,10 +1,11 @@
+import React from "react";
 import {
   Card,
   CardContent,
+  Typography,
+  RadioGroup,
   FormControlLabel,
   Radio,
-  RadioGroup,
-  Typography,
 } from "@mui/material";
 
 const QuizCard = ({ questionData, selected, onSelect }) => {
