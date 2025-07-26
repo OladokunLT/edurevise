@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useSearchParams, useNavigate } from "react-router-dom";
 import QuizCard from "../components/QuizCard";
 import { Box, Button, Typography } from "@mui/material";
+import ExplainButton from "../components/ExplainButton";
 
 const Quiz = () => {
   const [questions, setQuestions] = useState([]);
@@ -49,6 +50,8 @@ const Quiz = () => {
   if (loading) return <Typography>Loading...</Typography>;
   if (!questions.length) return <Typography>No questions found.</Typography>;
 
+  const currentQuestion = questions[index];
+
   return (
     <Box p={3}>
       <Typography variant="h5" mb={2}>
@@ -60,6 +63,8 @@ const Quiz = () => {
         selected={answers[index]}
         onSelect={handleSelect}
       />
+
+      <ExplainButton questionText={currentQuestion.question} />
 
       <Box mt={2} display="flex" gap={2}>
         <Button variant="outlined" onClick={handlePrev} disabled={index === 0}>
