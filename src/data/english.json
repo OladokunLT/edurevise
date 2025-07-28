@@ -1,0 +1,528 @@
+[
+  {
+    "question": "Which word is spelled correctly?",
+    "options": ["Occurrence", "Ocurrence", "Occurence", "Ocurrency"],
+    "correctAnswer": "Occurrence",
+    "explanation": "Occurrence is the correct spelling with double 'c' and double 'r'."
+  },
+  {
+    "question": "Choose the correct synonym for 'benevolent':",
+    "options": ["Cruel", "Kind-hearted", "Miserly", "Suspicious"],
+    "correctAnswer": "Kind-hearted",
+    "explanation": "Benevolent means well-meaning and kindly, synonymous with kind-hearted."
+  },
+  {
+    "question": "Identify the sentence with correct punctuation:",
+    "options": [
+      "\"What time is it?\" she asked.",
+      "\"What time is it\" she asked?",
+      "\"What time is it? she asked.\"",
+      "\"What time is it she asked?\""
+    ],
+    "correctAnswer": "\"What time is it?\" she asked.",
+    "explanation": "Question marks stay inside quotation marks for direct questions."
+  },
+  {
+    "question": "Which is the correct indirect speech for: 'I will arrive tomorrow,' said Kofi.",
+    "options": [
+      "Kofi said he will arrive tomorrow.",
+      "Kofi said he would arrive the next day.",
+      "Kofi said he would arrive tomorrow.",
+      "Kofi said he will arrive the next day."
+    ],
+    "correctAnswer": "Kofi said he would arrive the next day.",
+    "explanation": "Future tense shifts to conditional and 'tomorrow' becomes 'the next day' in indirect speech."
+  },
+  {
+    "question": "Select the appropriate word: The ____ of the mountain was breathtaking.",
+    "options": ["Peak", "Peek", "Pique", "Pick"],
+    "correctAnswer": "Peak",
+    "explanation": "Peak refers to the top of a mountain, while peek means a quick look."
+  },
+  {
+    "question": "Identify the grammatical error: Neither the teacher nor the students was present.",
+    "options": [
+      "Subject-verb agreement",
+      "Incorrect conjunction",
+      "Wrong tense usage",
+      "Missing article"
+    ],
+    "correctAnswer": "Subject-verb agreement",
+    "explanation": "With 'neither/nor', the verb agrees with the closer subject (students were)."
+  },
+  {
+    "question": "What literary device is used: 'The stars danced playfully in the moonlit sky.'",
+    "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+    "correctAnswer": "Personification",
+    "explanation": "Stars are given human ability (danced) - personification."
+  },
+  {
+    "question": "Choose the correct idiomatic expression:",
+    "options": [
+      "Bite your tongue",
+      "Chew your lips",
+      "Swallow your teeth",
+      "Taste your words"
+    ],
+    "correctAnswer": "Bite your tongue",
+    "explanation": "'Bite your tongue' means to stop yourself from saying something."
+  },
+  {
+    "question": "Which sentence is in passive voice?",
+    "options": [
+      "The chef prepared the meal.",
+      "The meal was prepared by the chef.",
+      "They are eating dinner.",
+      "We will clean the kitchen."
+    ],
+    "correctAnswer": "The meal was prepared by the chef.",
+    "explanation": "Passive voice has the subject receiving the action (meal was prepared)."
+  },
+  {
+    "question": "Select the best topic sentence for a paragraph about recycling:",
+    "options": [
+      "Many people enjoy gardening.",
+      "Recycling reduces landfill waste significantly.",
+      "Plastic was invented in 1907.",
+      "Climate change is a global problem."
+    ],
+    "correctAnswer": "Recycling reduces landfill waste significantly.",
+    "explanation": "It directly introduces the central idea of recycling benefits."
+  },
+  {
+    "question": "Which word class does 'however' belong to in: 'However, we must consider alternatives.'",
+    "options": ["Conjunction", "Adverb", "Preposition", "Interjection"],
+    "correctAnswer": "Adverb",
+    "explanation": "'However' functions as a conjunctive adverb showing contrast."
+  },
+  {
+    "question": "Identify the antonym of 'ephemeral':",
+    "options": ["Temporary", "Brief", "Permanent", "Fleeting"],
+    "correctAnswer": "Permanent",
+    "explanation": "Ephemeral means short-lived, so permanent is its opposite."
+  },
+  {
+    "question": "Which is the correct use of 'their/there/they're':",
+    "options": [
+      "Their going to the market",
+      "There house is beautiful",
+      "They're planning a trip",
+      "The books are over their"
+    ],
+    "correctAnswer": "They're planning a trip",
+    "explanation": "They're is the contraction for 'they are'."
+  },
+  {
+    "question": "What does the idiom 'beat around the bush' mean?",
+    "options": [
+      "To garden enthusiastically",
+      "To avoid the main topic",
+      "To hunt animals",
+      "To exercise vigorously"
+    ],
+    "correctAnswer": "To avoid the main topic",
+    "explanation": "It means to discuss something without coming to the point."
+  },
+  {
+    "question": "Select the correctly punctuated sentence:",
+    "options": [
+      "The items required are: paper, pens, and folders.",
+      "The items required are paper, pens and folders.",
+      "The items required are; paper, pens, folders.",
+      "The items required are - paper, pens, folders."
+    ],
+    "correctAnswer": "The items required are: paper, pens, and folders.",
+    "explanation": "A colon is appropriate before a list following an independent clause."
+  },
+  {
+    "question": "In comprehension, what does 'infer' mean?",
+    "options": [
+      "To copy directly",
+      "To state the obvious",
+      "To deduce from evidence",
+      "To summarize briefly"
+    ],
+    "correctAnswer": "To deduce from evidence",
+    "explanation": "Inference requires drawing conclusions based on implied information."
+  },
+  {
+    "question": "Which sentence contains a dangling modifier?",
+    "options": [
+      "Running quickly, the bus was caught.",
+      "After finishing homework, the TV was watched.",
+      "While cooking dinner, the phone rang.",
+      "She found her keys looking under the sofa."
+    ],
+    "correctAnswer": "Running quickly, the bus was caught.",
+    "explanation": "The modifier 'running quickly' has no logical subject to attach to."
+  },
+  {
+    "question": "What is the tone of: 'The insolent child ignored his elders' advice repeatedly.'",
+    "options": ["Admiring", "Neutral", "Disapproving", "Humorous"],
+    "correctAnswer": "Disapproving",
+    "explanation": "'Insolent' and 'ignored' convey disapproval of the child's behavior."
+  },
+  {
+    "question": "Choose the appropriate transitional phrase: _________, we must consider all options.",
+    "options": ["Similarly", "In conclusion", "Furthermore", "Nevertheless"],
+    "correctAnswer": "Nevertheless",
+    "explanation": "Indicates contrast with previous idea while introducing a new point."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Each of the students have their books.",
+      "Neither of the options are suitable.",
+      "Everybody must bring their own lunch.",
+      "The team are celebrating its victory."
+    ],
+    "correctAnswer": "Everybody must bring their own lunch.",
+    "explanation": "Singular 'everybody' with plural 'their' is accepted in modern English for gender neutrality."
+  },
+  {
+    "question": "What literary device: 'Life is a rollercoaster with ups and downs.'",
+    "options": ["Simile", "Metaphor", "Alliteration", "Onomatopoeia"],
+    "correctAnswer": "Metaphor",
+    "explanation": "Direct comparison without 'like' or 'as' between life and rollercoaster."
+  },
+  {
+    "question": "Identify the type of clause: 'Although it was raining'",
+    "options": ["Independent", "Adverbial", "Relative", "Noun"],
+    "correctAnswer": "Adverbial",
+    "explanation": "Subordinate clause modifying the verb in the main clause by showing contrast."
+  },
+  {
+    "question": "Choose the correct plural form: 'criterion'",
+    "options": ["Criterions", "Criterias", "Criteria", "Criterion's"],
+    "correctAnswer": "Criteria",
+    "explanation": "Criteria is the standard plural form of criterion (Greek origin)."
+  },
+  {
+    "question": "Which sentence is in the subjunctive mood?",
+    "options": [
+      "I wish I was taller.",
+      "If I were you, I'd study more.",
+      "She speaks as if she knows everything.",
+      "He will come tomorrow."
+    ],
+    "correctAnswer": "If I were you, I'd study more.",
+    "explanation": "Uses 'were' instead of 'was' for hypothetical situation."
+  },
+  {
+    "question": "What is the purpose of a topic sentence?",
+    "options": [
+      "To conclude the paragraph",
+      "To provide supporting details",
+      "To state the main idea",
+      "To introduce a quotation"
+    ],
+    "correctAnswer": "To state the main idea",
+    "explanation": "Topic sentences express the central point of a paragraph."
+  },
+  {
+    "question": "Select the correct prefix: ____behave",
+    "options": ["Un-", "Dis-", "Mis-", "Non-"],
+    "correctAnswer": "Mis-",
+    "explanation": "Misbehave means to behave badly or improperly."
+  },
+  {
+    "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+    "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correctAnswer": "Personification",
+    "explanation": "Wind is given human ability to whisper."
+  },
+  {
+    "question": "Which is a complex sentence?",
+    "options": [
+      "She studied hard and passed.",
+      "After she studied, she passed.",
+      "She studied; she passed.",
+      "She studied hard but failed."
+    ],
+    "correctAnswer": "After she studied, she passed.",
+    "explanation": "Contains one independent clause and one dependent clause."
+  },
+  {
+    "question": "What does 'ambivalent' mean?",
+    "options": [
+      "Very enthusiastic",
+      "Having mixed feelings",
+      "Completely certain",
+      "Indifferent"
+    ],
+    "correctAnswer": "Having mixed feelings",
+    "explanation": "Ambivalent means having contradictory attitudes or feelings."
+  },
+  {
+    "question": "Choose the correct tense: By next year, I ____ my studies.",
+    "options": [
+      "Complete",
+      "Will complete",
+      "Will have completed",
+      "Completed"
+    ],
+    "correctAnswer": "Will have completed",
+    "explanation": "Future perfect tense for action completed before a future time."
+  },
+  {
+    "question": "In summary writing, what should be avoided?",
+    "options": [
+      "Key points",
+      "Paraphrasing",
+      "Personal opinions",
+      "Concise language"
+    ],
+    "correctAnswer": "Personal opinions",
+    "explanation": "Summaries should be objective without personal interpretation."
+  },
+  {
+    "question": "Identify the type of error: 'The data shows interesting trends.'",
+    "options": [
+      "Subject-verb agreement",
+      "Wrong word choice",
+      "Punctuation error",
+      "Tense inconsistency"
+    ],
+    "correctAnswer": "Subject-verb agreement",
+    "explanation": "'Data' is plural (singular: datum), so should be 'show' not 'shows'."
+  },
+  {
+    "question": "What is the genre of a text that tells a story through dialogue and action?",
+    "options": ["Poetry", "Drama", "Prose", "Biography"],
+    "correctAnswer": "Drama",
+    "explanation": "Drama presents stories through performance with dialogue and action."
+  },
+  {
+    "question": "Select the correct homophone pair:",
+    "options": ["Sea/See", "Brake/Break", "Flower/Flour", "All of the above"],
+    "correctAnswer": "All of the above",
+    "explanation": "All pairs are homophones - same pronunciation, different meanings."
+  },
+  {
+    "question": "Which punctuation is used for emphasis?",
+    "options": ["Semicolon", "Comma", "Dash", "Apostrophe"],
+    "correctAnswer": "Dash",
+    "explanation": "Dashes can set off information for emphasis in a sentence."
+  },
+  {
+    "question": "What does the root 'biblio' mean?",
+    "options": ["Life", "Book", "Water", "Earth"],
+    "correctAnswer": "Book",
+    "explanation": "Greek root 'biblio' appears in words like bibliography (book list)."
+  },
+  {
+    "question": "Identify the mood: 'Close the door immediately!'",
+    "options": ["Indicative", "Imperative", "Subjunctive", "Interrogative"],
+    "correctAnswer": "Imperative",
+    "explanation": "Gives a command or instruction."
+  },
+  {
+    "question": "Which is a characteristic of formal writing?",
+    "options": [
+      "Slang expressions",
+      "Contractions",
+      "Third-person perspective",
+      "Personal anecdotes"
+    ],
+    "correctAnswer": "Third-person perspective",
+    "explanation": "Formal writing typically avoids first-person and uses objective tone."
+  },
+  {
+    "question": "What literary device: 'The city slept under the blanket of stars.'",
+    "options": ["Metaphor", "Simile", "Alliteration", "Personification"],
+    "correctAnswer": "Personification",
+    "explanation": "City given human ability to sleep."
+  },
+  {
+    "question": "Choose the correct collocation:",
+    "options": [
+      "Make a research",
+      "Do a research",
+      "Carry out research",
+      "Perform research"
+    ],
+    "correctAnswer": "Carry out research",
+    "explanation": "Carry out research is the standard collocation."
+  },
+  {
+    "question": "In comprehension, what is 'skimming'?",
+    "options": [
+      "Reading carefully for details",
+      "Reading quickly for main ideas",
+      "Guessing word meanings",
+      "Analyzing the author's style"
+    ],
+    "correctAnswer": "Reading quickly for main ideas",
+    "explanation": "Skimming involves rapid reading to get the gist of content."
+  },
+  {
+    "question": "Select the sentence with correct article usage:",
+    "options": [
+      "She is a honest woman.",
+      "He wants to be an engineer.",
+      "We saw an UFO last night.",
+      "I need a hour to finish."
+    ],
+    "correctAnswer": "He wants to be an engineer.",
+    "explanation": "Engineer begins with vowel sound, requiring 'an'."
+  },
+  {
+    "question": "What is the function of a thesis statement?",
+    "options": [
+      "To conclude the essay",
+      "To introduce minor points",
+      "To present the main argument",
+      "To provide evidence"
+    ],
+    "correctAnswer": "To present the main argument",
+    "explanation": "Thesis statement declares the central claim of an essay."
+  },
+  {
+    "question": "Identify the oxymoron:",
+    "options": [
+      "Deafening silence",
+      "Crystal clear",
+      "Extremely average",
+      "Dark night"
+    ],
+    "correctAnswer": "Deafening silence",
+    "explanation": "Contradictory terms combined for effect (silence can't be deafening)."
+  },
+  {
+    "question": "Which sentence is conditional?",
+    "options": [
+      "She goes to school daily.",
+      "If it rains, we will cancel.",
+      "They have finished work.",
+      "He might come later."
+    ],
+    "correctAnswer": "If it rains, we will cancel.",
+    "explanation": "Shows condition (rain) and consequence (cancellation)."
+  },
+  {
+    "question": "What does 'epistolary' mean?",
+    "options": [
+      "Related to poetry",
+      "Containing letters",
+      "Argumentative in nature",
+      "Humorous tone"
+    ],
+    "correctAnswer": "Containing letters",
+    "explanation": "Epistolary refers to literary works composed of letters."
+  },
+  {
+    "question": "Choose the correct phrasal verb: 'Please ____ the lights before leaving.'",
+    "options": ["Put off", "Turn off", "Take off", "Set off"],
+    "correctAnswer": "Turn off",
+    "explanation": "Turn off means to switch off electrical devices."
+  },
+  {
+    "question": "Which is a run-on sentence?",
+    "options": [
+      "She cooks well, she bakes too.",
+      "Although tired, she finished.",
+      "He runs every morning.",
+      "The book that I read."
+    ],
+    "correctAnswer": "She cooks well, she bakes too.",
+    "explanation": "Two independent clauses incorrectly joined by comma only (comma splice)."
+  },
+  {
+    "question": "What is the primary purpose of persuasive writing?",
+    "options": [
+      "To inform objectively",
+      "To tell a story",
+      "To convince the reader",
+      "To describe vividly"
+    ],
+    "correctAnswer": "To convince the reader",
+    "explanation": "Persuasive writing aims to change opinions or motivate action."
+  },
+  {
+    "question": "Identify the antonym of 'verbose':",
+    "options": ["Wordy", "Concise", "Detailed", "Eloquent"],
+    "correctAnswer": "Concise",
+    "explanation": "Verbose means using more words than needed; concise is brief and clear."
+  },
+  {
+    "question": "Which punctuation indicates a pause?",
+    "options": ["Hyphen", "Semicolon", "Comma", "Colon"],
+    "correctAnswer": "Comma",
+    "explanation": "Commas create brief pauses in sentences."
+  },
+  {
+    "question": "What literary element reveals background information?",
+    "options": ["Climax", "Exposition", "Falling action", "Resolution"],
+    "correctAnswer": "Exposition",
+    "explanation": "Exposition provides background about characters, setting, etc."
+  },
+  {
+    "question": "Select the correct comparative: 'bad'",
+    "options": ["Badder", "More bad", "Worse", "Baddest"],
+    "correctAnswer": "Worse",
+    "explanation": "Irregular comparative form of bad → worse → worst."
+  },
+  {
+    "question": "In a debate, what is a 'rebuttal'?",
+    "options": [
+      "Opening statement",
+      "Counterargument",
+      "Closing remarks",
+      "Evidence presentation"
+    ],
+    "correctAnswer": "Counterargument",
+    "explanation": "Rebuttal addresses and attempts to disprove opponents' arguments."
+  },
+  {
+    "question": "What does the prefix 'mal-' mean?",
+    "options": ["Good", "Bad", "Large", "Small"],
+    "correctAnswer": "Bad",
+    "explanation": "As in malfunction (bad function) or malpractice (bad practice)."
+  },
+  {
+    "question": "Identify the sentence type: 'How wonderful!'",
+    "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+    "correctAnswer": "Exclamatory",
+    "explanation": "Expresses strong emotion with exclamation mark."
+  },
+  {
+    "question": "Which is a coordinating conjunction?",
+    "options": ["Because", "Although", "And", "While"],
+    "correctAnswer": "And",
+    "explanation": "FANBOYS conjunctions (For, And, Nor, But, Or, Yet, So) coordinate equal elements."
+  },
+  {
+    "question": "What is the purpose of a hook in writing?",
+    "options": [
+      "To conclude the piece",
+      "To cite sources",
+      "To grab reader's attention",
+      "To provide evidence"
+    ],
+    "correctAnswer": "To grab reader's attention",
+    "explanation": "Hooks engage readers at the beginning of a text."
+  },
+  {
+    "question": "Select the correct idiom: 'Don't ____ until you've crossed it.'",
+    "options": [
+      "Burn your bridges",
+      "Cross the bridge",
+      "Build bridges",
+      "Jump the bridge"
+    ],
+    "correctAnswer": "Burn your bridges",
+    "explanation": "Idiom meaning don't destroy relationships prematurely."
+  },
+  {
+    "question": "What is the tone: 'The politician's disingenuous remarks angered the crowd.'",
+    "options": ["Admiring", "Neutral", "Critical", "Humorous"],
+    "correctAnswer": "Critical",
+    "explanation": "Disingenuous (insincere) implies negative judgment."
+  },
+  {
+    "question": "Which is correct: 'The committee ____ divided.'",
+    "options": ["Is", "Are", "Were", "Being"],
+    "correctAnswer": "Is",
+    "explanation": "Committee as a single unit takes singular verb."
+  }
+]

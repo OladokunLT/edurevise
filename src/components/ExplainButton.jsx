@@ -1,42 +1,25 @@
 import React, { useState } from "react";
-import { Button, Typography, CircularProgress, Box } from "@mui/material";
-import { generateExplanation } from "../ai/explanationService";
+import { Button, Typography, Collapse, Box, IconButton } from "@mui/material";
+import { ExpandMore, ExpandLess } from "@mui/icons-material";
 
-const ExplainButton = ({ questionText }) => {
-  const [loading, setLoading] = useState(false);
-  const [explanation, setExplanation] = useState("");
-
-  const handleClick = async () => {
-    setLoading(true);
-    setExplanation(""); // Clear previous explanation
-
-    try {
-      const result = await generateExplanation(questionText);
-      setExplanation(result);
-    } catch (err) {
-      setExplanation("Failed to generate explanation.");
-    } finally {
-      setLoading(false);
-    }
-  };
+const ExplainButton = ({ explanation }) => {
+  const [expanded, setExpanded] = useState(false);
 
   return (
     <Box mt={2}>
-      <Button variant="outlined" onClick={handleClick} disabled={loading}>
-        {loading ? "Generating..." : "Explain"}
+      <Button
+        variant="outlined"
+        onClick={() => setExpanded(!expanded)}
+        endIcon={expanded ? <ExpandLess /> : <ExpandMore />}
+      >
+        {expanded ? "Hide Explanation" : "Show Explanation"}
       </Button>
 
-      {loading && (
-        <Box mt={1}>
-          <CircularProgress size={20} />
-        </Box>
-      )}
-
-      {explanation && (
-        <Typography mt={2} variant="body2" color="text.secondary">
-          {explanation}
+      <Collapse in={expanded}>
+        <Typography mt={2} p={2} bgcolor="background.paper" borderRadius={1}>
+          {explanation || "No explanation available for this question."}
         </Typography>
-      )}
+      </Collapse>
     </Box>
   );
 };

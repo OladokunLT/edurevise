@@ -1,19 +1,498 @@
 [
   {
-    "question": "Which of these is not a function of the mammalian liver?",
-    "options": [
-      "Regulation of blood sugar",
-      "Production of bile",
-      "Urea formation",
-      "Production of insulin"
-    ],
-    "correctAnswer": "Production of insulin",
-    "explanation": "Insulin is produced by the pancreas, not the liver."
+    "question": "Which structure regulates gas exchange in plants?",
+    "options": ["Epidermis", "Guard cells", "Cuticle", "Palisade layer"],
+    "correctAnswer": "Guard cells",
+    "explanation": "Guard cells control the opening and closing of stomata for gas exchange."
   },
   {
-    "question": "The basic unit of life is the ______.",
-    "options": ["Organ", "Tissue", "Cell", "System"],
-    "correctAnswer": "Cell",
-    "explanation": "The cell is the smallest structural and functional unit of life."
+    "question": "The primary consumer in a food chain is always a?",
+    "options": ["Carnivore", "Herbivore", "Decomposer", "Producer"],
+    "correctAnswer": "Herbivore",
+    "explanation": "Primary consumers feed directly on producers (plants)."
+  },
+  {
+    "question": "Which process occurs in the mitochondria?",
+    "options": [
+      "Photosynthesis",
+      "Protein synthesis",
+      "Aerobic respiration",
+      "Glycolysis"
+    ],
+    "correctAnswer": "Aerobic respiration",
+    "explanation": "Mitochondria are sites for aerobic respiration producing ATP."
+  },
+  {
+    "question": "The functional unit of the kidney is the?",
+    "options": ["Nephron", "Glomerulus", "Ureter", "Bowman's capsule"],
+    "correctAnswer": "Nephron",
+    "explanation": "Nephrons perform filtration, reabsorption and secretion."
+  },
+  {
+    "question": "Which blood vessels carry oxygenated blood to the heart?",
+    "options": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
+    "correctAnswer": "Pulmonary vein",
+    "explanation": "Pulmonary veins bring oxygenated blood from lungs to heart."
+  },
+  {
+    "question": "In DNA, adenine pairs with?",
+    "options": ["Cytosine", "Guanine", "Thymine", "Uracil"],
+    "correctAnswer": "Thymine",
+    "explanation": "Complementary base pairing: A-T and G-C in DNA."
+  },
+  {
+    "question": "Which hormone controls metamorphosis in insects?",
+    "options": ["Insulin", "Thyroxine", "Ecdysone", "Juvenile hormone"],
+    "correctAnswer": "Ecdysone",
+    "explanation": "Ecdysone triggers molting and developmental changes."
+  },
+  {
+    "question": "The symbiotic relationship between fungi and algae forms?",
+    "options": ["Mycorrhiza", "Lichen", "Rhizobium", "Parasite"],
+    "correctAnswer": "Lichen",
+    "explanation": "Lichens represent mutualism between fungi and photosynthetic algae."
+  },
+  {
+    "question": "Which is NOT a method of asexual reproduction?",
+    "options": ["Budding", "Fragmentation", "Pollination", "Sporulation"],
+    "correctAnswer": "Pollination",
+    "explanation": "Pollination involves gamete transfer in sexual reproduction."
+  },
+  {
+    "question": "The pituitary gland is often called the 'master gland' because it?",
+    "options": [
+      "Is the largest endocrine gland",
+      "Produces the most hormones",
+      "Regulates other endocrine glands",
+      "Controls voluntary actions"
+    ],
+    "correctAnswer": "Regulates other endocrine glands",
+    "explanation": "It secretes hormones that control thyroid, adrenal glands, etc."
+  },
+  {
+    "question": "Which process requires energy in the form of ATP?",
+    "options": [
+      "Osmosis",
+      "Diffusion",
+      "Active transport",
+      "Facilitated diffusion"
+    ],
+    "correctAnswer": "Active transport",
+    "explanation": "Active transport moves substances against concentration gradients using energy."
+  },
+  {
+    "question": "Inheritance of acquired characteristics was proposed by?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Jean-Baptiste Lamarck",
+      "Alfred Wallace"
+    ],
+    "correctAnswer": "Jean-Baptiste Lamarck",
+    "explanation": "Lamarck's theory suggested organisms pass on traits developed during lifetime."
+  },
+  {
+    "question": "The primary function of root hairs is to?",
+    "options": [
+      "Store food",
+      "Provide support",
+      "Absorb water and minerals",
+      "Anchor the plant"
+    ],
+    "correctAnswer": "Absorb water and minerals",
+    "explanation": "Root hairs increase surface area for absorption from soil."
+  },
+  {
+    "question": "Which disease is caused by vitamin C deficiency?",
+    "options": ["Rickets", "Scurvy", "Beriberi", "Night blindness"],
+    "correctAnswer": "Scurvy",
+    "explanation": "Scurvy causes bleeding gums and poor wound healing."
+  },
+  {
+    "question": "The number of chromosomes in human gametes is?",
+    "options": ["23", "46", "48", "22"],
+    "correctAnswer": "23",
+    "explanation": "Gametes are haploid (n=23) while somatic cells are diploid (2n=46)."
+  },
+  {
+    "question": "Which biome is characterized by permafrost?",
+    "options": ["Tundra", "Savanna", "Tropical rainforest", "Desert"],
+    "correctAnswer": "Tundra",
+    "explanation": "Tundra has permanently frozen subsoil and low biodiversity."
+  },
+  {
+    "question": "The enzyme that digests starch is?",
+    "options": ["Pepsin", "Lipase", "Amylase", "Trypsin"],
+    "correctAnswer": "Amylase",
+    "explanation": "Amylase breaks down starch into maltose in mouth and small intestine."
+  },
+  {
+    "question": "Which blood group is the universal donor?",
+    "options": ["A", "B", "AB", "O"],
+    "correctAnswer": "O",
+    "explanation": "Type O-negative lacks A/B antigens and can donate to all groups."
+  },
+  {
+    "question": "The part of the brain responsible for balance is the?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+    "correctAnswer": "Cerebellum",
+    "explanation": "Cerebellum coordinates muscle movement and balance."
+  },
+  {
+    "question": "Nitrogen fixation is primarily carried out by?",
+    "options": [
+      "Nitrifying bacteria",
+      "Denitrifying bacteria",
+      "Nitrogen-fixing bacteria",
+      "Putrefying bacteria"
+    ],
+    "correctAnswer": "Nitrogen-fixing bacteria",
+    "explanation": "Rhizobium and Azotobacter convert atmospheric N₂ to ammonium compounds."
+  },
+  {
+    "question": "The process where water moves through a semi-permeable membrane is?",
+    "options": ["Diffusion", "Active transport", "Osmosis", "Plasmolysis"],
+    "correctAnswer": "Osmosis",
+    "explanation": "Osmosis is passive movement of water down its concentration gradient."
+  },
+  {
+    "question": "Which structure prevents food from entering the trachea?",
+    "options": ["Epiglottis", "Pharynx", "Esophagus", "Larynx"],
+    "correctAnswer": "Epiglottis",
+    "explanation": "Epiglottis covers the glottis during swallowing."
+  },
+  {
+    "question": "In plants, translocation of organic compounds occurs through?",
+    "options": ["Xylem", "Phloem", "Cambium", "Epidermis"],
+    "correctAnswer": "Phloem",
+    "explanation": "Phloem transports sucrose and amino acids via sieve tubes."
+  },
+  {
+    "question": "The primary function of white blood cells is?",
+    "options": [
+      "Oxygen transport",
+      "Blood clotting",
+      "Immune defense",
+      "Hormone production"
+    ],
+    "correctAnswer": "Immune defense",
+    "explanation": "Leukocytes protect against pathogens through phagocytosis and antibody production."
+  },
+  {
+    "question": "Which process releases carbon dioxide into the atmosphere?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Nitrogen fixation",
+      "Transpiration"
+    ],
+    "correctAnswer": "Respiration",
+    "explanation": "Aerobic respiration produces CO₂ as a waste product."
+  },
+  {
+    "question": "The genetic makeup of an organism is its?",
+    "options": ["Phenotype", "Genotype", "Allele", "Chromosome"],
+    "correctAnswer": "Genotype",
+    "explanation": "Genotype refers to the genetic constitution (e.g., BB, Bb)."
+  },
+  {
+    "question": "Which plant hormone promotes cell elongation?",
+    "options": ["Abscisic acid", "Gibberellin", "Ethylene", "Cytokinin"],
+    "correctAnswer": "Gibberellin",
+    "explanation": "Gibberellins stimulate stem growth and seed germination."
+  },
+  {
+    "question": "The first stage of mitosis is?",
+    "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "correctAnswer": "Prophase",
+    "explanation": "Prophase involves chromosome condensation and nuclear envelope breakdown."
+  },
+  {
+    "question": "Which organism is a decomposer?",
+    "options": ["Grasshopper", "Hawk", "Mushroom", "Rabbit"],
+    "correctAnswer": "Mushroom",
+    "explanation": "Fungi break down dead organic matter and recycle nutrients."
+  },
+  {
+    "question": "The part of the eye that contains photoreceptors is the?",
+    "options": ["Cornea", "Iris", "Retina", "Lens"],
+    "correctAnswer": "Retina",
+    "explanation": "Retina has rods (light) and cones (color) for light detection."
+  },
+  {
+    "question": "In humans, fertilization typically occurs in the?",
+    "options": ["Ovary", "Uterus", "Fallopian tube", "Cervix"],
+    "correctAnswer": "Fallopian tube",
+    "explanation": "Oviduct (Fallopian tube) is where sperm meets egg for fertilization."
+  },
+  {
+    "question": "Which vitamin is synthesized by skin exposure to sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "correctAnswer": "Vitamin D",
+    "explanation": "UV light converts 7-dehydrocholesterol to vitamin D3 in skin."
+  },
+  {
+    "question": "The scientific name for humans is Homo sapiens. 'Homo' refers to the?",
+    "options": ["Species", "Genus", "Family", "Order"],
+    "correctAnswer": "Genus",
+    "explanation": "Binomial nomenclature: Genus (capitalized) + species (lowercase)."
+  },
+  {
+    "question": "Which adaptation helps desert plants conserve water?",
+    "options": [
+      "Broad leaves",
+      "Deep roots",
+      "Thick cuticle",
+      "High stomatal density"
+    ],
+    "correctAnswer": "Thick cuticle",
+    "explanation": "Waxy cuticle reduces transpiration in arid conditions."
+  },
+  {
+    "question": "The hormone insulin is produced by the?",
+    "options": ["Liver", "Pancreas", "Adrenal gland", "Thyroid gland"],
+    "correctAnswer": "Pancreas",
+    "explanation": "Beta cells in pancreatic islets produce insulin."
+  },
+  {
+    "question": "Which process is anaerobic?",
+    "options": [
+      "Krebs cycle",
+      "Electron transport chain",
+      "Glycolysis",
+      "Photosynthesis"
+    ],
+    "correctAnswer": "Glycolysis",
+    "explanation": "Glycolysis occurs in cytoplasm without oxygen, producing pyruvate."
+  },
+  {
+    "question": "Inheritance of sickle-cell anemia is?",
+    "options": [
+      "Autosomal dominant",
+      "X-linked recessive",
+      "Autosomal recessive",
+      "Codominant"
+    ],
+    "correctAnswer": "Autosomal recessive",
+    "explanation": "Requires two recessive alleles (HbS/HbS) for full expression."
+  },
+  {
+    "question": "The main function of the large intestine is?",
+    "options": [
+      "Nutrient absorption",
+      "Water absorption",
+      "Protein digestion",
+      "Bile production"
+    ],
+    "correctAnswer": "Water absorption",
+    "explanation": "Absorbs water and electrolytes, forming solid feces."
+  },
+  {
+    "question": "Which pollutant causes eutrophication?",
+    "options": ["Heavy metals", "Sewage", "CFCs", "Oil spills"],
+    "correctAnswer": "Sewage",
+    "explanation": "Nitrates/phosphates in sewage cause algal blooms and oxygen depletion."
+  },
+  {
+    "question": "The function of the ribosome is?",
+    "options": [
+      "Lipid synthesis",
+      "Protein synthesis",
+      "ATP production",
+      "DNA replication"
+    ],
+    "correctAnswer": "Protein synthesis",
+    "explanation": "Ribosomes assemble amino acids into polypeptides."
+  },
+  {
+    "question": "Which is a vestigial organ in humans?",
+    "options": ["Appendix", "Liver", "Pancreas", "Stomach"],
+    "correctAnswer": "Appendix",
+    "explanation": "Vestigial cecum with no significant function in humans."
+  },
+  {
+    "question": "The process by which plants lose water vapor is?",
+    "options": ["Evaporation", "Transpiration", "Guttation", "Condensation"],
+    "correctAnswer": "Transpiration",
+    "explanation": "Water loss through stomata drives transpiration pull."
+  },
+  {
+    "question": "Which of these is a biotic factor?",
+    "options": ["pH", "Temperature", "Predation", "Rainfall"],
+    "correctAnswer": "Predation",
+    "explanation": "Biotic factors involve living organisms (e.g., competition, predation)."
+  },
+  {
+    "question": "The main nitrogenous waste in birds is?",
+    "options": ["Ammonia", "Urea", "Uric acid", "Nitrate"],
+    "correctAnswer": "Uric acid",
+    "explanation": "Uric acid is semi-solid, conserving water in terrestrial birds."
+  },
+  {
+    "question": "Which gland regulates calcium metabolism?",
+    "options": ["Thyroid", "Parathyroid", "Adrenal", "Pituitary"],
+    "correctAnswer": "Parathyroid",
+    "explanation": "Parathyroid hormone (PTH) increases blood calcium levels."
+  },
+  {
+    "question": "The first law of thermodynamics states that energy is?",
+    "options": [
+      "Created in reactions",
+      "Destroyed over time",
+      "Constant in open systems",
+      "Neither created nor destroyed"
+    ],
+    "correctAnswer": "Neither created nor destroyed",
+    "explanation": "Energy transforms from one form to another but is conserved."
+  },
+  {
+    "question": "In a food web, tertiary consumers feed on?",
+    "options": [
+      "Producers",
+      "Primary consumers",
+      "Secondary consumers",
+      "Decomposers"
+    ],
+    "correctAnswer": "Secondary consumers",
+    "explanation": "Tertiary consumers are carnivores eating other carnivores."
+  },
+  {
+    "question": "The genetic disorder with XXY chromosome is?",
+    "options": [
+      "Down syndrome",
+      "Turner syndrome",
+      "Klinefelter syndrome",
+      "Hemophilia"
+    ],
+    "correctAnswer": "Klinefelter syndrome",
+    "explanation": "Klinefelter (47, XXY) causes male infertility and tall stature."
+  },
+  {
+    "question": "Which plant is a carnivore?",
+    "options": ["Cactus", "Venus flytrap", "Moss", "Fern"],
+    "correctAnswer": "Venus flytrap",
+    "explanation": "Traps and digests insects for nitrogen in poor soils."
+  },
+  {
+    "question": "The hormone that triggers ovulation is?",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "Luteinizing hormone (LH)",
+      "Follicle-stimulating hormone (FSH)"
+    ],
+    "correctAnswer": "Luteinizing hormone (LH)",
+    "explanation": "LH surge causes ovarian follicle rupture releasing ovum."
+  },
+  {
+    "question": "Which structure develops into the fruit after fertilization?",
+    "options": ["Ovule", "Ovary", "Stigma", "Style"],
+    "correctAnswer": "Ovary",
+    "explanation": "Ovary wall thickens to form fruit protecting seeds."
+  },
+  {
+    "question": "The process by which bacteria reproduce asexually is?",
+    "options": ["Meiosis", "Binary fission", "Conjugation", "Budding"],
+    "correctAnswer": "Binary fission",
+    "explanation": "Cell splits into two identical daughter cells."
+  },
+  {
+    "question": "Which organ produces bile?",
+    "options": ["Gallbladder", "Pancreas", "Liver", "Stomach"],
+    "correctAnswer": "Liver",
+    "explanation": "Liver synthesizes bile; gallbladder stores and concentrates it."
+  },
+  {
+    "question": "The primary function of hemoglobin is?",
+    "options": [
+      "Blood clotting",
+      "Oxygen transport",
+      "Immune response",
+      "Hormone production"
+    ],
+    "correctAnswer": "Oxygen transport",
+    "explanation": "Hemoglobin in RBCs binds O₂ in lungs and releases it in tissues."
+  },
+  {
+    "question": "Which biome has the highest biodiversity?",
+    "options": ["Tundra", "Desert", "Tropical rainforest", "Temperate forest"],
+    "correctAnswer": "Tropical rainforest",
+    "explanation": "High rainfall and temperature support diverse plant/animal life."
+  },
+  {
+    "question": "The scientist who discovered penicillin was?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming",
+      "Joseph Lister"
+    ],
+    "correctAnswer": "Alexander Fleming",
+    "explanation": "Fleming observed antibiotic properties of Penicillium mold (1928)."
+  },
+  {
+    "question": "Which part of the flower produces pollen?",
+    "options": ["Stigma", "Anther", "Filament", "Sepal"],
+    "correctAnswer": "Anther",
+    "explanation": "Anthers contain microsporangia producing pollen grains."
+  },
+  {
+    "question": "The process where plants convert light energy to chemical energy is?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Chemosynthesis",
+      "Transpiration"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (in chloroplasts)."
+  },
+  {
+    "question": "Which is a density-dependent limiting factor?",
+    "options": ["Earthquake", "Wildfire", "Competition", "Volcanic eruption"],
+    "correctAnswer": "Competition",
+    "explanation": "Intensifies with population density (e.g., food, space)."
+  },
+  {
+    "question": "The functional unit of the nervous system is the?",
+    "options": ["Axon", "Dendrite", "Neuron", "Synapse"],
+    "correctAnswer": "Neuron",
+    "explanation": "Neurons transmit electrical impulses and process information."
+  },
+  {
+    "question": "In humans, the allele for brown eyes (B) is dominant over blue (b). A heterozygous individual would have?",
+    "options": ["Blue eyes", "Brown eyes", "Green eyes", "Hazel eyes"],
+    "correctAnswer": "Brown eyes",
+    "explanation": "Heterozygous (Bb) expresses dominant brown eye phenotype."
+  },
+  {
+    "question": "Which gas is a greenhouse gas?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctAnswer": "Carbon dioxide",
+    "explanation": "CO₂ traps infrared radiation causing global warming."
+  },
+  {
+    "question": "The stage in mitosis where chromosomes align equatorially is?",
+    "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "correctAnswer": "Metaphase",
+    "explanation": "Chromosomes line up at metaphase plate before separation."
+  },
+  {
+    "question": "Which organism causes malaria?",
+    "options": ["Bacteria", "Virus", "Protozoan", "Fungus"],
+    "correctAnswer": "Protozoan",
+    "explanation": "Plasmodium spp. (protist) transmitted by Anopheles mosquitoes."
+  },
+  {
+    "question": "The hormone that reduces blood glucose is?",
+    "options": ["Glucagon", "Insulin", "Adrenaline", "Cortisol"],
+    "correctAnswer": "Insulin",
+    "explanation": "Insulin promotes glucose uptake by cells and glycogen synthesis."
+  },
+  {
+    "question": "Which structure is part of the human male reproductive system?",
+    "options": ["Ovary", "Uterus", "Vas deferens", "Fallopian tube"],
+    "correctAnswer": "Vas deferens",
+    "explanation": "Duct transporting sperm from epididymis to urethra."
   }
 ]
