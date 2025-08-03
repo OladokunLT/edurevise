@@ -1,0 +1,1777 @@
+[
+  {
+    "question": "A political system where the state owns and controls major means of production is called?",
+    "options": ["Socialism", "Capitalism", "Feudalism", "Fascism"],
+    "correctAnswer": "Socialism",
+    "explanation": "Socialism advocates state ownership/control of productive resources to ensure equitable distribution. Capitalism promotes private ownership, feudalism is land-based hierarchy, while fascism emphasizes authoritarian nationalism."
+  },
+  {
+    "question": "The primary function of government is to?",
+    "options": [
+      "Maintain law and order",
+      "Provide employment",
+      "Build infrastructure",
+      "Control the economy"
+    ],
+    "correctAnswer": "Maintain law and order",
+    "explanation": "Government's fundamental role is preserving societal stability through legal frameworks and security apparatus. Other options are secondary functions that support this primary objective."
+  },
+  {
+    "question": "Which defines a state in political theory?",
+    "options": [
+      "Population, territory, government, sovereignty",
+      "Army, constitution, currency, religion",
+      "President, parliament, judiciary, police",
+      "Elections, political parties, pressure groups, media"
+    ],
+    "correctAnswer": "Population, territory, government, sovereignty",
+    "explanation": "The Montevideo Convention (1933) established these four elements as constitutive of statehood. Sovereignty (supreme legal authority) is the most critical distinguishing factor."
+  },
+  {
+    "question": "The principle of separation of powers was championed by?",
+    "options": [
+      "Baron de Montesquieu",
+      "John Locke",
+      "Thomas Hobbes",
+      "Karl Marx"
+    ],
+    "correctAnswer": "Baron de Montesquieu",
+    "explanation": "Montesquieu articulated this doctrine in 'The Spirit of Laws' (1748) to prevent tyranny by dividing government functions among legislative, executive, and judicial branches."
+  },
+  {
+    "question": "Universal Adult Suffrage refers to?",
+    "options": [
+      "Voting rights for all adult citizens",
+      "Right to contest elections",
+      "Voting without discrimination",
+      "Compulsory voting system"
+    ],
+    "correctAnswer": "Voting rights for all adult citizens",
+    "explanation": "This principle grants voting rights to all adults (usually 18+) regardless of gender, race, or property ownership. Nigeria adopted it in 1979 after the 1951 limited suffrage."
+  },
+  {
+    "question": "The main purpose of a constitution is to?",
+    "options": [
+      "Regulate government powers",
+      "Establish political parties",
+      "Create local governments",
+      "Determine tax rates"
+    ],
+    "correctAnswer": "Regulate government powers",
+    "explanation": "Constitutions serve as supreme legal frameworks that define governmental structures, allocate powers, and protect citizens' rights against arbitrary rule."
+  },
+  {
+    "question": "A system where two levels of government derive powers from a central authority is?",
+    "options": [
+      "Unitary system",
+      "Federal system",
+      "Confederal system",
+      "Presidential system"
+    ],
+    "correctAnswer": "Unitary system",
+    "explanation": "In unitary systems (e.g., UK), subnational governments exercise powers delegated by the central government. Federal systems (e.g., Nigeria) share sovereignty constitutionally."
+  },
+  {
+    "question": "Citizenship by naturalization requires?",
+    "options": [
+      "Birth within territory",
+      "Marriage to citizen",
+      "Presidential decree",
+      "Residency and application"
+    ],
+    "correctAnswer": "Residency and application",
+    "explanation": "Naturalization involves formal application after fulfilling residency requirements (15+ years in Nigeria), language proficiency, and oath of allegiance per Section 26 of the 1999 Constitution."
+  },
+  {
+    "question": "The primary role of the legislature is?",
+    "options": [
+      "Law implementation",
+      "Law interpretation",
+      "Lawmaking",
+      "Budget execution"
+    ],
+    "correctAnswer": "Lawmaking",
+    "explanation": "Legislatures (e.g., National Assembly) create, amend, and repeal laws. Implementation is executive's duty, while interpretation belongs to the judiciary."
+  },
+  {
+    "question": "Judicial review allows courts to?",
+    "options": [
+      "Appoint judges",
+      "Review executive appointments",
+      "Nullify unconstitutional laws",
+      "Draft new legislation"
+    ],
+    "correctAnswer": "Nullify unconstitutional laws",
+    "explanation": "This power enables courts (e.g., Supreme Court) to invalidate laws violating the constitution, a key check in separation of powers. Established in Marbury v Madison (1803)."
+  },
+  {
+    "question": "Which is a feature of pressure groups?",
+    "options": [
+      "Seeking governmental power",
+      "Nominating presidential candidates",
+      "Influencing public policies",
+      "Contesting elections"
+    ],
+    "correctAnswer": "Influencing public policies",
+    "explanation": "Pressure groups (e.g., NLC, NMA) advocate for specific interests through lobbying, protests, and media campaigns without directly seeking political office."
+  },
+  {
+    "question": "The 'rule of law' implies?",
+    "options": [
+      "Laws made by parliament",
+      "Equality before the law",
+      "Military legal decrees",
+      "Religious laws supremacy"
+    ],
+    "correctAnswer": "Equality before the law",
+    "explanation": "A.V. Dicey's concept means all persons (including officials) are subject to the same laws, with disputes resolved through independent judiciary proceedings."
+  },
+  {
+    "question": "A constitution that can be amended like ordinary laws is?",
+    "options": [
+      "Rigid constitution",
+      "Flexible constitution",
+      "Written constitution",
+      "Unwritten constitution"
+    ],
+    "correctAnswer": "Flexible constitution",
+    "explanation": "Flexible constitutions (e.g., UK) allow amendments through simple legislative majority. Rigid constitutions (e.g., Nigeria) require special procedures like 2/3 legislative approval."
+  },
+  {
+    "question": "The principle of checks and balances aims to?",
+    "options": [
+      "Speed up governance",
+      "Concentrate power",
+      "Prevent abuse of power",
+      "Reduce government expenditure"
+    ],
+    "correctAnswer": "Prevent abuse of power",
+    "explanation": "This system creates mutual oversight among government branches (e.g., presidential veto, legislative impeachment, judicial review) to limit any branch's dominance."
+  },
+  {
+    "question": "In a parliamentary system, the head of government is usually the?",
+    "options": ["President", "Monarch", "Prime Minister", "Chief Justice"],
+    "correctAnswer": "Prime Minister",
+    "explanation": "The Prime Minister (drawn from the legislature) heads the government, while the President/Monarch serves as ceremonial head of state. Nigeria practiced this in 1960-1966."
+  },
+  {
+    "question": "Public opinion is best measured through?",
+    "options": [
+      "Military decrees",
+      "Scientific polls",
+      "Cabinet resolutions",
+      "Judicial pronouncements"
+    ],
+    "correctAnswer": "Scientific polls",
+    "explanation": "Random-sampled surveys by credible agencies (e.g., NOIPolls) provide statistically valid measures of population views on issues, minimizing selection bias."
+  },
+  {
+    "question": "The civil service is characterized by?",
+    "options": [
+      "Political patronage",
+      "Permanent tenure",
+      "Elected officials",
+      "Partisan decision-making"
+    ],
+    "correctAnswer": "Permanent tenure",
+    "explanation": "Civil servants enjoy career permanence (barring misconduct) to ensure policy continuity, neutrality, and expertise regardless of political changes."
+  },
+  {
+    "question": "Which organ implements government policies?",
+    "options": ["Legislature", "Judiciary", "Executive", "Armed forces"],
+    "correctAnswer": "Executive",
+    "explanation": "The executive branch (led by President/Governors) enforces laws through ministries, agencies, and security services per Sections 5(1) and 130(2) of Nigeria's Constitution."
+  },
+  {
+    "question": "A major feature of fascism is?",
+    "options": [
+      "Individual liberty",
+      "Multi-party system",
+      "Extreme nationalism",
+      "Classless society"
+    ],
+    "correctAnswer": "Extreme nationalism",
+    "explanation": "Fascism (e.g., Mussolini's Italy) emphasizes ultranationalism, authoritarian leadership, and suppression of opposition, rejecting liberal democracy."
+  },
+  {
+    "question": "The primary purpose of the United Nations is to?",
+    "options": [
+      "Establish world government",
+      "Promote international trade",
+      "Maintain global peace",
+      "Standardize education"
+    ],
+    "correctAnswer": "Maintain global peace",
+    "explanation": "UN Charter Article 1 commits to preventing war through diplomacy, peacekeeping, and collective security, with other objectives supporting this goal."
+  },
+  {
+    "question": "A constitution derived from customs and traditions is termed?",
+    "options": [
+      "Written constitution",
+      "Federal constitution",
+      "Rigid constitution",
+      "Unwritten constitution"
+    ],
+    "correctAnswer": "Unwritten constitution",
+    "explanation": "Unwritten constitutions (e.g., UK's) evolve from statutes, judicial precedents, and conventions rather than a single codified document."
+  },
+  {
+    "question": "Which is a function of political parties?",
+    "options": [
+      "Interpreting laws",
+      "Implementing policies",
+      "Aggregating interests",
+      "Appointing judges"
+    ],
+    "correctAnswer": "Aggregating interests",
+    "explanation": "Parties consolidate diverse public demands into coherent policy platforms, bridging society and government through manifestos and representation."
+  },
+  {
+    "question": "The principle of separation of powers is most associated with which system?",
+    "options": [
+      "Parliamentary system",
+      "Presidential system",
+      "Monarchical system",
+      "Communist system"
+    ],
+    "correctAnswer": "Presidential system",
+    "explanation": "Presidential systems (e.g., USA, Nigeria) strictly separate personnel and functions of the three branches, unlike parliamentary systems with fused legislative-executive roles."
+  },
+  {
+    "question": "Citizens' political attitudes are primarily formed through?",
+    "options": [
+      "Political socialization",
+      "Electoral campaigns",
+      "Judicial processes",
+      "Taxation systems"
+    ],
+    "correctAnswer": "Political socialization",
+    "explanation": "This lifelong process involves family, schools, media, and peers transmitting political values, knowledge, and behaviors across generations."
+  },
+  {
+    "question": "The main difference between power and authority is that authority involves?",
+    "options": ["Coercion", "Legitimacy", "Resources", "Influence"],
+    "correctAnswer": "Legitimacy",
+    "explanation": "Authority is power recognized as rightful by subordinates (e.g., via elections or tradition), whereas power may be exercised through force without consent."
+  },
+  {
+    "question": "A referendum is used to?",
+    "options": [
+      "Elect representatives",
+      "Approve specific policies",
+      "Settle court cases",
+      "Form political parties"
+    ],
+    "correctAnswer": "Approve specific policies",
+    "explanation": "Referendums allow direct citizen votes on critical issues (e.g., constitutional amendments), enhancing participatory democracy beyond representative channels."
+  },
+  {
+    "question": "The OAU was replaced by the African Union in?",
+    "options": ["1963", "1980", "1999", "2002"],
+    "correctAnswer": "2002",
+    "explanation": "The AU was launched in Durban on July 9, 2002, succeeding the OAU (1963-1999) to promote deeper integration and address contemporary challenges."
+  },
+  {
+    "question": "Which defines a confederal system?",
+    "options": [
+      "Strong central government",
+      "Sovereign states with weak center",
+      "Single unitary authority",
+      "Fusion of legislative-executive"
+    ],
+    "correctAnswer": "Sovereign states with weak center",
+    "explanation": "Confederations (e.g., ECOWAS) feature autonomous states delegating limited powers to a central body, which lacks direct authority over citizens."
+  },
+  {
+    "question": "The judiciary's independence is protected by?",
+    "options": [
+      "Security votes",
+      "Legislative oversight",
+      "Tenure and remuneration safeguards",
+      "Executive appointments"
+    ],
+    "correctAnswer": "Tenure and remuneration safeguards",
+    "explanation": "Section 291 of Nigeria's Constitution secures judicial tenure until retirement age (65/70) and guarantees salaries from consolidated fund to prevent executive coercion."
+  },
+  {
+    "question": "A military coup d'état involves?",
+    "options": [
+      "Peaceful election",
+      "Constitutional amendment",
+      "Violent seizure of power",
+      "Judicial impeachment"
+    ],
+    "correctAnswer": "Violent seizure of power",
+    "explanation": "Coups are illegal armed takeovers of government, common in Africa post-independence. Nigeria experienced six coups between 1966-1993."
+  },
+  {
+    "question": "The concept of 'federal character' in Nigeria aims to ensure?",
+    "options": [
+      "Regional dominance",
+      "Ethnic representation",
+      "Military supremacy",
+      "Religious uniformity"
+    ],
+    "correctAnswer": "Ethnic representation",
+    "explanation": "Section 14(3) of the 1999 Constitution mandates equitable appointments across states to promote national unity and reduce marginalization grievances."
+  },
+  {
+    "question": "Which is a feature of democracy?",
+    "options": [
+      "One-party rule",
+      "Limited suffrage",
+      "Periodic elections",
+      "Authoritarian leadership"
+    ],
+    "correctAnswer": "Periodic elections",
+    "explanation": "Regular free/fair elections (as in Nigeria's 4-year cycle) enable peaceful power transitions and accountability, distinguishing democracies from authoritarian systems."
+  },
+  {
+    "question": "The main function of the Public Complaints Commission is?",
+    "options": [
+      "Prosecuting criminals",
+      "Investigating administrative injustice",
+      "Drafting legislation",
+      "Conducting elections"
+    ],
+    "correctAnswer": "Investigating administrative injustice",
+    "explanation": "Established in 1975, this ombudsman institution addresses citizens' grievances against maladministration in public agencies, promoting accountability."
+  },
+  {
+    "question": "Political sovereignty resides with the?",
+    "options": ["Constitution", "Head of state", "Electorate", "Military"],
+    "correctAnswer": "Electorate",
+    "explanation": "In democracies, ultimate power rests with citizens who delegate authority to representatives through elections, as enshrined in constitutional preambles."
+  },
+  {
+    "question": "A major weakness of the Westminster system in Nigeria was?",
+    "options": [
+      "Judicial activism",
+      "Regional polarization",
+      "Excessive centralization",
+      "Military neutrality"
+    ],
+    "correctAnswer": "Regional polarization",
+    "explanation": "The 1960-66 parliamentary system intensified ethnic-regional divisions through winner-takes-all politics, contributing to the 1966 coups and civil war."
+  },
+  {
+    "question": "Which organ is responsible for interpreting laws?",
+    "options": ["Legislature", "Executive", "Judiciary", "Civil service"],
+    "correctAnswer": "Judiciary",
+    "explanation": "Courts interpret legislation during disputes, establish precedents, and determine constitutional compliance per Section 6 of Nigeria's Constitution."
+  },
+  {
+    "question": "The principle of collective responsibility applies to?",
+    "options": ["Judges", "Cabinet ministers", "Civil servants", "Legislators"],
+    "correctAnswer": "Cabinet ministers",
+    "explanation": "In parliamentary/cabinet systems, ministers must publicly support government decisions or resign, ensuring executive unity and accountability to the legislature."
+  },
+  {
+    "question": "Nigeria's foreign policy is primarily guided by?",
+    "options": [
+      "Religious doctrines",
+      "National interest",
+      "Colonial affiliations",
+      "Military alliances"
+    ],
+    "correctAnswer": "National interest",
+    "explanation": "Section 19 of the 1999 Constitution outlines principles like African unity and world peace, but actual policies prioritize economic/security interests (e.g., ECOWAS leadership)."
+  },
+  {
+    "question": "A major feature of feudalism is?",
+    "options": [
+      "Industrial production",
+      "Loyalty to the state",
+      "Lord-vassal relationship",
+      "Universal suffrage"
+    ],
+    "correctAnswer": "Lord-vassal relationship",
+    "explanation": "Feudal systems (pre-1789 Europe) were based on land grants in exchange for military service and allegiance, creating hierarchical obligations between nobles and serfs."
+  },
+  {
+    "question": "The primary purpose of the National Youth Service Corps (NYSC) is to promote?",
+    "options": [
+      "Military training",
+      "National integration",
+      "Foreign employment",
+      "Political education"
+    ],
+    "correctAnswer": "National integration",
+    "explanation": "Established in 1973 post-civil war, NYSC deploys graduates outside their ethnic regions for one-year service to foster inter-cultural understanding and unity."
+  },
+  {
+    "question": "Which is a source of government revenue?",
+    "options": [
+      "Public opinion",
+      "Party donations",
+      "Taxation",
+      "Judicial fines"
+    ],
+    "correctAnswer": "Taxation",
+    "explanation": "Taxes (income, VAT, customs) constitute >70% of government revenue in Nigeria, authorized by laws like the Taxes and Levies Act. Fines are minor income sources."
+  },
+  {
+    "question": "A constitution is considered illegitimate if it lacks?",
+    "options": [
+      "Foreign recognition",
+      "Popular acceptance",
+      "Military backing",
+      "Lengthy provisions"
+    ],
+    "correctAnswer": "Popular acceptance",
+    "explanation": "Constitutional legitimacy stems from citizen consent via referendum or constituent assembly, not mere legal enactment. Nigeria's 1999 Constitution faces legitimacy debates due to its military origin."
+  },
+  {
+    "question": "The main objective of the Economic Community of West African States (ECOWAS) is to promote?",
+    "options": [
+      "Religious unity",
+      "Regional economic integration",
+      "Military conquest",
+      "Cultural assimilation"
+    ],
+    "correctAnswer": "Regional economic integration",
+    "explanation": "Founded in 1975, ECOWAS aims to create a common market through free movement, trade liberalization, and monetary cooperation, though political/security roles have expanded."
+  },
+  {
+    "question": "A system with multiple levels of government sharing constitutional powers is?",
+    "options": ["Unitary", "Federal", "Confederal", "Monarchical"],
+    "correctAnswer": "Federal",
+    "explanation": "Federal systems (e.g., Nigeria, USA) constitutionally divide powers between central and regional governments, each sovereign in their spheres."
+  },
+  {
+    "question": "The concept of 'rule of law' was popularized by?",
+    "options": [
+      "Jean-Jacques Rousseau",
+      "Thomas Hobbes",
+      "A.V. Dicey",
+      "Plato"
+    ],
+    "correctAnswer": "A.V. Dicey",
+    "explanation": "British jurist Albert Venn Dicey elaborated this doctrine in 'Introduction to the Law of the Constitution' (1885), emphasizing legal equality and due process."
+  },
+  {
+    "question": "Which factor is essential for political participation?",
+    "options": [
+      "High income",
+      "Political awareness",
+      "Foreign residency",
+      "Military service"
+    ],
+    "correctAnswer": "Political awareness",
+    "explanation": "Informed citizens are more likely to vote, join parties, or protest. Voter education by INEC and NGOs aims to boost participation in Nigeria's elections."
+  },
+  {
+    "question": "The primary role of the executive in lawmaking is to?",
+    "options": [
+      "Interpret bills",
+      "Initiate bills",
+      "Adjudicate bills",
+      "Veto bills"
+    ],
+    "correctAnswer": "Initiate bills",
+    "explanation": "Executives propose most legislation (especially budgets) via ministers. Presidents/Governors also assent to or veto bills passed by legislatures per constitutional procedures."
+  },
+  {
+    "question": "A major challenge of local government administration in Nigeria is?",
+    "options": [
+      "Excessive autonomy",
+      "Adequate funding",
+      "Political interference",
+      "Judicial oversight"
+    ],
+    "correctAnswer": "Political interference",
+    "explanation": "State governors often undermine LG autonomy by controlling finances (via State Joint Accounts) and removing elected officials, contravening Section 7 of the Constitution."
+  },
+  {
+    "question": "The principle of 'one man, one vote' promotes?",
+    "options": [
+      "Plural voting",
+      "Weighted voting",
+      "Universal suffrage",
+      "Census accuracy"
+    ],
+    "correctAnswer": "Universal suffrage",
+    "explanation": "This phrase advocates equal voting rights for all adults, rejecting property, gender, or literacy qualifications that limited suffrage historically."
+  },
+  {
+    "question": "A state's monopoly of legitimate force is emphasized by?",
+    "options": ["Karl Marx", "Max Weber", "Mahatma Gandhi", "Adam Smith"],
+    "correctAnswer": "Max Weber",
+    "explanation": "Weber defined the state as claiming 'monopoly of legitimate physical violence' within a territory, distinguishing it from other organizations."
+  },
+  {
+    "question": "The main function of the Code of Conduct Bureau is to?",
+    "options": [
+      "Draft new laws",
+      "Prosecute criminals",
+      "Prevent public corruption",
+      "Conduct elections"
+    ],
+    "correctAnswer": "Prevent public corruption",
+    "explanation": "Established by Section 153 of the 1999 Constitution, it mandates asset declarations by public officers to curb illicit enrichment and conflicts of interest."
+  },
+  {
+    "question": "Which defines a multi-party system?",
+    "options": [
+      "Two dominant parties",
+      "Single legal party",
+      "Three or more competitive parties",
+      "Party-less elections"
+    ],
+    "correctAnswer": "Three or more competitive parties",
+    "explanation": "Multi-party systems (e.g., Nigeria's 18+ parties) allow diverse ideological representation, though few parties typically dominate elections."
+  },
+  {
+    "question": "A key feature of communism is?",
+    "options": [
+      "Private property",
+      "Class struggle",
+      "Free market economy",
+      "Religious governance"
+    ],
+    "correctAnswer": "Class struggle",
+    "explanation": "Marxist theory posits that history advances through class conflicts (e.g., proletariat vs bourgeoisie), culminating in a stateless, egalitarian society."
+  },
+  {
+    "question": "The United Nations Security Council has how many permanent members?",
+    "options": ["5", "10", "15", "20"],
+    "correctAnswer": "5",
+    "explanation": "China, France, Russia, UK, and USA hold permanent seats with veto power. There are also 10 non-permanent members elected for two-year terms."
+  },
+  {
+    "question": "Citizenship rights do NOT include the right to?",
+    "options": ["Vote", "Own property", "Bear arms", "Fair trial"],
+    "correctAnswer": "Bear arms",
+    "explanation": "Unlike the US Second Amendment, Nigeria's Constitution (Chapter IV) omits arms-bearing as a right due to security concerns. Gun licenses are strictly regulated."
+  },
+  {
+    "question": "The primary purpose of the census is to?",
+    "options": [
+      "Collect taxes",
+      "Determine population size",
+      "Appoint chiefs",
+      "Register voters"
+    ],
+    "correctAnswer": "Determine population size",
+    "explanation": "Censuses provide demographic data for resource allocation, representation, and planning. Nigeria's disputed censuses (e.g., 1973, 2006) impact revenue sharing and political power."
+  },
+  {
+    "question": "A constitution is classified as written when it is?",
+    "options": [
+      "Enacted by legislature",
+      "Codified in a single document",
+      "Based on judicial precedents",
+      "Unchangeable"
+    ],
+    "correctAnswer": "Codified in a single document",
+    "explanation": "Written constitutions (e.g., Nigeria's 1999 Constitution) are consolidated into one authoritative text, distinct from unwritten systems relying on multiple sources."
+  },
+  {
+    "question": "The principle of separation of powers is designed to?",
+    "options": [
+      "Increase government efficiency",
+      "Concentrate authority",
+      "Prevent tyranny",
+      "Reduce election costs"
+    ],
+    "correctAnswer": "Prevent tyranny",
+    "explanation": "By dividing powers among branches, no single entity can dominate, protecting liberty. James Madison called this 'essential to preserve liberty' in Federalist Papers."
+  },
+  {
+    "question": "Which is a method of acquiring citizenship?",
+    "options": ["Conquest", "Honorary titles", "Birth", "Marriage only"],
+    "correctAnswer": "Birth",
+    "explanation": "Jus soli (birth within territory) and jus sanguinis (parental citizenship) are primary citizenship modes. Marriage facilitates naturalization but isn't automatic."
+  },
+  {
+    "question": "The official report of parliamentary proceedings is called?",
+    "options": ["Gazette", "Hansard", "Manifesto", "White Paper"],
+    "correctAnswer": "Hansard",
+    "explanation": "Named after 19th-century printer Luke Hansard, it verbatim records legislative debates. Nigeria's National Assembly publishes Hansard for public accountability."
+  },
+  {
+    "question": "A major feature of pressure groups is that they?",
+    "options": [
+      "Seek governmental power",
+      "Are internally democratic",
+      "Promote specific interests",
+      "Nominate presidential candidates"
+    ],
+    "correctAnswer": "Promote specific interests",
+    "explanation": "Pressure groups (e.g., ASUU, NLC) advocate for sectoral concerns (education, labor) without aiming to govern, unlike parties that seek elective offices."
+  },
+  {
+    "question": "The concept of 'residual powers' in federalism refers to powers?",
+    "options": [
+      "Exclusively held by the center",
+      "Shared by multiple levels",
+      "Not assigned to any level",
+      "Exercised by local governments"
+    ],
+    "correctAnswer": "Not assigned to any level",
+    "explanation": "In Nigeria's federalism, residual powers (e.g., marriage, markets) belong to states per Item 68 of the Exclusive Legislative List and Section 4(7) of the Constitution."
+  },
+  {
+    "question": "The first military coup in Nigeria occurred in?",
+    "options": ["1960", "1963", "1966", "1970"],
+    "correctAnswer": "1966",
+    "explanation": "Major Chukwuma Nzeogwu led the January 15, 1966 coup, overthrowing the First Republic and initiating military rule until 1979."
+  },
+  {
+    "question": "The primary function of the legislature is?",
+    "options": [
+      "Budget implementation",
+      "Policy execution",
+      "Lawmaking",
+      "Law adjudication"
+    ],
+    "correctAnswer": "Lawmaking",
+    "explanation": "Legislatures create laws through bills, debates, and votes. In Nigeria, the National Assembly (Sections 4, 58-59) and State Assemblies perform this role."
+  },
+  {
+    "question": "A system where religion controls the state is?",
+    "options": ["Secularism", "Theocracy", "Liberalism", "Socialism"],
+    "correctAnswer": "Theocracy",
+    "explanation": "Theocratic states (e.g., Iran, Vatican) derive legal authority from religious doctrines, with clergy often governing. Nigeria maintains secularism per Section 10 of its Constitution."
+  },
+  {
+    "question": "Which is a feature of democracy?",
+    "options": [
+      "Censorship of press",
+      "Limited franchise",
+      "Majority rule with minority rights",
+      "One-party dominance"
+    ],
+    "correctAnswer": "Majority rule with minority rights",
+    "explanation": "Democratic systems respect electoral majorities while constitutionally protecting minority groups from oppression, ensuring inclusive governance."
+  },
+  {
+    "question": "The principle of 'collective responsibility' applies in?",
+    "options": [
+      "Presidential systems",
+      "Parliamentary systems",
+      "Military regimes",
+      "One-party states"
+    ],
+    "correctAnswer": "Parliamentary systems",
+    "explanation": "Cabinet members in parliamentary systems (e.g., UK) must publicly support government policies or resign, ensuring executive unity before the legislature."
+  },
+  {
+    "question": "A key function of the civil service is?",
+    "options": [
+      "Policy formulation",
+      "Partisan campaigning",
+      "Policy implementation",
+      "Law interpretation"
+    ],
+    "correctAnswer": "Policy implementation",
+    "explanation": "Civil servants execute government policies through administrative structures while maintaining political neutrality, distinct from ministers who formulate policies."
+  },
+  {
+    "question": "The term 'franchise' is synonymous with?",
+    "options": ["Taxation", "Suffrage", "Legislation", "Litigation"],
+    "correctAnswer": "Suffrage",
+    "explanation": "Franchise denotes the right to vote in public elections. Nigeria achieved universal adult suffrage in 1979 after limited colonial-era voting rights."
+  },
+  {
+    "question": "A major advantage of the unitary system is?",
+    "options": [
+      "Promoting regional diversity",
+      "Quick decision-making",
+      "Encouraging local autonomy",
+      "Reducing bureaucracy"
+    ],
+    "correctAnswer": "Quick decision-making",
+    "explanation": "Centralized authority enables faster policy responses to national issues compared to federal systems requiring multi-level consultations."
+  },
+  {
+    "question": "The head of the Commonwealth is the?",
+    "options": [
+      "UN Secretary-General",
+      "British Monarch",
+      "African Union Chair",
+      "US President"
+    ],
+    "correctAnswer": "British Monarch",
+    "explanation": "Queen Elizabeth II served as ceremonial head until her death in 2022; King Charles III now holds this symbolic role in the 56-member organization."
+  },
+  {
+    "question": "The primary purpose of the African Union is to?",
+    "options": [
+      "Promote European integration",
+      "Advance African unity and development",
+      "Establish a continental army",
+      "Create a single currency"
+    ],
+    "correctAnswer": "Advance African unity and development",
+    "explanation": "AU's Agenda 2063 focuses on political/economic integration, peace, and prosperity, succeeding the OAU's decolonization mandate."
+  },
+  {
+    "question": "A constitution that combines presidential and parliamentary features is termed?",
+    "options": ["Hybrid", "Flexible", "Rigid", "Unitary"],
+    "correctAnswer": "Hybrid",
+    "explanation": "Semi-presidential systems (e.g., France) feature both an elected president and a prime minister accountable to parliament. Nigeria's 1979 Constitution was purely presidential."
+  },
+  {
+    "question": "The concept of 'political culture' refers to?",
+    "options": [
+      "Government revenue systems",
+      "Citizens' political attitudes",
+      "Election campaign strategies",
+      "International treaties"
+    ],
+    "correctAnswer": "Citizens' political attitudes",
+    "explanation": "This encompasses shared beliefs, values, and behaviors toward politics (e.g., participation levels, trust in institutions) within a society."
+  },
+  {
+    "question": "Which body is responsible for conducting elections in Nigeria?",
+    "options": ["NASS", "EFCC", "INEC", "NCC"],
+    "correctAnswer": "INEC",
+    "explanation": "The Independent National Electoral Commission, established by Section 153 of the Constitution, organizes federal/state elections and registers parties."
+  },
+  {
+    "question": "A key feature of fascism is?",
+    "options": [
+      "Respect for human rights",
+      "Multi-party democracy",
+      "Supremacy of the state",
+      "Classless society"
+    ],
+    "correctAnswer": "Supremacy of the state",
+    "explanation": "Fascism glorifies the state as embodying national spirit, demanding total individual submission to its authority, often under a dictatorial leader."
+  },
+  {
+    "question": "The principle of 'judicial precedent' means courts must?",
+    "options": [
+      "Follow previous decisions",
+      "Ignore past rulings",
+      "Create new laws",
+      "Consult legislatures"
+    ],
+    "correctAnswer": "Follow previous decisions",
+    "explanation": "Stare decisis ensures legal consistency by binding lower courts to higher courts' interpretations, though apex courts can overrule precedents."
+  },
+  {
+    "question": "Which defines a state?",
+    "options": [
+      "A sovereign entity with defined territory",
+      "A province within a country",
+      "An international organization",
+      "A local government area"
+    ],
+    "correctAnswer": "A sovereign entity with defined territory",
+    "explanation": "States possess international legal personality (e.g., UN membership), distinguishing them from subnational units like Nigerian states or LGAs."
+  },
+  {
+    "question": "The main function of the executive is to?",
+    "options": ["Make laws", "Interpret laws", "Enforce laws", "Review laws"],
+    "correctAnswer": "Enforce laws",
+    "explanation": "Executives implement legislation through agencies, issue regulations, and maintain order via police/military per constitutional mandates."
+  },
+  {
+    "question": "A key difference between power and authority is that authority is?",
+    "options": [
+      "Always coercive",
+      "Based on legitimacy",
+      "Exercised by force",
+      "Unlimited in scope"
+    ],
+    "correctAnswer": "Based on legitimacy",
+    "explanation": "Authority implies recognized right to command (e.g., elected officials), while power may be exercised illegitimately through coercion or manipulation."
+  },
+  {
+    "question": "The concept of 'fundamental human rights' is enshrined in?",
+    "options": [
+      "Party manifestos",
+      "Government white papers",
+      "National constitutions",
+      "International trade agreements"
+    ],
+    "correctAnswer": "National constitutions",
+    "explanation": "Chapter IV of Nigeria's Constitution guarantees rights (life, dignity, fair trial, etc.), making them justiciable and superior to ordinary laws."
+  },
+  {
+    "question": "A major problem of public corporations is?",
+    "options": [
+      "Excessive profitability",
+      "Political interference",
+      "Limited public services",
+      "Overemployment"
+    ],
+    "correctAnswer": "Political interference",
+    "explanation": "Appointments based on patronage rather than merit often lead to inefficiency and corruption in state-owned enterprises like NNPC."
+  },
+  {
+    "question": "The term 'gerrymandering' refers to?",
+    "options": [
+      "Voter registration",
+      "Manipulating electoral boundaries",
+      "Campaign financing",
+      "Ballot counting"
+    ],
+    "correctAnswer": "Manipulating electoral boundaries",
+    "explanation": "This practice distorts constituency delimitation to favor a party, undermining fair representation. INEC faces allegations of this in Nigeria's redistricting."
+  },
+  {
+    "question": "The primary role of the opposition in democracy is to?",
+    "options": [
+      "Support government policies",
+      "Provide alternative governance proposals",
+      "Overthrow the government",
+      "Control the military"
+    ],
+    "correctAnswer": "Provide alternative governance proposals",
+    "explanation": "Opposition parties critique policies, offer alternatives, and prepare to govern, ensuring accountability and policy scrutiny."
+  },
+  {
+    "question": "A system where government ownership coexists with private enterprise is?",
+    "options": ["Capitalism", "Socialism", "Mixed economy", "Communism"],
+    "correctAnswer": "Mixed economy",
+    "explanation": "Most modern economies (including Nigeria) blend state control of key sectors (e.g., oil, utilities) with private market activities."
+  },
+  {
+    "question": "The main purpose of the United Nations is to?",
+    "options": [
+      "Establish a world government",
+      "Promote international peace and security",
+      "Standardize global education",
+      "Regulate international trade"
+    ],
+    "correctAnswer": "Promote international peace and security",
+    "explanation": "UN Charter Article 1 prioritizes conflict prevention through diplomacy, peacekeeping, and collective security mechanisms."
+  },
+  {
+    "question": "Which is a feature of a confederal system?",
+    "options": [
+      "Strong central government",
+      "Sovereign member states",
+      "Single constitution",
+      "Centralized judiciary"
+    ],
+    "correctAnswer": "Sovereign member states",
+    "explanation": "Confederations (e.g., pre-1789 US, ECOWAS) comprise independent states delegating minimal powers to a weak central body."
+  },
+  {
+    "question": "The principle of 'anonymity' in the civil service means civil servants?",
+    "options": [
+      "Work without supervision",
+      "Are not publicly known",
+      "Take responsibility for policies",
+      "Implement policies without public credit"
+    ],
+    "correctAnswer": "Implement policies without public credit",
+    "explanation": "Ministers receive public acclaim/blame for policies; civil servants execute them confidentially to ensure neutrality across administrations."
+  },
+  {
+    "question": "A major feature of the presidential system is?",
+    "options": [
+      "Fusion of powers",
+      "Collective responsibility",
+      "Separation of powers",
+      "Prime ministerial leadership"
+    ],
+    "correctAnswer": "Separation of powers",
+    "explanation": "Presidential systems strictly divide personnel and functions among executive, legislature, and judiciary to prevent concentration of power."
+  },
+  {
+    "question": "The concept of 'political socialization' begins primarily in the?",
+    "options": ["Family", "University", "Workplace", "Media"],
+    "correctAnswer": "Family",
+    "explanation": "Early childhood exposure to parental political views shapes initial attitudes, later reinforced by schools, peers, and other agents."
+  },
+  {
+    "question": "Which organ has the power to impeach the president?",
+    "options": ["Judiciary", "Executive", "Legislature", "Military"],
+    "correctAnswer": "Legislature",
+    "explanation": "Section 143 of Nigeria's Constitution empowers the National Assembly to remove the president for gross misconduct via two-thirds majority vote."
+  },
+  {
+    "question": "A key function of local governments is?",
+    "options": [
+      "Foreign policy",
+      "Defense",
+      "Primary healthcare",
+      "Currency issuance"
+    ],
+    "correctAnswer": "Primary healthcare",
+    "explanation": "Fourth Schedule of the Constitution assigns LGAs responsibilities like dispensaries, drains, and markets, though states often encroach on these functions."
+  },
+  {
+    "question": "The 'mandate theory' in democracy asserts that elected officials must?",
+    "options": [
+      "Implement campaign promises",
+      "Ignore voter preferences",
+      "Follow military directives",
+      "Pursue personal interests"
+    ],
+    "correctAnswer": "Implement campaign promises",
+    "explanation": "This theory holds that representatives are morally bound to fulfill electoral mandates, though practical constraints may limit this."
+  },
+  {
+    "question": "The primary purpose of the International Court of Justice is to?",
+    "options": [
+      "Prosecute individuals",
+      "Settle disputes between states",
+      "Enforce UN resolutions",
+      "Regulate global trade"
+    ],
+    "correctAnswer": "Settle disputes between states",
+    "explanation": "ICJ (The Hague) adjudicates legal conflicts among UN member states, e.g., Nigeria-Cameroon Bakassi Peninsula case (2002)."
+  },
+  {
+    "question": "A constitution is said to be 'rigid' when it?",
+    "options": [
+      "Cannot be amended",
+      "Requires complex amendment procedures",
+      "Is unwritten",
+      "Has no judicial review"
+    ],
+    "correctAnswer": "Requires complex amendment procedures",
+    "explanation": "Rigid constitutions (like Nigeria's) demand special processes (e.g., legislative supermajorities, referendum) for amendments to enhance stability."
+  },
+  {
+    "question": "The concept of 'popular sovereignty' means power resides with the?",
+    "options": ["Military", "Elite", "People", "Monarch"],
+    "correctAnswer": "People",
+    "explanation": "Democracies derive authority from citizen consent through elections, as stated in constitutional preambles ('We the people...')."
+  },
+  {
+    "question": "Which is a method of limiting government power?",
+    "options": [
+      "Centralization",
+      "Authoritarianism",
+      "Checks and balances",
+      "Military rule"
+    ],
+    "correctAnswer": "Checks and balances",
+    "explanation": "Institutional constraints (e.g., legislative oversight, judicial review, term limits) prevent power concentration and abuse."
+  },
+  {
+    "question": "The term 'government' refers to?",
+    "options": [
+      "The entire political system",
+      "The ruling party",
+      "The state territory",
+      "The administrative machinery"
+    ],
+    "correctAnswer": "The administrative machinery",
+    "explanation": "Government denotes the institutions (executive, legislature, judiciary) and processes through which a state's will is formulated and executed."
+  },
+  {
+    "question": "A key feature of capitalism is?",
+    "options": [
+      "State ownership of production",
+      "Private ownership of production",
+      "Central planning",
+      "Classless society"
+    ],
+    "correctAnswer": "Private ownership of production",
+    "explanation": "Capitalist systems prioritize private property, profit motive, and market competition with minimal state intervention in the economy."
+  },
+  {
+    "question": "The main function of the judiciary is to?",
+    "options": [
+      "Make laws",
+      "Execute laws",
+      "Interpret laws",
+      "Formulate policies"
+    ],
+    "correctAnswer": "Interpret laws",
+    "explanation": "Courts resolve disputes by applying legal principles to facts, ensuring justice and constitutional compliance."
+  },
+  {
+    "question": "Which defines a nation?",
+    "options": [
+      "A sovereign state",
+      "A people sharing common identity",
+      "A geographical region",
+      "A political party"
+    ],
+    "correctAnswer": "A people sharing common identity",
+    "explanation": "A nation is a community with shared language, history, or culture (e.g., Yoruba nation), which may or may not have statehood."
+  },
+  {
+    "question": "The principle of 'rule of law' implies that?",
+    "options": [
+      "Laws are supreme",
+      "The military makes laws",
+      "Citizens can ignore laws",
+      "Politicians are above the law"
+    ],
+    "correctAnswer": "Laws are supreme",
+    "explanation": "No individual or institution is above the law; all actions must have legal basis, and disputes settled through due process."
+  },
+  {
+    "question": "A major challenge of Nigerian federalism is?",
+    "options": [
+      "Excessive state autonomy",
+      "Revenue allocation disputes",
+      "Weak central government",
+      "Judicial interference"
+    ],
+    "correctAnswer": "Revenue allocation disputes",
+    "explanation": "Conflict over oil revenue sharing formulas (e.g., derivation principle) fuels tensions between Niger Delta and other regions, requiring frequent revisions."
+  },
+  {
+    "question": "The concept of 'political power' refers to the ability to?",
+    "options": [
+      "Influence government decisions",
+      "Control economic resources",
+      "Ignore legal constraints",
+      "Manipulate electoral results"
+    ],
+    "correctAnswer": "Influence government decisions",
+    "explanation": "Power involves shaping policy outcomes and resource allocation, exercised through formal office or informal influence networks."
+  },
+  {
+    "question": "Which organ ensures compliance with the constitution?",
+    "options": ["Legislature", "Executive", "Judiciary", "Civil service"],
+    "correctAnswer": "Judiciary",
+    "explanation": "Courts determine constitutional validity of laws/actions via judicial review, acting as guardians of the constitution."
+  },
+  {
+    "question": "A major feature of colonialism was?",
+    "options": [
+      "Respect for indigenous cultures",
+      "Economic exploitation",
+      "Political empowerment",
+      "Technological transfer"
+    ],
+    "correctAnswer": "Economic exploitation",
+    "explanation": "Colonial economies were structured to extract resources (e.g., Nigerian palm oil, minerals) for metropolitan industries, stifling local development."
+  },
+  {
+    "question": "The primary purpose of a census is to provide data for?",
+    "options": [
+      "Tax collection",
+      "Planning and development",
+      "Voter intimidation",
+      "Land confiscation"
+    ],
+    "correctAnswer": "Planning and development",
+    "explanation": "Population statistics guide infrastructure, healthcare, education, and resource allocation, essential for evidence-based policymaking."
+  },
+  {
+    "question": "A key function of political parties is to?",
+    "options": [
+      "Adjudicate disputes",
+      "Implement policies",
+      "Mobilize voters",
+      "Control the military"
+    ],
+    "correctAnswer": "Mobilize voters",
+    "explanation": "Parties educate citizens, recruit candidates, and rally support during elections, serving as vital linkage institutions in democracies."
+  },
+  {
+    "question": "The principle of 'collective responsibility' is associated with?",
+    "options": [
+      "Presidential systems",
+      "Military regimes",
+      "Parliamentary systems",
+      "One-party states"
+    ],
+    "correctAnswer": "Parliamentary systems",
+    "explanation": "Cabinet members must publicly support government decisions or resign, ensuring executive unity and accountability to parliament."
+  },
+  {
+    "question": "A major weakness of the first-past-the-post electoral system is that it?",
+    "options": [
+      "Ensures proportional representation",
+      "May produce winners without majority support",
+      "Is too complex for voters",
+      "Requires expensive technology"
+    ],
+    "correctAnswer": "May produce winners without majority support",
+    "explanation": "Candidates can win with plurality votes in multi-contender races, potentially marginalizing majority preferences. Nigeria uses this for executive elections."
+  },
+  {
+    "question": "The concept of 'judicial independence' means judges?",
+    "options": [
+      "Are above the law",
+      "Make laws freely",
+      "Are free from external control",
+      "Appoint themselves"
+    ],
+    "correctAnswer": "Are free from external control",
+    "explanation": "Insulation from political pressure (via secure tenure, salaries) enables impartial adjudication based on law, not expediency."
+  },
+  {
+    "question": "Which is a source of authority?",
+    "options": ["Coercion", "Tradition", "Wealth", "Force"],
+    "correctAnswer": "Tradition",
+    "explanation": "Traditional authority derives from long-established customs (e.g., kingship), distinct from charismatic or legal-rational legitimacy."
+  },
+  {
+    "question": "The main purpose of the Code of Conduct Tribunal is to?",
+    "options": [
+      "Register voters",
+      "Try public officers for misconduct",
+      "Draft new laws",
+      "Conduct foreign policy"
+    ],
+    "correctAnswer": "Try public officers for misconduct",
+    "explanation": "This court prosecutes breaches of Code of Conduct for Public Officers (Fifth Schedule, 1999 Constitution), e.g., false asset declarations."
+  },
+  {
+    "question": "A key feature of pressure groups is that they?",
+    "options": [
+      "Contest elections",
+      "Implement government policies",
+      "Influence policy from outside government",
+      "Control legislative processes"
+    ],
+    "correctAnswer": "Influence policy from outside government",
+    "explanation": "Groups like PENGASSAN (oil workers) lobby decision-makers, mobilize public opinion, and use strikes to sway policies without seeking office."
+  },
+  {
+    "question": "The term 'bicameral legislature' refers to a parliament with?",
+    "options": [
+      "One chamber",
+      "Two chambers",
+      "Military representation",
+      "Judicial oversight"
+    ],
+    "correctAnswer": "Two chambers",
+    "explanation": "Bicameral systems (e.g., Nigeria's Senate and House of Reps) allow broader representation and legislative review, though costly."
+  },
+  {
+    "question": "A major function of local government is?",
+    "options": [
+      "Foreign diplomacy",
+      "Defense",
+      "Trash collection",
+      "Currency control"
+    ],
+    "correctAnswer": "Trash collection",
+    "explanation": "LGAs handle basic services like waste management, local roads, and markets per Fourth Schedule of the Constitution."
+  },
+  {
+    "question": "The concept of 'political ideology' refers to?",
+    "options": [
+      "Electoral systems",
+      "Coherent political belief systems",
+      "Voting patterns",
+      "Census methods"
+    ],
+    "correctAnswer": "Coherent political belief systems",
+    "explanation": "Ideologies (e.g., liberalism, socialism) provide frameworks for understanding society and guiding political action through core values/principles."
+  },
+  {
+    "question": "Which defines sovereignty?",
+    "options": [
+      "Membership in the UN",
+      "Supreme authority within a territory",
+      "Control of natural resources",
+      "Large military capacity"
+    ],
+    "correctAnswer": "Supreme authority within a territory",
+    "explanation": "Sovereignty denotes unchallenged legal power domestically and independence externally, though globalization constrains absolute sovereignty."
+  },
+  {
+    "question": "The primary role of the police is to?",
+    "options": [
+      "Make laws",
+      "Interpret laws",
+      "Maintain order",
+      "Conduct trials"
+    ],
+    "correctAnswer": "Maintain order",
+    "explanation": "Police enforce laws, prevent/detect crime, and protect citizens, forming the frontline of internal security per Section 214 of the Constitution."
+  },
+  {
+    "question": "A key feature of democracy is?",
+    "options": [
+      "Limited franchise",
+      "Periodic elections",
+      "One-party rule",
+      "Censorship"
+    ],
+    "correctAnswer": "Periodic elections",
+    "explanation": "Regular free/fair elections enable peaceful power transitions and accountability, distinguishing democracies from authoritarian regimes."
+  },
+  {
+    "question": "The principle of 'separation of powers' was first implemented in?",
+    "options": [
+      "Ancient Greece",
+      "Roman Empire",
+      "United States",
+      "United Kingdom"
+    ],
+    "correctAnswer": "United States",
+    "explanation": "The US Constitution (1789) operationalized Montesquieu's theory through distinct branches with checks and balances, inspiring Nigeria's system."
+  },
+  {
+    "question": "A major problem of public administration in Nigeria is?",
+    "options": [
+      "Merit-based recruitment",
+      "Efficiency",
+      "Corruption",
+      "Inadequate personnel"
+    ],
+    "correctAnswer": "Corruption",
+    "explanation": "Bribery, embezzlement, and nepotism plague agencies like the NNPC, undermining service delivery despite anti-graft bodies (EFCC, ICPC)."
+  },
+  {
+    "question": "The term 'federal character' in Nigeria aims to ensure?",
+    "options": [
+      "Regional dominance",
+      "Ethnic balance in appointments",
+      "Religious uniformity",
+      "Military superiority"
+    ],
+    "correctAnswer": "Ethnic balance in appointments",
+    "explanation": "Section 14(3) mandates equitable distribution of public positions among states to foster national unity and reduce marginalization."
+  },
+  {
+    "question": "A key function of the legislature is to?",
+    "options": [
+      "Adjudicate cases",
+      "Appropriate funds",
+      "Execute policies",
+      "Arrest criminals"
+    ],
+    "correctAnswer": "Appropriate funds",
+    "explanation": "Through budget approval and oversight (e.g., Public Accounts Committee), legislatures control public finances, a critical check on executives."
+  },
+  {
+    "question": "The concept of 'citizenship' entails?",
+    "options": [
+      "Rights without duties",
+      "Duties without rights",
+      "Rights and duties",
+      "Allegiance to foreign states"
+    ],
+    "correctAnswer": "Rights and duties",
+    "explanation": "Citizens enjoy rights (vote, property) but bear duties (taxes, obedience to laws), creating reciprocal state-citizen obligations."
+  },
+  {
+    "question": "A major feature of unitary government is?",
+    "options": [
+      "Decentralized administration",
+      "Concentrated power",
+      "Independent regional governments",
+      "Multiple constitutions"
+    ],
+    "correctAnswer": "Concentrated power",
+    "explanation": "All significant authority resides in the central government, with subnational units acting as administrative extensions."
+  },
+  {
+    "question": "The primary purpose of the United Nations General Assembly is to?",
+    "options": [
+      "Enforce peace",
+      "Provide a forum for global deliberation",
+      "Appoint national leaders",
+      "Control international trade"
+    ],
+    "correctAnswer": "Provide a forum for global deliberation",
+    "explanation": "All UN members have equal representation in the General Assembly to discuss international issues and pass non-binding resolutions."
+  },
+  {
+    "question": "A constitution is considered 'legitimate' when it has?",
+    "options": [
+      "Military backing",
+      "Popular acceptance",
+      "Foreign approval",
+      "Complex provisions"
+    ],
+    "correctAnswer": "Popular acceptance",
+    "explanation": "Constitutional legitimacy stems from citizen consent via referendum or inclusive drafting process, not mere imposition."
+  },
+  {
+    "question": "The main function of the executive in lawmaking is to?",
+    "options": [
+      "Interpret laws",
+      "Adjudicate laws",
+      "Initiate bills",
+      "Nullify laws"
+    ],
+    "correctAnswer": "Initiate bills",
+    "explanation": "Executives propose legislation (especially budgets) and assent to enacted bills, playing a key agenda-setting role."
+  },
+  {
+    "question": "A key feature of communism is?",
+    "options": [
+      "Private property",
+      "Classless society",
+      "Free market",
+      "Religious governance"
+    ],
+    "correctAnswer": "Classless society",
+    "explanation": "Marxist theory envisions a stateless, egalitarian community after proletarian revolution abolishes class distinctions."
+  },
+  {
+    "question": "The principle of 'checks and balances' ensures that?",
+    "options": [
+      "Power is concentrated",
+      "Branches monitor each other",
+      "Elections are unnecessary",
+      "Judges make policies"
+    ],
+    "correctAnswer": "Branches monitor each other",
+    "explanation": "Mutual oversight (e.g., veto override, impeachment) prevents any branch from dominating, protecting against tyranny."
+  },
+  {
+    "question": "A major advantage of federalism is that it?",
+    "options": [
+      "Promotes unity in diversity",
+      "Concentrates resources",
+      "Simplifies administration",
+      "Reduces political participation"
+    ],
+    "correctAnswer": "Promotes unity in diversity",
+    "explanation": "By accommodating regional/ethnic differences through autonomy, federal systems (e.g., Nigeria) reduce secessionist pressures."
+  },
+  {
+    "question": "The term 'public opinion' refers to?",
+    "options": [
+      "Government decrees",
+      "Aggregate citizen views",
+      "Judicial rulings",
+      "Military orders"
+    ],
+    "correctAnswer": "Aggregate citizen views",
+    "explanation": "This encompasses prevailing attitudes on public issues, measured through polls, protests, and media, influencing policymaking."
+  },
+  {
+    "question": "A key challenge of electoral systems in Nigeria is?",
+    "options": [
+      "Voter apathy",
+      "High voter turnout",
+      "Excessive fairness",
+      "Judicial non-interference"
+    ],
+    "correctAnswer": "Voter apathy",
+    "explanation": "Low participation (e.g., 34% in 2023 elections) stems from distrust in INEC, violence, and belief votes don't count, weakening legitimacy."
+  },
+  {
+    "question": "The concept of 'judicial review' allows courts to?",
+    "options": [
+      "Make new laws",
+      "Review executive appointments",
+      "Nullify unconstitutional laws",
+      "Conduct elections"
+    ],
+    "correctAnswer": "Nullify unconstitutional laws",
+    "explanation": "Courts can invalidate legislation violating higher laws (e.g., constitution), a key mechanism for upholding rights and federalism."
+  },
+  {
+    "question": "Which is a feature of pressure groups?",
+    "options": [
+      "Seeking governmental power",
+      "Forming shadow cabinets",
+      "Influencing policies externally",
+      "Implementing foreign policy"
+    ],
+    "correctAnswer": "Influencing policies externally",
+    "explanation": "Groups like SERAP (Socio-Economic Rights) lobby legislators, use litigation, and mobilize media to sway decisions without holding office."
+  },
+  {
+    "question": "The primary function of government is to?",
+    "options": [
+      "Maximize profit",
+      "Provide entertainment",
+      "Maintain law and order",
+      "Control religious institutions"
+    ],
+    "correctAnswer": "Maintain law and order",
+    "explanation": "State's core duty is securing lives/property through legal frameworks and enforcement agencies, enabling other societal functions."
+  },
+  {
+    "question": "A major feature of authoritarian regimes is?",
+    "options": [
+      "Free press",
+      "Multi-party elections",
+      "Concentration of power",
+      "Judicial independence"
+    ],
+    "correctAnswer": "Concentration of power",
+    "explanation": "Authoritarian systems centralize authority with limited pluralism, suppressing opposition through coercion and restricted freedoms."
+  },
+  {
+    "question": "The term 'diplomacy' refers to?",
+    "options": [
+      "Military conquest",
+      "Peaceful international negotiations",
+      "Domestic policy implementation",
+      "Election monitoring"
+    ],
+    "correctAnswer": "Peaceful international negotiations",
+    "explanation": "Diplomacy involves dialogue, treaties, and representation (via envoys) to advance national interests abroad without conflict."
+  },
+  {
+    "question": "A key principle of democracy is?",
+    "options": [
+      "Majority tyranny",
+      "Respect for minority rights",
+      "One-party dominance",
+      "Censorship of dissent"
+    ],
+    "correctAnswer": "Respect for minority rights",
+    "explanation": "Constitutional protections (e.g., freedom of religion) prevent majorities from oppressing minorities, ensuring inclusive governance."
+  },
+  {
+    "question": "The main purpose of the civil service is to?",
+    "options": [
+      "Fund political campaigns",
+      "Implement government policies",
+      "Contest elections",
+      "Form pressure groups"
+    ],
+    "correctAnswer": "Implement government policies",
+    "explanation": "Civil servants execute ministerial directives through administrative structures while maintaining neutrality across administrations."
+  },
+  {
+    "question": "A major advantage of the parliamentary system is?",
+    "options": [
+      "Fusion of powers for efficiency",
+      "Rigid separation of powers",
+      "Fixed executive terms",
+      "Judicial lawmaking"
+    ],
+    "correctAnswer": "Fusion of powers for efficiency",
+    "explanation": "Close executive-legislative coordination enables quicker policy responses, though it risks inadequate checks on power."
+  },
+  {
+    "question": "The concept of 'political participation' includes?",
+    "options": [
+      "Voting only",
+      "Multiple civic engagements",
+      "Military coups",
+      "Tax evasion"
+    ],
+    "correctAnswer": "Multiple civic engagements",
+    "explanation": "Beyond voting, participation encompasses activism, party membership, protests, and contacting officials to influence governance."
+  },
+  {
+    "question": "Which organ has the power to declare laws unconstitutional?",
+    "options": ["Legislature", "Executive", "Judiciary", "Police"],
+    "correctAnswer": "Judiciary",
+    "explanation": "Courts exercise judicial review to invalidate laws contravening superior legal norms (e.g., constitution), as in Nigeria's Supreme Court rulings."
+  },
+  {
+    "question": "A key feature of colonialism was?",
+    "options": [
+      "Political independence",
+      "Economic self-reliance",
+      "Cultural imperialism",
+      "Technological equality"
+    ],
+    "correctAnswer": "Cultural imperialism",
+    "explanation": "Colonialism imposed European languages, education, and values while denigrating indigenous cultures, leaving lasting identity impacts."
+  },
+  {
+    "question": "The primary role of the opposition is to?",
+    "options": [
+      "Support government uncritically",
+      "Provide alternative policies",
+      "Organize military coups",
+      "Control public funds"
+    ],
+    "correctAnswer": "Provide alternative policies",
+    "explanation": "Opposition parties scrutinize governments, propose solutions, and prepare to govern, enhancing accountability and policy diversity."
+  },
+  {
+    "question": "A major function of local governments is?",
+    "options": [
+      "Defense",
+      "Foreign affairs",
+      "Local road maintenance",
+      "Currency issuance"
+    ],
+    "correctAnswer": "Local road maintenance",
+    "explanation": "Fourth Schedule of Nigeria's Constitution assigns LGAs responsibility for feeder roads, drainage, and other community infrastructure."
+  },
+  {
+    "question": "The term 'sovereignty' means?",
+    "options": [
+      "Membership in AU",
+      "Supreme legal authority",
+      "Economic wealth",
+      "Large population"
+    ],
+    "correctAnswer": "Supreme legal authority",
+    "explanation": "Sovereignty denotes final decision-making power domestically and non-interference externally, though globalization erodes absolute sovereignty."
+  },
+  {
+    "question": "A key challenge of Nigerian federalism is?",
+    "options": [
+      "Excessive state autonomy",
+      "Fiscal centralization",
+      "Weak central government",
+      "Judicial activism"
+    ],
+    "correctAnswer": "Fiscal centralization",
+    "explanation": "FG controls 52.68% of revenues, leaving states dependent on federal allocations and undermining cooperative federalism."
+  },
+  {
+    "question": "The concept of 'fundamental rights' includes?",
+    "options": [
+      "Right to bear arms",
+      "Right to fair hearing",
+      "Right to ignore laws",
+      "Right to riot"
+    ],
+    "correctAnswer": "Right to fair hearing",
+    "explanation": "Section 36 of Nigeria's Constitution guarantees fair trial within reasonable time by impartial courts, a core due process right."
+  },
+  {
+    "question": "A major feature of fascism is?",
+    "options": ["Democracy", "Individualism", "Totalitarianism", "Pacifism"],
+    "correctAnswer": "Totalitarianism",
+    "explanation": "Fascist regimes (e.g., Nazi Germany) demand total allegiance to the state, suppressing dissent through propaganda and terror."
+  },
+  {
+    "question": "The principle of 'rule of law' requires that?",
+    "options": [
+      "Laws are secret",
+      "Laws apply unequally",
+      "No one is above the law",
+      "Military makes laws"
+    ],
+    "correctAnswer": "No one is above the law",
+    "explanation": "All persons and institutions are subject to publicly known laws, with disputes resolved through independent judiciary."
+  },
+  {
+    "question": "A key function of INEC is to?",
+    "options": [
+      "Appoint presidents",
+      "Register voters",
+      "Make laws",
+      "Try cases"
+    ],
+    "correctAnswer": "Register voters",
+    "explanation": "INEC maintains voter registers, accredits parties, and conducts elections per Sections 153-160 of the 1999 Constitution."
+  },
+  {
+    "question": "The main purpose of NYSC is to promote?",
+    "options": [
+      "Military training",
+      "National unity",
+      "Foreign employment",
+      "Political campaigns"
+    ],
+    "correctAnswer": "National unity",
+    "explanation": "Deploying graduates outside their ethnic regions fosters cross-cultural understanding, reducing parochialism and building national cohesion."
+  },
+  {
+    "question": "A major problem of public corporations is?",
+    "options": [
+      "Efficiency",
+      "Innovation",
+      "Political patronage",
+      "Profitability"
+    ],
+    "correctAnswer": "Political patronage",
+    "explanation": "Appointments based on loyalty rather than merit lead to inefficiency and corruption, as seen in NEPA and Nigerian Railways."
+  },
+  {
+    "question": "The concept of 'political culture' includes?",
+    "options": [
+      "Tax rates",
+      "Citizens' political attitudes",
+      "Military strategies",
+      "Foreign trade policies"
+    ],
+    "correctAnswer": "Citizens' political attitudes",
+    "explanation": "This encompasses societal norms about governance, participation, and authority, varying between parochial, subject, and participant cultures."
+  },
+  {
+    "question": "Which defines a nation-state?",
+    "options": [
+      "A stateless nation",
+      "A state with multiple nations",
+      "A sovereign state of a homogeneous nation",
+      "An international organization"
+    ],
+    "correctAnswer": "A sovereign state of a homogeneous nation",
+    "explanation": "Nation-states (e.g., Japan) align political boundaries with cultural homogeneity, though most modern states are multi-national."
+  },
+  {
+    "question": "The primary role of the legislature is to?",
+    "options": [
+      "Enforce laws",
+      "Interpret laws",
+      "Make laws",
+      "Adjudicate laws"
+    ],
+    "correctAnswer": "Make laws",
+    "explanation": "Legislatures create, amend, and repeal statutes through structured processes, representing constituent interests in policymaking."
+  },
+  {
+    "question": "A key feature of capitalism is?",
+    "options": [
+      "State ownership",
+      "Central planning",
+      "Market competition",
+      "Classless society"
+    ],
+    "correctAnswer": "Market competition",
+    "explanation": "Capitalism relies on supply-demand dynamics, private enterprise, and profit motive to allocate resources, with limited state intervention."
+  },
+  {
+    "question": "The main function of the judiciary is to?",
+    "options": [
+      "Execute policies",
+      "Make policies",
+      "Settle disputes",
+      "Conduct elections"
+    ],
+    "correctAnswer": "Settle disputes",
+    "explanation": "Courts resolve conflicts between parties through evidence-based application of laws, ensuring justice and social order."
+  },
+  {
+    "question": "Which is a source of political authority?",
+    "options": ["Force", "Charisma", "Wealth", "Foreign support"],
+    "correctAnswer": "Charisma",
+    "explanation": "Max Weber identified charismatic authority derived from personal qualities (e.g., Mandela), alongside traditional and legal-rational types."
+  },
+  {
+    "question": "A major feature of the presidential system is?",
+    "options": [
+      "Fusion of powers",
+      "Collective responsibility",
+      "Fixed executive tenure",
+      "Prime ministerial dominance"
+    ],
+    "correctAnswer": "Fixed executive tenure",
+    "explanation": "Presidents serve fixed terms (e.g., 4 years in Nigeria), removable only via impeachment, providing stability but risking rigidity."
+  },
+  {
+    "question": "The concept of 'citizenship' is acquired by?",
+    "options": [
+      "Conquest",
+      "Birth and naturalization",
+      "Military service",
+      "Land ownership"
+    ],
+    "correctAnswer": "Birth and naturalization",
+    "explanation": "Citizenship arises from birth within territory (jus soli), descent (jus sanguinis), or legal naturalization processes."
+  },
+  {
+    "question": "A key challenge of democracy in Nigeria is?",
+    "options": [
+      "Electoral integrity",
+      "High voter education",
+      "Judicial independence",
+      "Civil service neutrality"
+    ],
+    "correctAnswer": "Electoral integrity",
+    "explanation": "INEC's credibility issues, vote-buying, and violence undermine electoral legitimacy, as witnessed in disputed polls since 1999."
+  },
+  {
+    "question": "The primary purpose of ECOWAS is to promote?",
+    "options": [
+      "West African integration",
+      "Global trade",
+      "Military aggression",
+      "Cultural isolation"
+    ],
+    "correctAnswer": "West African integration",
+    "explanation": "ECOWAS fosters economic cooperation, free movement, and conflict resolution among 15 West African states, though facing implementation gaps."
+  },
+  {
+    "question": "A constitution is 'flexible' when it?",
+    "options": [
+      "Cannot be amended",
+      "Is unwritten",
+      "Requires simple amendment",
+      "Has no judicial review"
+    ],
+    "correctAnswer": "Requires simple amendment",
+    "explanation": "Flexible constitutions (e.g., New Zealand) allow changes via ordinary legislative processes, facilitating adaptation but risking instability."
+  },
+  {
+    "question": "The principle of 'checks and balances' is designed to?",
+    "options": [
+      "Concentrate power",
+      "Prevent abuse of power",
+      "Speed up decisions",
+      "Reduce accountability"
+    ],
+    "correctAnswer": "Prevent abuse of power",
+    "explanation": "Inter-branch oversight mechanisms (e.g., veto override) limit excesses, protecting against tyranny as envisioned by Madison."
+  },
+  {
+    "question": "A major function of political parties is to?",
+    "options": [
+      "Implement policies",
+      "Adjudicate disputes",
+      "Recruit leaders",
+      "Control the judiciary"
+    ],
+    "correctAnswer": "Recruit leaders",
+    "explanation": "Parties identify, train, and sponsor candidates for public office, providing leadership pipelines and political accountability."
+  },
+  {
+    "question": "The term 'unitary system' means?",
+    "options": [
+      "Multiple sovereign governments",
+      "Power concentrated centrally",
+      "Independent regional governments",
+      "No central government"
+    ],
+    "correctAnswer": "Power concentrated centrally",
+    "explanation": "All significant authority resides with the national government; subnational units are administrative arms without autonomous powers."
+  },
+  {
+    "question": "A key feature of socialism is?",
+    "options": [
+      "Private ownership",
+      "State ownership",
+      "Free market",
+      "Religious control"
+    ],
+    "correctAnswer": "State ownership",
+    "explanation": "Socialist systems prioritize public/collective control of major industries to reduce inequality, though varying in democratic (Scandinavia) vs authoritarian (Cuba) forms."
+  },
+  {
+    "question": "The main purpose of pressure groups is to?",
+    "options": [
+      "Seek governmental power",
+      "Influence specific policies",
+      "Implement laws",
+      "Adjudicate disputes"
+    ],
+    "correctAnswer": "Influence specific policies",
+    "explanation": "Groups like NMA (doctors) lobby for sectoral interests (e.g., health funding) through advocacy, without governing aspirations."
+  },
+  {
+    "question": "The concept of 'judicial precedent' means courts?",
+    "options": [
+      "Ignore past decisions",
+      "Follow higher courts' decisions",
+      "Make new laws arbitrarily",
+      "Consult executives routinely"
+    ],
+    "correctAnswer": "Follow higher courts' decisions",
+    "explanation": "Stare decisis ensures legal consistency by binding lower courts to superior courts' interpretations, promoting predictability."
+  },
+  {
+    "question": "Which is a method of political participation?",
+    "options": ["Tax evasion", "Voting", "Coup plotting", "Insurgency"],
+    "correctAnswer": "Voting",
+    "explanation": "Voting is the most widespread legitimate participation form, alongside peaceful protests, petitions, and contacting representatives."
+  },
+  {
+    "question": "A major feature of federalism is?",
+    "options": [
+      "Single government",
+      "Multiple independent governments",
+      "Centralized constitution",
+      "Uniform laws"
+    ],
+    "correctAnswer": "Multiple independent governments",
+    "explanation": "Federal systems divide sovereignty between central and regional governments, each constitutionally empowered in their spheres."
+  },
+  {
+    "question": "The primary role of the civil service is to?",
+    "options": [
+      "Formulate policies",
+      "Implement policies",
+      "Make laws",
+      "Interpret laws"
+    ],
+    "correctAnswer": "Implement policies",
+    "explanation": "Civil servants execute ministerial directives through administrative structures, ensuring continuity across political transitions."
+  }
+]

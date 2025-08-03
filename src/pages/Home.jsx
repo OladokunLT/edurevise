@@ -11,15 +11,17 @@ import {
 import { useNavigate } from "react-router-dom";
 
 const subjects = [
-  { name: "Biology", code: "biology" },
-  { name: "Mathematics", code: "math" },
   { name: "English", code: "english" },
+  { name: "Mathematics", code: "math" },
+  { name: "Biology", code: "biology" },
+  { name: "Chemistry", code: "chemistry" },
+  { name: "Government", code: "government" },
 ];
 
 const Home = () => {
   const navigate = useNavigate();
   const [questionCount, setQuestionCount] = useState(10);
-  const [selectedSubject, setSelectedSubject] = useState("biology");
+  const [selectedSubject, setSelectedSubject] = useState("english");
 
   const startQuiz = () => {
     navigate(`/quiz?subject=${selectedSubject}&count=${questionCount}`);
@@ -68,7 +70,7 @@ const Home = () => {
                 );
                 setQuestionCount(value);
               }}
-              inputProps={{ min: 1, max: 50 }}
+              slotProps={{ input: { min: 1, max: 50 } }}
               helperText={`Max 50 questions (${questionCount} selected)`}
             />
           </Paper>

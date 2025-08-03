@@ -1,0 +1,1167 @@
+[
+  {
+    "question": "What is the atomic number of an element with electron configuration 1s²2s²2p⁶3s²3p³?",
+    "options": ["12", "15", "18", "20"],
+    "correctAnswer": "15",
+    "explanation": "Sum the superscripts: 2+2+6+2+3 = 15 electrons. Atomic number = number of protons = number of electrons in neutral atom."
+  },
+  {
+    "question": "Which quantum number defines the orbital shape?",
+    "options": ["Principal (n)", "Azimuthal (l)", "Magnetic (mₗ)", "Spin (mₛ)"],
+    "correctAnswer": "Azimuthal (l)",
+    "explanation": "Azimuthal quantum number (l) determines orbital shape: l=0 (s-spherical), l=1 (p-dumbbell), l=2 (d-cloverleaf)."
+  },
+  {
+    "question": "Calculate the relative molecular mass of Al₂(SO₄)₃. [Al=27, S=32, O=16]",
+    "options": ["150", "242", "315", "342"],
+    "correctAnswer": "342",
+    "explanation": "Al₂ = 2×27 = 54; S₃ = 3×32 = 96; O₁₂ = 12×16 = 192. Total = 54 + 96 + 192 = 342 g/mol."
+  },
+  {
+    "question": "What volume of CO₂ at STP is produced from 10g of CaCO₃? [CaCO₃ → CaO + CO₂, C=12, O=16, Ca=40]",
+    "options": ["1.12 dm³", "2.24 dm³", "3.36 dm³", "4.48 dm³"],
+    "correctAnswer": "2.24 dm³",
+    "explanation": "Molar mass CaCO₃ = 100g/mol. 100g CaCO₃ produces 22.4 dm³ CO₂ at STP. 10g produces (10/100)×22.4 = 2.24 dm³."
+  },
+  {
+    "question": "Which separation technique is used for iodine-sand mixture?",
+    "options": ["Filtration", "Crystallization", "Sublimation", "Distillation"],
+    "correctAnswer": "Sublimation",
+    "explanation": "Iodine sublimes (solid→vapor) when heated, leaving sand behind. The vapor can be cooled to recover solid iodine."
+  },
+  {
+    "question": "What is the pH of 0.001 mol/dm³ HCl solution?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3",
+    "explanation": "HCl is strong acid, completely dissociates. [H⁺] = 0.001 M = 10⁻³ M. pH = -log[H⁺] = -log(0.001) = 3."
+  },
+  {
+    "question": "Which compound exhibits geometric isomerism?",
+    "options": ["Propene", "But-1-ene", "But-2-ene", "2-methylpropane"],
+    "correctAnswer": "But-2-ene",
+    "explanation": "But-2-ene has restricted rotation around C=C bond and two different groups on each carbon, allowing cis-trans isomers."
+  },
+  {
+    "question": "In electrolysis of CuSO₄ with copper electrodes, what happens at the anode?",
+    "options": [
+      "Oxygen gas evolution",
+      "Copper deposition",
+      "Copper dissolution",
+      "Sulfur deposition"
+    ],
+    "correctAnswer": "Copper dissolution",
+    "explanation": "With active electrodes (Cu), anode oxidizes: Cu(s) → Cu²⁺(aq) + 2e⁻. Copper dissolves instead of OH⁻ oxidation."
+  },
+  {
+    "question": "What mass of NaCl is needed to prepare 250 cm³ of 0.5 M solution? [Na=23, Cl=35.5]",
+    "options": ["7.31 g", "14.63 g", "29.25 g", "58.5 g"],
+    "correctAnswer": "7.31 g",
+    "explanation": "Moles = M × V(dm³) = 0.5 × 0.25 = 0.125 mol. Molar mass NaCl = 58.5 g/mol. Mass = 0.125 × 58.5 = 7.3125 g ≈ 7.31 g."
+  },
+  {
+    "question": "Which indicator is suitable for titrating weak acid against strong base?",
+    "options": [
+      "Methyl orange",
+      "Phenolphthalein",
+      "Litmus",
+      "Universal indicator"
+    ],
+    "correctAnswer": "Phenolphthalein",
+    "explanation": "Phenolphthalein (pH 8.3-10.0) changes color in basic range, matching the equivalence point pH (>7) of weak acid-strong base titration."
+  },
+  {
+    "question": "What is the oxidation state of chromium in K₂Cr₂O₇?",
+    "options": ["+3", "+4", "+5", "+6"],
+    "correctAnswer": "+6",
+    "explanation": "K₂Cr₂O₇: 2(+1) + 2x + 7(-2) = 0 → 2 + 2x - 14 = 0 → 2x = 12 → x = +6 for each Cr atom."
+  },
+  {
+    "question": "Which process is exothermic?",
+    "options": [
+      "Dissolving NH₄Cl in water",
+      "Melting ice",
+      "Neutralization reaction",
+      "Dissociation of NaCl"
+    ],
+    "correctAnswer": "Neutralization reaction",
+    "explanation": "Neutralization (acid + base → salt + water) releases heat (ΔH < 0). NH₄Cl dissolution is endothermic (cools solution)."
+  },
+  {
+    "question": "The IUPAC name for CH₃CH₂C(CH₃)=CH₂ is:",
+    "options": [
+      "2-methylbut-1-ene",
+      "3-methylbut-1-ene",
+      "2-methylbut-2-ene",
+      "Pent-1-ene"
+    ],
+    "correctAnswer": "2-methylbut-1-ene",
+    "explanation": "Longest chain: 4 carbons (butene). Double bond at C1, methyl group on C2. Systematic name: 2-methylbut-1-ene."
+  },
+  {
+    "question": "Which metal reacts with cold water to produce hydrogen?",
+    "options": ["Copper", "Iron", "Magnesium", "Potassium"],
+    "correctAnswer": "Potassium",
+    "explanation": "Potassium (group 1) reacts violently with cold water: 2K + 2H₂O → 2KOH + H₂. Magnesium reacts with steam, not cold water."
+  },
+  {
+    "question": "What is the coordination number in [Co(NH₃)₆]Cl₃?",
+    "options": ["3", "4", "6", "9"],
+    "correctAnswer": "6",
+    "explanation": "Coordination number is the number of ligand atoms bonded to central metal. Here, 6 NH₃ ligands → coordination number = 6."
+  },
+  {
+    "question": "Which gas is produced when Zn reacts with dilute H₂SO₄?",
+    "options": ["SO₂", "H₂", "O₂", "CO₂"],
+    "correctAnswer": "H₂",
+    "explanation": "Zinc displaces hydrogen from acids: Zn + H₂SO₄ → ZnSO₄ + H₂. This is a typical metal-acid reaction producing hydrogen gas."
+  },
+  {
+    "question": "The empirical formula of benzene (C₆H₆) is:",
+    "options": ["CH", "C₂H₂", "C₃H₃", "C₆H₆"],
+    "correctAnswer": "CH",
+    "explanation": "Empirical formula = simplest ratio. C:H = 6:6 = 1:1 → CH. Molecular formula is C₆H₆, which is multiple of CH."
+  },
+  {
+    "question": "Which compound is a secondary alcohol?",
+    "options": ["CH₃OH", "CH₃CH₂OH", "(CH₃)₂CHOH", "(CH₃)₃COH"],
+    "correctAnswer": "(CH₃)₂CHOH",
+    "explanation": "Secondary alcohol has -OH group on carbon with two alkyl groups. (CH₃)₂CHOH has -OH on C bonded to two CH₃ groups and one H."
+  },
+  {
+    "question": "What catalyst is used in Haber process?",
+    "options": ["Vanadium(V) oxide", "Iron", "Nickel", "Platinum"],
+    "correctAnswer": "Iron",
+    "explanation": "Haber process: N₂ + 3H₂ ⇌ 2NH₃ uses finely divided iron catalyst with K₂O/Al₂O₃ promoters to increase efficiency."
+  },
+  {
+    "question": "The shape of BF₃ molecule is:",
+    "options": ["Tetrahedral", "Trigonal planar", "Linear", "Bent"],
+    "correctAnswer": "Trigonal planar",
+    "explanation": "BF₃ has three bonding pairs, no lone pairs on central B atom. VSEPR theory predicts trigonal planar geometry with 120° bond angles."
+  },
+  {
+    "question": "Which element has highest first ionization energy?",
+    "options": ["Na", "Mg", "Al", "Si"],
+    "correctAnswer": "Mg",
+    "explanation": "Across period 3: Na (496) < Mg (738) > Al (577) < Si (786). Mg > Al due to stable full s-subshell (3s²) vs Al (3s²3p¹)."
+  },
+  {
+    "question": "In lead-acid battery, what is formed at anode during discharge?",
+    "options": ["Pb", "PbO₂", "PbSO₄", "H₂O"],
+    "correctAnswer": "PbSO₄",
+    "explanation": "Discharge reaction: Anode: Pb(s) + SO₄²⁻(aq) → PbSO₄(s) + 2e⁻. Both electrodes form PbSO₄ during discharge."
+  },
+  {
+    "question": "What is the formula of the compound formed between aluminum and oxygen?",
+    "options": ["AlO", "Al₂O", "AlO₂", "Al₂O₃"],
+    "correctAnswer": "Al₂O₃",
+    "explanation": "Al³⁺ and O²⁻ ions combine in 2:3 ratio for charge balance: 2×(+3) + 3×(-2) = 0. Formula: Al₂O₃."
+  },
+  {
+    "question": "The process of converting vegetable oil to margarine is:",
+    "options": ["Hydrolysis", "Saponification", "Hydrogenation", "Oxidation"],
+    "correctAnswer": "Hydrogenation",
+    "explanation": "Hydrogenation adds H₂ across C=C bonds in unsaturated oils using Ni catalyst, increasing melting point to form semi-solid margarine."
+  },
+  {
+    "question": "Which solution has highest boiling point?",
+    "options": ["0.1 M glucose", "0.1 M NaCl", "0.1 M CaCl₂", "0.1 M AlCl₃"],
+    "correctAnswer": "0.1 M AlCl₃",
+    "explanation": "Elevation proportional to van't Hoff factor i. Glucose (i=1), NaCl (i=2), CaCl₂ (i≈3), AlCl₃ (i≈4). AlCl₃ has highest i → highest ΔTb."
+  },
+  {
+    "question": "What is observed when chlorine gas is bubbled through KBr solution?",
+    "options": [
+      "No reaction",
+      "Yellow precipitate",
+      "Solution turns brown",
+      "White precipitate"
+    ],
+    "correctAnswer": "Solution turns brown",
+    "explanation": "Cl₂ displaces Br⁻: Cl₂ + 2KBr → 2KCl + Br₂. Bromine dissolves to give brown solution. No precipitate forms."
+  },
+  {
+    "question": "The compound formed when ethanol reacts with ethanoic acid is:",
+    "options": ["Ethyl ethanoate", "Diethyl ether", "Ethanal", "Ethane"],
+    "correctAnswer": "Ethyl ethanoate",
+    "explanation": "Esterification: CH₃COOH + CH₃CH₂OH ⇌ CH₃COOCH₂CH₃ + H₂O. Product is ethyl ethanoate (ester)."
+  },
+  {
+    "question": "Which metal is extracted by electrolysis?",
+    "options": ["Iron", "Copper", "Aluminum", "Zinc"],
+    "correctAnswer": "Aluminum",
+    "explanation": "Aluminum is extracted from molten Al₂O₃/Cryolite mixture by electrolysis (Hall-Héroult process). More reactive metals require electrolysis."
+  },
+  {
+    "question": "The percentage by mass of oxygen in H₂O is: [H=1, O=16]",
+    "options": ["11.1%", "50.0%", "88.9%", "94.1%"],
+    "correctAnswer": "88.9%",
+    "explanation": "Molar mass H₂O = 18g/mol. Mass oxygen = 16g. %O = (16/18)×100% ≈ 88.89%."
+  },
+  {
+    "question": "Which pollutant causes acid rain?",
+    "options": ["CO₂", "CO", "SO₂", "CH₄"],
+    "correctAnswer": "SO₂",
+    "explanation": "SO₂ from fossil fuels forms H₂SO₄: 2SO₂ + O₂ + 2H₂O → 2H₂SO₄. CO₂ causes ocean acidification but minor contributor to acid rain."
+  },
+  {
+    "question": "The functional group in alkanoic acids is:",
+    "options": ["-OH", "-CHO", "-COOH", "-COO-"],
+    "correctAnswer": "-COOH",
+    "explanation": "Alkanoic acids (carboxylic acids) have carboxyl group: -COOH. -OH is alcohol, -CHO is aldehyde, -COO- is ester/carboxylate."
+  },
+  {
+    "question": "What is the product of complete combustion of hydrocarbon?",
+    "options": ["CO₂ and H₂", "CO₂ and H₂O", "CO and H₂O", "C and H₂O"],
+    "correctAnswer": "CO₂ and H₂O",
+    "explanation": "Complete combustion: hydrocarbon + O₂ → CO₂ + H₂O. Insufficient oxygen produces CO or C (soot)."
+  },
+  {
+    "question": "The number of atoms in 0.5 mole of chlorine gas (Cl₂) is:",
+    "options": ["3.01×10²³", "6.02×10²³", "1.204×10²⁴", "2.408×10²⁴"],
+    "correctAnswer": "6.02×10²³",
+    "explanation": "0.5 mol Cl₂ contains 0.5 × 6.02×10²³ molecules = 3.01×10²³ molecules. Each molecule has 2 atoms → total atoms = 2 × 3.01×10²³ = 6.02×10²³."
+  },
+  {
+    "question": "Which substance conducts electricity in solid state?",
+    "options": ["Sodium chloride", "Graphite", "Ice", "Sulfur"],
+    "correctAnswer": "Graphite",
+    "explanation": "Graphite has delocalized electrons between layers, allowing conduction. Ionic compounds (NaCl) conduct only when molten/dissolved."
+  },
+  {
+    "question": "The process used to purify copper is:",
+    "options": [
+      "Distillation",
+      "Electrolysis",
+      "Fractional crystallization",
+      "Sublimation"
+    ],
+    "correctAnswer": "Electrolysis",
+    "explanation": "Impure copper anode dissolves, pure copper deposits on cathode: Anode: Cu → Cu²⁺ + 2e⁻; Cathode: Cu²⁺ + 2e⁻ → Cu."
+  },
+  {
+    "question": "Which gas diffuses fastest at STP?",
+    "options": [
+      "O₂ (32 g/mol)",
+      "N₂ (28 g/mol)",
+      "CH₄ (16 g/mol)",
+      "H₂ (2 g/mol)"
+    ],
+    "correctAnswer": "H₂ (2 g/mol)",
+    "explanation": "Graham's law: rate ∝ 1/√M. H₂ has smallest molar mass (2 g/mol) → highest diffusion rate."
+  },
+  {
+    "question": "The formula of tetraoxosulfate(VI) acid is:",
+    "options": ["H₂SO₃", "H₂SO₄", "H₂S₂O₃", "H₂S₂O₇"],
+    "correctAnswer": "H₂SO₄",
+    "explanation": "Tetraoxosulfate(VI) = sulfate with oxidation state +6. H₂SO₄ is sulfuric acid: sulfur has +6 oxidation state."
+  },
+  {
+    "question": "Which element is a metalloid?",
+    "options": ["Sodium", "Silicon", "Chlorine", "Aluminum"],
+    "correctAnswer": "Silicon",
+    "explanation": "Metalloids exhibit properties between metals/non-metals. Silicon (Si) is semiconductor, brittle, forms amphoteric oxides."
+  },
+  {
+    "question": "The reaction 2SO₂ + O₂ ⇌ 2SO₃ is exothermic. Equilibrium favors products at:",
+    "options": [
+      "High T, high P",
+      "Low T, high P",
+      "High T, low P",
+      "Low T, low P"
+    ],
+    "correctAnswer": "Low T, high P",
+    "explanation": "Exothermic: low T favors products. Fewer moles (3 → 2): high P favors products. Optimal: low temperature, high pressure."
+  },
+  {
+    "question": "Which compound is used as antifreeze?",
+    "options": ["Ethanol", "Ethane-1,2-diol", "Methanol", "Propanone"],
+    "correctAnswer": "Ethane-1,2-diol",
+    "explanation": "Ethylene glycol (HO-CH₂-CH₂-OH) lowers freezing point of water, used in car radiators. Toxic but effective antifreeze."
+  },
+  {
+    "question": "The salt formed when H₂SO₄ reacts with KOH is:",
+    "options": ["K₂SO₃", "K₂SO₄", "KHSO₄", "K₂S"],
+    "correctAnswer": "K₂SO₄",
+    "explanation": "Neutralization: H₂SO₄ + 2KOH → K₂SO₄ + 2H₂O. Sulfuric acid is diprotic → forms normal sulfate salt with two equivalents."
+  },
+  {
+    "question": "Which test distinguishes alkanes from alkenes?",
+    "options": [
+      "Bromine water",
+      "Litmus test",
+      "Tollen's reagent",
+      "Fehling's solution"
+    ],
+    "correctAnswer": "Bromine water",
+    "explanation": "Alkenes decolorize orange Br₂ water via electrophilic addition. Alkanes (saturated) do not react. Other tests detect aldehydes."
+  },
+  {
+    "question": "The bond angle in ammonia (NH₃) is approximately:",
+    "options": ["90°", "104.5°", "107°", "120°"],
+    "correctAnswer": "107°",
+    "explanation": "NH₃ has tetrahedral electron geometry, but trigonal pyramidal molecular geometry due to one lone pair. Bond angle ≈ 107° (less than 109.5°)."
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "options": ["Ethene", "Ethane", "Propane", "Methane"],
+    "correctAnswer": "Methane",
+    "explanation": "Natural gas is primarily methane (CH₄, 70-90%), with smaller amounts of ethane, propane, and other hydrocarbons."
+  },
+  {
+    "question": "The oxidation state of nitrogen in HNO₃ is:",
+    "options": ["+1", "+3", "+5", "+7"],
+    "correctAnswer": "+5",
+    "explanation": "HNO₃: H = +1, O = -2. Let N = x. +1 + x + 3(-2) = 0 → 1 + x - 6 = 0 → x = +5."
+  },
+  {
+    "question": "Which metal forms amphoteric oxide?",
+    "options": ["Sodium", "Magnesium", "Aluminum", "Calcium"],
+    "correctAnswer": "Aluminum",
+    "explanation": "Al₂O₃ reacts with both acids and bases: Al₂O₃ + 6H⁺ → 2Al³⁺ + 3H₂O; Al₂O₃ + 2OH⁻ + 3H₂O → 2[Al(OH)₄]⁻. Sodium oxide is basic."
+  },
+  {
+    "question": "The mass of 1.204×10²⁴ molecules of water is: [H=1, O=16]",
+    "options": ["18 g", "36 g", "54 g", "72 g"],
+    "correctAnswer": "36 g",
+    "explanation": "1 mole H₂O = 6.02×10²³ molecules. Molecules given = 1.204×10²⁴ = 2 × 6.02×10²³ → 2 moles. Mass = 2 × 18 g = 36 g."
+  },
+  {
+    "question": "Which is a strong electrolyte?",
+    "options": [
+      "Ethanoic acid",
+      "Ammonia solution",
+      "Sodium chloride",
+      "Ethanol"
+    ],
+    "correctAnswer": "Sodium chloride",
+    "explanation": "Strong electrolytes fully dissociate in solution. NaCl → Na⁺ + Cl⁻ completely. Weak acids/bases (CH₃COOH, NH₃) partially dissociate."
+  },
+  {
+    "question": "The reagent for converting alkenes to alkanes is:",
+    "options": ["H₂/Pd", "Cl₂/UV", "KMnO₄", "Br₂/CCl₄"],
+    "correctAnswer": "H₂/Pd",
+    "explanation": "Catalytic hydrogenation: H₂ with Pt/Pd/Ni catalyst adds to alkenes: R-CH=CH-R + H₂ → R-CH₂-CH₂-R. Others cause substitution/oxidation."
+  },
+  {
+    "question": "What is the formula of calcium tetraoxosulfate(VI)?",
+    "options": ["CaSO₃", "CaSO₄", "Ca(HSO₄)₂", "CaS"],
+    "correctAnswer": "CaSO₄",
+    "explanation": "Tetraoxosulfate(VI) is SO₄²⁻. Calcium salt is CaSO₄ (calcium sulfate)."
+  },
+  {
+    "question": "The compound with highest boiling point is:",
+    "options": ["CH₃CH₃", "CH₃OH", "CH₃CHO", "CH₃COOH"],
+    "correctAnswer": "CH₃COOH",
+    "explanation": "Carboxylic acids form strong dimers via H-bonding. Order: ethane (weak LDF) < ethanal (dipole) < methanol (H-bond) < ethanoic acid (dimeric H-bond)."
+  },
+  {
+    "question": "Which is not a greenhouse gas?",
+    "options": ["CO₂", "CH₄", "N₂O", "O₂"],
+    "correctAnswer": "O₂",
+    "explanation": "O₂ doesn't absorb significant IR radiation. CO₂, CH₄, N₂O trap heat via IR absorption, contributing to greenhouse effect."
+  },
+  {
+    "question": "The reducing agent in the blast furnace is:",
+    "options": ["CaO", "CO", "SiO₂", "C"],
+    "correctAnswer": "CO",
+    "explanation": "CO reduces iron oxides: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Coke (C) produces CO via C + CO₂ → 2CO, but CO is the direct reducing agent."
+  },
+  {
+    "question": "Which ion gives green flame test?",
+    "options": ["Na⁺", "K⁺", "Ca²⁺", "Cu²⁺"],
+    "correctAnswer": "Cu²⁺",
+    "explanation": "Copper(II) compounds produce blue-green flame. Sodium: yellow, potassium: lilac, calcium: brick-red."
+  },
+  {
+    "question": "The pH of a solution with [H⁺] = 1×10⁻⁸ M is:",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "explanation": "pH = -log[H⁺] = -log(10⁻⁸) = 8. Note: in pure water [H⁺]=10⁻⁷, pH=7. This solution is basic (pH>7)."
+  },
+  {
+    "question": "The monomer of polythene is:",
+    "options": ["Ethene", "Ethane", "Ethanol", "Ethanal"],
+    "correctAnswer": "Ethene",
+    "explanation": "Polythene (polyethylene) is polymerized ethene: n CH₂=CH₂ → [–CH₂–CH₂–]ₙ. Addition polymerization with catalyst."
+  },
+  {
+    "question": "Which reaction is endothermic?",
+    "options": [
+      "Combustion",
+      "Respiration",
+      "Photosynthesis",
+      "Neutralization"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ requires light energy (ΔH > 0). Others release energy (exothermic)."
+  },
+  {
+    "question": "The salt that hydrolyzes to give acidic solution is:",
+    "options": ["NaCl", "CH₃COONa", "NH₄Cl", "K₂CO₃"],
+    "correctAnswer": "NH₄Cl",
+    "explanation": "NH₄⁺ from weak base (NH₃) hydrolyzes: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺ → acidic solution. CH₃COONa and K₂CO₃ give basic solutions."
+  },
+  {
+    "question": "The gas collected by downward displacement of air is:",
+    "options": ["NH₃", "CO₂", "Cl₂", "H₂"],
+    "correctAnswer": "CO₂",
+    "explanation": "CO₂ is denser than air → collected downward. NH₃ and H₂ are lighter → upward displacement. Cl₂ is dense but soluble in water."
+  },
+  {
+    "question": "Which element has highest electron affinity?",
+    "options": ["F", "Cl", "Br", "I"],
+    "correctAnswer": "Cl",
+    "explanation": "Electron affinity: Cl (349 kJ/mol) > F (328 kJ/mol) due to small size of F causing electron-electron repulsion. Trend: Cl > F > Br > I."
+  },
+  {
+    "question": "The catalyst in contact process is:",
+    "options": ["Fe", "V₂O₅", "Pt", "Ni"],
+    "correctAnswer": "V₂O₅",
+    "explanation": "Contact process for H₂SO₄: SO₂ + ½O₂ → SO₃ uses vanadium(V) oxide (V₂O₅) catalyst."
+  },
+  {
+    "question": "The compound that gives effervescence with NaHCO₃ is:",
+    "options": ["Ethanol", "Ethanoic acid", "Ethanal", "Acetone"],
+    "correctAnswer": "Ethanoic acid",
+    "explanation": "Carboxylic acids (RCOOH) react with NaHCO₃ to produce CO₂ gas: RCOOH + NaHCO₃ → RCOONa + CO₂ + H₂O. Others do not react."
+  },
+  {
+    "question": "The shape of SF₆ molecule is:",
+    "options": [
+      "Tetrahedral",
+      "Square planar",
+      "Octahedral",
+      "Trigonal bipyramidal"
+    ],
+    "correctAnswer": "Octahedral",
+    "explanation": "Sulfur hexafluoride: 6 bonding pairs, no lone pairs → octahedral geometry with 90° bond angles."
+  },
+  {
+    "question": "Which is a saturated hydrocarbon?",
+    "options": ["C₂H₂", "C₂H₄", "C₃H₆", "C₄H₁₀"],
+    "correctAnswer": "C₄H₁₀",
+    "explanation": "Saturated hydrocarbons (alkanes) have only single bonds, formula CₙH₂ₙ₊₂. C₄H₁₀ (butane) fits. Others: C₂H₂ (alkyne), C₂H₄ (alkene), C₃H₆ (alkene)."
+  },
+  {
+    "question": "The mass of 560 cm³ of O₂ at STP is: [O=16]",
+    "options": ["0.8 g", "1.0 g", "1.6 g", "2.0 g"],
+    "correctAnswer": "0.8 g",
+    "explanation": "Molar volume at STP = 22.4 dm³/mol = 22400 cm³/mol. Moles O₂ = 560 / 22400 = 0.025 mol. Mass = 0.025 × 32 = 0.8 g."
+  },
+  {
+    "question": "Which is not a colligative property?",
+    "options": [
+      "Osmotic pressure",
+      "Vapor pressure lowering",
+      "Boiling point elevation",
+      "Density"
+    ],
+    "correctAnswer": "Density",
+    "explanation": "Colligative properties depend on number of solute particles. Density is an intensive property not related to particle count."
+  },
+  {
+    "question": "The acid used in lead-acid battery is:",
+    "options": ["HCl", "HNO₃", "H₂SO₄", "H₃PO₄"],
+    "correctAnswer": "H₂SO₄",
+    "explanation": "Lead-acid batteries use concentrated sulfuric acid as electrolyte for the reaction: Pb + PbO₂ + 2H₂SO₄ ⇌ 2PbSO₄ + 2H₂O."
+  },
+  {
+    "question": "The polymer in rubber is:",
+    "options": ["Isoprene", "Vinyl chloride", "Styrene", "Ethylene"],
+    "correctAnswer": "Isoprene",
+    "explanation": "Natural rubber is polyisoprene: polymer of 2-methylbuta-1,3-diene (isoprene). Synthetic rubbers are derivatives."
+  },
+  {
+    "question": "Which reaction produces nitrogen gas?",
+    "options": ["NH₄Cl + NaOH", "NH₄Cl + NaNO₂", "NH₃ + HCl", "NH₃ + O₂"],
+    "correctAnswer": "NH₄Cl + NaNO₂",
+    "explanation": "Ammonium nitrite decomposes: NH₄NO₂ → N₂ + 2H₂O. Alternatively, NH₄Cl + NaNO₂ → NH₄NO₂ + NaCl → N₂ + 2H₂O."
+  },
+  {
+    "question": "The percentage purity of 10g CaCO₃ producing 2.24 dm³ CO₂ at STP is: [CaCO₃→CaO+CO₂]",
+    "options": ["50%", "75%", "90%", "100%"],
+    "correctAnswer": "100%",
+    "explanation": "Molar volume = 22.4 dm³/mol. Moles CO₂ = 2.24/22.4 = 0.1 mol. From equation, moles CaCO₃ = moles CO₂ = 0.1 mol. Mass pure CaCO₃ = 0.1 × 100 = 10g. Purity = (10/10)×100% = 100%."
+  },
+  {
+    "question": "The isotope used in cancer treatment is:",
+    "options": ["Carbon-14", "Cobalt-60", "Iodine-131", "Uranium-235"],
+    "correctAnswer": "Cobalt-60",
+    "explanation": "Co-60 emits gamma rays used in radiotherapy to destroy cancer cells. I-131 for thyroid, C-14 dating, U-235 fission."
+  },
+  {
+    "question": "The compound formed when calcium carbide reacts with water is:",
+    "options": ["Ethene", "Ethane", "Ethyne", "Ethanol"],
+    "correctAnswer": "Ethyne",
+    "explanation": "CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂ (ethyne/acetylene). Important reaction for producing acetylene gas."
+  },
+  {
+    "question": "The oxidation state of Mn in MnO₄⁻ is:",
+    "options": ["+3", "+5", "+7", "+8"],
+    "correctAnswer": "+7",
+    "explanation": "MnO₄⁻: O = -2, total charge = -1. x + 4(-2) = -1 → x - 8 = -1 → x = +7."
+  },
+  {
+    "question": "Which is a characteristic of transition metals?",
+    "options": [
+      "Fixed oxidation state",
+      "Form colored compounds",
+      "Low density",
+      "Poor conductors"
+    ],
+    "correctAnswer": "Form colored compounds",
+    "explanation": "Transition metals form colored ions/compounds due to d-d electronic transitions. They have variable oxidation states, high density, good conductivity."
+  },
+  {
+    "question": "The gas law PV = constant is for:",
+    "options": [
+      "Isobaric process",
+      "Isochoric process",
+      "Isothermal process",
+      "Adiabatic process"
+    ],
+    "correctAnswer": "Isothermal process",
+    "explanation": "Boyle's law: P ∝ 1/V at constant T → PV = constant. Isobaric: V/T=constant, isochoric: P/T=constant, adiabatic: PV^γ=constant."
+  },
+  {
+    "question": "The IUPAC name for CH₃CH₂OCH₂CH₃ is:",
+    "options": ["Ethoxyethane", "Diethyl ether", "Butanol", "Ethyl ethanoate"],
+    "correctAnswer": "Ethoxyethane",
+    "explanation": "Common name is diethyl ether. IUPAC: longest chain (ethane), alkoxy group (ethoxy) → ethoxyethane."
+  },
+  {
+    "question": "Which metal is stored under oil?",
+    "options": ["Copper", "Gold", "Sodium", "Mercury"],
+    "correctAnswer": "Sodium",
+    "explanation": "Sodium reacts violently with air/moisture. Stored under paraffin oil to prevent oxidation: 4Na + O₂ → 2Na₂O."
+  },
+  {
+    "question": "The number of neutrons in ³⁵₁₇Cl is:",
+    "options": ["17", "18", "35", "52"],
+    "correctAnswer": "18",
+    "explanation": "Mass number (A) = 35, Atomic number (Z) = 17. Neutrons = A - Z = 35 - 17 = 18."
+  },
+  {
+    "question": "Which compound is aromatic?",
+    "options": ["Cyclohexane", "Benzene", "Ethyne", "Ethene"],
+    "correctAnswer": "Benzene",
+    "explanation": "Benzene has delocalized π-electrons (4n+2=6 π-electrons) meeting Hückel's rule. Cyclohexane is alicyclic saturated hydrocarbon."
+  },
+  {
+    "question": "The product of fermentation of glucose is:",
+    "options": ["Methanol", "Ethanol", "Propanol", "Butanol"],
+    "correctAnswer": "Ethanol",
+    "explanation": "Yeast fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Ethanol is the primary alcohol product in alcoholic beverages."
+  },
+  {
+    "question": "The process for desalination is:",
+    "options": ["Filtration", "Distillation", "Chromatography", "Sublimation"],
+    "correctAnswer": "Distillation",
+    "explanation": "Distillation evaporates and condenses water, leaving salts behind. Reverse osmosis is also used, but distillation is traditional method."
+  },
+  {
+    "question": "Which ion causes temporary hardness of water?",
+    "options": ["Cl⁻", "SO₄²⁻", "HCO₃⁻", "NO₃⁻"],
+    "correctAnswer": "HCO₃⁻",
+    "explanation": "Temporary hardness due to Ca²⁺/Mg²⁺ bicarbonates. Removed by boiling: Ca(HCO₃)₂ → CaCO₃↓ + CO₂ + H₂O. Permanent hardness from SO₄²⁻/Cl⁻."
+  },
+  {
+    "question": "The formula of sodium trioxocarbonate(IV) is:",
+    "options": ["Na₂CO₃", "NaHCO₃", "Na₂CO₄", "Na₂C₂O₄"],
+    "correctAnswer": "Na₂CO₃",
+    "explanation": "Trioxocarbonate(IV) = carbonate ion CO₃²⁻. Sodium salt is Na₂CO₃ (sodium carbonate)."
+  },
+  {
+    "question": "The element with highest electronegativity is:",
+    "options": ["Na", "Mg", "Cl", "Br"],
+    "correctAnswer": "Cl",
+    "explanation": "Electronegativity increases across period, decreases down group. Cl (3.16) > Br (2.96) > Mg (1.31) > Na (0.93). Fluorine is highest (4.0) but not listed."
+  },
+  {
+    "question": "The catalyst in hydrogenation of oils is:",
+    "options": ["Fe", "Pt", "Ni", "V₂O₅"],
+    "correctAnswer": "Ni",
+    "explanation": "Finely divided nickel catalyst is used for hydrogenation of unsaturated vegetable oils to form margarine."
+  },
+  {
+    "question": "Which is a disaccharide?",
+    "options": ["Glucose", "Fructose", "Sucrose", "Starch"],
+    "correctAnswer": "Sucrose",
+    "explanation": "Sucrose = glucose + fructose. Glucose/fructose are monosaccharides. Starch is a polysaccharide."
+  },
+  {
+    "question": "The salt that turns blue litmus red is:",
+    "options": ["KNO₃", "Na₂CO₃", "NH₄NO₃", "CH₃COONa"],
+    "correctAnswer": "NH₄NO₃",
+    "explanation": "NH₄⁺ hydrolysis: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺ → acidic solution → turns blue litmus red. Others are neutral or basic."
+  },
+  {
+    "question": "The compound used as refrigerant is:",
+    "options": ["NH₃", "CO₂", "Freon-12", "All of the above"],
+    "correctAnswer": "All of the above",
+    "explanation": "Ammonia (NH₃), carbon dioxide (CO₂), and chlorofluorocarbons (e.g., CCl₂F₂, Freon-12) have been used as refrigerants. Freons are being phased out due to ozone depletion."
+  },
+  {
+    "question": "The number of covalent bonds in N₂ molecule is:",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3",
+    "explanation": "Nitrogen triple bond: N≡N. Triple bond = 1 sigma + 2 pi bonds, but total bond order is 3 (often counted as three bonds)."
+  },
+  {
+    "question": "The acid in vinegar is:",
+    "options": ["Citric acid", "Lactic acid", "Ethanoic acid", "Formic acid"],
+    "correctAnswer": "Ethanoic acid",
+    "explanation": "Vinegar is dilute acetic acid (CH₃COOH), typically 5-8% solution, produced by fermentation of ethanol."
+  },
+  {
+    "question": "Which is not a fossil fuel?",
+    "options": ["Coal", "Natural gas", "Petroleum", "Biogas"],
+    "correctAnswer": "Biogas",
+    "explanation": "Biogas (methane from organic waste) is renewable. Coal, natural gas, petroleum are non-renewable fossil fuels."
+  },
+  {
+    "question": "The indicator for strong acid-weak base titration is:",
+    "options": [
+      "Phenolphthalein",
+      "Methyl orange",
+      "Litmus",
+      "Bromothymol blue"
+    ],
+    "correctAnswer": "Methyl orange",
+    "explanation": "Equivalence point pH <7 (acidic). Methyl orange changes color at pH 3.1-4.4 (red to yellow). Phenolphthalein changes in basic pH."
+  },
+  {
+    "question": "The product at anode in electrolysis of brine is:",
+    "options": ["H₂", "Cl₂", "O₂", "Na"],
+    "correctAnswer": "Cl₂",
+    "explanation": "Concentrated NaCl solution: At anode: 2Cl⁻ → Cl₂ + 2e⁻ (preferred over OH⁻ oxidation). At cathode: 2H₂O + 2e⁻ → H₂ + 2OH⁻."
+  },
+  {
+    "question": "The alkane with highest octane number is:",
+    "options": ["n-pentane", "n-hexane", "n-heptane", "Iso-octane"],
+    "correctAnswer": "Iso-octane",
+    "explanation": "Octane number measures resistance to knocking. Iso-octane (2,2,4-trimethylpentane) = 100, n-heptane = 0. Branched alkanes have higher octane numbers."
+  },
+  {
+    "question": "The polymer of tetrafluoroethene is:",
+    "options": ["PVC", "PTFE", "Perspex", "Nylon"],
+    "correctAnswer": "PTFE",
+    "explanation": "Polytetrafluoroethylene (PTFE, Teflon) from CF₂=CF₂. PVC from vinyl chloride, Perspex from methyl methacrylate, nylon is polyamide."
+  },
+  {
+    "question": "The formula of rust is:",
+    "options": ["FeO", "Fe₂O₃", "Fe₂O₃·xH₂O", "Fe₃O₄"],
+    "correctAnswer": "Fe₂O₃·xH₂O",
+    "explanation": "Rust is hydrated iron(III) oxide, approximately Fe₂O₃·H₂O or FeO(OH)·Fe(OH)₃. It's a flaky hydrated oxide."
+  },
+  {
+    "question": "Which gas supports combustion?",
+    "options": ["N₂", "CO₂", "O₂", "He"],
+    "correctAnswer": "O₂",
+    "explanation": "Oxygen supports combustion by acting as oxidizing agent. CO₂ and N₂ are used in fire extinguishers, He is inert."
+  },
+  {
+    "question": "The alloy containing copper and tin is:",
+    "options": ["Brass", "Bronze", "Steel", "Duralumin"],
+    "correctAnswer": "Bronze",
+    "explanation": "Bronze = Cu + Sn. Brass = Cu + Zn. Steel = Fe + C (+ others). Duralumin = Al + Cu + Mg."
+  },
+  {
+    "question": "The acid used in pickling steel is:",
+    "options": ["HCl", "H₂SO₄", "HNO₃", "Both A and B"],
+    "correctAnswer": "Both A and B",
+    "explanation": "Dilute HCl or H₂SO₄ removes rust (iron oxides) from steel surfaces before galvanizing or electroplating."
+  },
+  {
+    "question": "The number of isomers for C₄H₁₀ is:",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "2",
+    "explanation": "Butane (n-butane) and 2-methylpropane (isobutane). Structural isomers: same molecular formula, different connectivity."
+  },
+  {
+    "question": "The process for separating crude oil is:",
+    "options": [
+      "Distillation",
+      "Fractional distillation",
+      "Steam distillation",
+      "Vacuum distillation"
+    ],
+    "correctAnswer": "Fractional distillation",
+    "explanation": "Crude oil is separated into fractions (naphtha, kerosene, diesel, etc.) based on boiling points using fractional distillation tower."
+  },
+  {
+    "question": "Which is a Lewis base?",
+    "options": ["BF₃", "AlCl₃", "NH₃", "H⁺"],
+    "correctAnswer": "NH₃",
+    "explanation": "Lewis base donates electron pair. NH₃ has lone pair on N. BF₃, AlCl₃, H⁺ are Lewis acids (electron pair acceptors)."
+  },
+  {
+    "question": "The compound that gives iodoform test is:",
+    "options": ["CH₃CH₂OH", "CH₃CHO", "CH₃COCH₃", "All of the above"],
+    "correctAnswer": "All of the above",
+    "explanation": "Iodoform test positive for: methyl ketones (RCOCH₃), acetaldehyde (CH₃CHO), and alcohols oxidizable to these (e.g., CH₃CH₂OH → CH₃CHO)."
+  },
+  {
+    "question": "The gas responsible for ozone layer depletion is:",
+    "options": ["CO₂", "CFC", "SO₂", "CH₄"],
+    "correctAnswer": "CFC",
+    "explanation": "Chlorofluorocarbons (CFCs) release Cl atoms that catalyze ozone destruction: Cl + O₃ → ClO + O₂; ClO + O → Cl + O₂."
+  },
+  {
+    "question": "The oxidation state of sulfur in H₂SO₃ is:",
+    "options": ["+2", "+4", "+6", "+8"],
+    "correctAnswer": "+4",
+    "explanation": "H₂SO₃ (sulfurous acid): 2(+1) + x + 3(-2) = 0 → 2 + x - 6 = 0 → x = +4."
+  },
+  {
+    "question": "Which is a property of ionic compounds?",
+    "options": [
+      "Low melting point",
+      "Soluble in non-polar solvents",
+      "Conduct electricity in solid state",
+      "High melting point"
+    ],
+    "correctAnswer": "High melting point",
+    "explanation": "Ionic compounds have high melting points due to strong electrostatic forces. They conduct only when molten/dissolved, are soluble in polar solvents."
+  },
+  {
+    "question": "The product when ethanol is oxidized with acidified KMnO₄ is:",
+    "options": ["Ethanal", "Ethanoic acid", "Ethane", "Ethene"],
+    "correctAnswer": "Ethanoic acid",
+    "explanation": "Strong oxidizing agents (KMnO₄/K₂Cr₂O₇) oxidize primary alcohols to carboxylic acids: CH₃CH₂OH → CH₃CHO → CH₃COOH."
+  },
+  {
+    "question": "The salt that is deliquescent is:",
+    "options": ["Na₂CO₃", "Na₂CO₃·10H₂O", "CaCl₂", "NaCl"],
+    "correctAnswer": "CaCl₂",
+    "explanation": "Deliquescent substances absorb moisture to form solution. CaCl₂ is hygroscopic and used as drying agent. Na₂CO₃·10H₂O effloresces."
+  },
+  {
+    "question": "The element with electron configuration [Ne]3s²3p⁵ is:",
+    "options": ["F", "Cl", "Br", "I"],
+    "correctAnswer": "Cl",
+    "explanation": "[Ne] = 1s²2s²2p⁶. Total: 10 + 2 + 5 = 17 electrons → chlorine (atomic number 17)."
+  },
+  {
+    "question": "The formula of calcium dihydrogenphosphate is:",
+    "options": ["CaHPO₄", "Ca(H₂PO₄)₂", "Ca₃(PO₄)₂", "Ca₂P₂O₇"],
+    "correctAnswer": "Ca(H₂PO₄)₂",
+    "explanation": "Dihydrogenphosphate = H₂PO₄⁻. Calcium salt: Ca²⁺ with two H₂PO₄⁻ → Ca(H₂PO₄)₂. Component of superphosphate fertilizer."
+  },
+  {
+    "question": "The bond in HCl is:",
+    "options": ["Ionic", "Covalent", "Coordinate", "Metallic"],
+    "correctAnswer": "Covalent",
+    "explanation": "HCl shares electrons (covalent bond), though polar due to electronegativity difference (ΔEN=0.9). Not ionic (ΔEN<1.7)."
+  },
+  {
+    "question": "The reaction 2NO₂(g) ⇌ N₂O₄(g) is exothermic. Equilibrium shifts left with:",
+    "options": [
+      "Increased pressure",
+      "Decreased pressure",
+      "Increased temperature",
+      "Catalyst"
+    ],
+    "correctAnswer": "Increased temperature",
+    "explanation": "Exothermic: ↑T favors reverse (endothermic) reaction (left). Pressure: 2 mol → 1 mol, ↑P favors right (N₂O₄). Catalyst speeds equilibrium attainment."
+  },
+  {
+    "question": "Which is a non-reducing sugar?",
+    "options": ["Glucose", "Fructose", "Sucrose", "Maltose"],
+    "correctAnswer": "Sucrose",
+    "explanation": "Sucrose lacks free aldehyde/ketone group (glycosidic bond involves both anomeric carbons) → no reducing properties. Others have free anomeric carbon."
+  },
+  {
+    "question": "The metal that forms protective oxide layer is:",
+    "options": ["Iron", "Copper", "Aluminum", "Sodium"],
+    "correctAnswer": "Aluminum",
+    "explanation": "Al forms thin, adherent Al₂O₃ layer that prevents further oxidation. Iron rust is porous and flakes off."
+  },
+  {
+    "question": "The process for producing soap is:",
+    "options": [
+      "Esterification",
+      "Saponification",
+      "Hydrolysis",
+      "Fermentation"
+    ],
+    "correctAnswer": "Saponification",
+    "explanation": "Saponification: triglyceride (fat/oil) + NaOH → glycerol + soap (sodium carboxylate). Alkaline hydrolysis of esters."
+  },
+  {
+    "question": "The compound used as dry cleaning agent is:",
+    "options": ["CCl₄", "CHCl₃", "CH₂Cl₂", "All of the above"],
+    "correctAnswer": "All of the above",
+    "explanation": "Chlorinated hydrocarbons (CCl₄, CHCl₃, CH₂Cl₂) dissolve greases without damaging fabrics. Being phased out due to toxicity/environmental concerns."
+  },
+  {
+    "question": "The number of π-bonds in C₂H₂ is:",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "2",
+    "explanation": "Acetylene: H-C≡C-H. Triple bond = 1 sigma + 2 pi bonds. Total π-bonds = 2."
+  },
+  {
+    "question": "The salt used in photography is:",
+    "options": ["AgCl", "AgBr", "AgI", "Ag₂SO₄"],
+    "correctAnswer": "AgBr",
+    "explanation": "Silver bromide (AgBr) in photographic film decomposes on exposure: 2AgBr → 2Ag + Br₂, forming latent image developed with reducing agents."
+  },
+  {
+    "question": "The acid found in ants is:",
+    "options": ["Formic acid", "Acetic acid", "Butyric acid", "Citric acid"],
+    "correctAnswer": "Formic acid",
+    "explanation": "Formic acid (HCOOH) is present in ant stings and nettles. Causes burning sensation."
+  },
+  {
+    "question": "Which is a synthetic polymer?",
+    "options": ["Starch", "Protein", "PVC", "DNA"],
+    "correctAnswer": "PVC",
+    "explanation": "Polyvinyl chloride (PVC) is synthetic. Starch, proteins, DNA are natural polymers."
+  },
+  {
+    "question": "The ion that gives precipitate with NaOH but dissolves in excess is:",
+    "options": ["Ca²⁺", "Fe³⁺", "Al³⁺", "Cu²⁺"],
+    "correctAnswer": "Al³⁺",
+    "explanation": "Al³⁺ + 3OH⁻ → Al(OH)₃↓ (white). Al(OH)₃ + OH⁻ → [Al(OH)₄]⁻ (soluble). Zn²⁺ also does this. Fe³⁺ gives red-brown ppt insoluble in excess."
+  },
+  {
+    "question": "The percentage of oxygen in air is approximately:",
+    "options": ["21%", "78%", "0.03%", "1%"],
+    "correctAnswer": "21%",
+    "explanation": "By volume: N₂ ≈78%, O₂≈21%, Ar≈0.9%, CO₂≈0.04%. Essential for respiration and combustion."
+  },
+  {
+    "question": "The compound with sp hybridization is:",
+    "options": ["CH₄", "C₂H₄", "C₂H₂", "NH₃"],
+    "correctAnswer": "C₂H₂",
+    "explanation": "Acetylene (C₂H₂): each C has 2 electron domains (1 σ-bond to H, 1 σ-bond to C, 2 π-bonds) → sp hybridization. CH₄ (sp³), C₂H₄ (sp²), NH₃ (sp³)."
+  },
+  {
+    "question": "The hormone regulating blood glucose is:",
+    "options": ["Adrenaline", "Thyroxine", "Insulin", "Estrogen"],
+    "correctAnswer": "Insulin",
+    "explanation": "Insulin (from pancreas) lowers blood glucose by promoting cellular uptake. Glucagon raises it. Adrenaline prepares for 'fight or flight'."
+  },
+  {
+    "question": "The acid used in car batteries is:",
+    "options": ["H₂SO₄", "HCl", "HNO₃", "CH₃COOH"],
+    "correctAnswer": "H₂SO₄",
+    "explanation": "Lead-acid batteries use concentrated sulfuric acid (H₂SO₄) as electrolyte for reversible reaction: Pb + PbO₂ + 2H₂SO₄ ⇌ 2PbSO₄ + 2H₂O."
+  },
+  {
+    "question": "The process of rusting requires:",
+    "options": ["O₂ only", "H₂O only", "Both O₂ and H₂O", "CO₂"],
+    "correctAnswer": "Both O₂ and H₂O",
+    "explanation": "Rusting: electrochemical process requiring oxygen and water. Anodic: Fe → Fe²⁺ + 2e⁻; Cathodic: O₂ + 2H₂O + 4e⁻ → 4OH⁻."
+  },
+  {
+    "question": "The metal that displaces copper from CuSO₄ solution is:",
+    "options": ["Ag", "Hg", "Pb", "Zn"],
+    "correctAnswer": "Zn",
+    "explanation": "Zn is above Cu in reactivity series: Zn + CuSO₄ → ZnSO₄ + Cu. Ag, Hg, Pb are below Cu → no displacement."
+  },
+  {
+    "question": "The number of electrons in Cl⁻ ion is:",
+    "options": ["17", "18", "19", "20"],
+    "correctAnswer": "18",
+    "explanation": "Cl atomic number = 17 → neutral atom has 17 electrons. Cl⁻ gains 1 electron → 18 electrons."
+  },
+  {
+    "question": "The compound used as anesthetic is:",
+    "options": ["CH₃OH", "C₂H₅OH", "CHCl₃", "CH₃COCH₃"],
+    "correctAnswer": "CHCl₃",
+    "explanation": "Chloroform (trichloromethane, CHCl₃) was historically used as general anesthetic. Now replaced due to toxicity."
+  },
+  {
+    "question": "The catalyst in Ostwald process is:",
+    "options": ["Pt", "V₂O₅", "Fe", "Ni"],
+    "correctAnswer": "Pt",
+    "explanation": "Ostwald process for HNO₃: NH₃ + O₂ → NO + H₂O uses platinum-rhodium catalyst at 900°C."
+  },
+  {
+    "question": "Which is a primary standard?",
+    "options": ["NaOH", "KOH", "K₂Cr₂O₇", "H₂SO₄"],
+    "correctAnswer": "K₂Cr₂O₇",
+    "explanation": "Primary standards: pure, stable, high molar mass. K₂Cr₂O₇ is primary standard for redox titrations. NaOH/H₂SO₄ absorb moisture/CO₂."
+  },
+  {
+    "question": "The isotope for carbon dating is:",
+    "options": ["¹²C", "¹³C", "¹⁴C", "¹⁵C"],
+    "correctAnswer": "¹⁴C",
+    "explanation": "Carbon-14 (¹⁴C) is radioactive (half-life 5730 years). Ratio ¹⁴C/¹²C in organic remains used to determine age."
+  },
+  {
+    "question": "The compound with highest ionic character is:",
+    "options": ["NaCl", "MgCl₂", "AlCl₃", "SiCl₄"],
+    "correctAnswer": "NaCl",
+    "explanation": "Higher charge/smaller ions increase ionic character, but greater electronegativity difference favors ionic character. ΔEN: NaCl (2.23) > MgCl₂ (1.85) > AlCl₃ (1.55) > SiCl₄ (1.2). NaCl is most ionic."
+  },
+  {
+    "question": "The product of complete combustion of methane is:",
+    "options": ["C and H₂O", "CO and H₂", "CO₂ and H₂O", "CO₂ and H₂"],
+    "correctAnswer": "CO₂ and H₂O",
+    "explanation": "CH₄ + 2O₂ → CO₂ + 2H₂O. With sufficient oxygen, complete combustion produces CO₂ and H₂O. Incomplete produces CO or C."
+  },
+  {
+    "question": "The ion that gives crimson flame test is:",
+    "options": ["Ba²⁺", "Ca²⁺", "Sr²⁺", "K⁺"],
+    "correctAnswer": "Sr²⁺",
+    "explanation": "Strontium (Sr²⁺) gives crimson red flame. Barium: apple green, calcium: brick red, potassium: lilac."
+  },
+  {
+    "question": "The formula of quicklime is:",
+    "options": ["CaO", "Ca(OH)₂", "CaCO₃", "CaSO₄"],
+    "correctAnswer": "CaO",
+    "explanation": "Quicklime = calcium oxide (CaO). Slaked lime = Ca(OH)₂, limestone = CaCO₃, gypsum = CaSO₄·2H₂O."
+  },
+  {
+    "question": "Which is a greenhouse gas?",
+    "options": ["O₂", "N₂", "Ar", "H₂O"],
+    "correctAnswer": "H₂O",
+    "explanation": "Water vapor is the most abundant greenhouse gas, absorbing IR radiation. Others (O₂, N₂, Ar) are transparent to IR."
+  },
+  {
+    "question": "The monomer of nylon 6,6 is:",
+    "options": [
+      "Ethylene glycol and terephthalic acid",
+      "Caprolactam",
+      "Hexanedioic acid and 1,6-diaminohexane",
+      "Styrene"
+    ],
+    "correctAnswer": "Hexanedioic acid and 1,6-diaminohexane",
+    "explanation": "Nylon-6,6 from hexanedioic acid (adipic acid) and 1,6-diaminohexane (hexamethylenediamine). Condensation polymerization with amide linkage."
+  },
+  {
+    "question": "The acid used in making explosives is:",
+    "options": ["H₂SO₄", "HNO₃", "HCl", "H₃PO₄"],
+    "correctAnswer": "HNO₃",
+    "explanation": "Nitric acid (HNO₃) is used to nitrate organic compounds e.g., nitroglycerin (glyceryl trinitrate), TNT (trinitrotoluene)."
+  },
+  {
+    "question": "The compound used as antifreeze in car radiators is:",
+    "options": ["Ethanol", "Ethylene glycol", "Glycerol", "Methanol"],
+    "correctAnswer": "Ethylene glycol",
+    "explanation": "Ethylene glycol (HO-CH₂-CH₂-OH) has low volatility, high boiling point, and depresses freezing point of water effectively."
+  },
+  {
+    "question": "The salt that is efflorescent is:",
+    "options": ["Na₂CO₃·10H₂O", "CuSO₄·5H₂O", "CaCl₂", "NaCl"],
+    "correctAnswer": "Na₂CO₃·10H₂O",
+    "explanation": "Efflorescent salts lose water to atmosphere. Na₂CO₃·10H₂O → Na₂CO₃ + 10H₂O (powders). CuSO₄·5H₂O is blue, effloresces slowly."
+  },
+  {
+    "question": "The element with highest first ionization energy in Period 3 is:",
+    "options": ["Na", "Mg", "Al", "Cl"],
+    "correctAnswer": "Cl",
+    "explanation": "Ionization energy increases across period: Na (496) < Mg (738) < Al (577) < Si (786) < P (1012) < S (1000) < Cl (1251) kJ/mol. Ar is highest but not listed."
+  },
+  {
+    "question": "The gas that turns lime water milky is:",
+    "options": ["H₂", "O₂", "N₂", "CO₂"],
+    "correctAnswer": "CO₂",
+    "explanation": "CO₂ reacts with Ca(OH)₂: Ca(OH)₂ + CO₂ → CaCO₃↓ (white ppt) + H₂O. Milky appearance due to suspension of CaCO₃."
+  },
+  {
+    "question": "The process for producing ammonia is:",
+    "options": [
+      "Haber process",
+      "Contact process",
+      "Ostwald process",
+      "Solvay process"
+    ],
+    "correctAnswer": "Haber process",
+    "explanation": "Haber-Bosch process: N₂ + 3H₂ ⇌ 2NH₃ using Fe catalyst, high pressure (200 atm), moderate temperature (450°C)."
+  },
+  {
+    "question": "The compound used in bleach is:",
+    "options": ["Na₂CO₃", "NaHCO₃", "NaCl", "NaOCl"],
+    "correctAnswer": "NaOCl",
+    "explanation": "Sodium hypochlorite (NaOCl) in bleach oxidizes colored compounds. Reaction: Cl₂ + 2NaOH → NaCl + NaOCl + H₂O."
+  },
+  {
+    "question": "The hydrocarbon with general formula CₙH₂ₙ is:",
+    "options": ["Alkane", "Alkene", "Alkyne", "Cycloalkane"],
+    "correctAnswer": "Alkene",
+    "explanation": "Alkenes: CₙH₂ₙ. Alkynes: CₙH₂ₙ₋₂. Cycloalkanes also CₙH₂ₙ, but alkene is the open-chain unsaturated hydrocarbon."
+  },
+  {
+    "question": "The acid used in batteries for torches is:",
+    "options": ["HCl", "H₂SO₄", "HNO₃", "CH₃COOH"],
+    "correctAnswer": "H₂SO₄",
+    "explanation": "Lead-acid batteries use H₂SO₄. Dry cells (torches) use ammonium chloride paste or alkali (KOH) electrolyte, not liquid acid."
+  },
+  {
+    "question": "The number of structural isomers for pentane (C₅H₁₂) is:",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "3",
+    "explanation": "Pentane isomers: n-pentane, isopentane (2-methylbutane), neopentane (2,2-dimethylpropane). Three structural isomers."
+  },
+  {
+    "question": "The metal extracted by reduction with carbon is:",
+    "options": ["Al", "Fe", "Na", "Mg"],
+    "correctAnswer": "Fe",
+    "explanation": "Iron extracted from hematite (Fe₂O₃) by reduction with coke: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Al, Na, Mg extracted by electrolysis."
+  },
+  {
+    "question": "The compound that turns anhydrous CuSO₄ blue is:",
+    "options": ["Alcohol", "Water", "Hydrogen", "Oxygen"],
+    "correctAnswer": "Water",
+    "explanation": "Anhydrous CuSO₄ (white) + H₂O → CuSO₄·5H₂O (blue). Used to test for water."
+  },
+  {
+    "question": "The catalyst in Friedel-Crafts alkylation is:",
+    "options": ["AlCl₃", "FeCl₃", "Both A and B", "Ni"],
+    "correctAnswer": "Both A and B",
+    "explanation": "Friedel-Crafts alkylation uses Lewis acid catalyst: AlCl₃ or FeCl₃ to generate electrophile R⁺ from alkyl halide."
+  },
+  {
+    "question": "The acid used in cooking soda is:",
+    "options": ["Tartaric acid", "Citric acid", "Acetic acid", "Oxalic acid"],
+    "correctAnswer": "Tartaric acid",
+    "explanation": "Baking powder contains NaHCO₃ and weak acid (e.g., tartaric acid or cream of tartar). When moistened, acid + HCO₃⁻ → CO₂ for leavening."
+  },
+  {
+    "question": "The compound used as drying agent is:",
+    "options": ["Na₂CO₃", "NaCl", "CaCl₂", "K₂CO₃"],
+    "correctAnswer": "CaCl₂",
+    "explanation": "Anhydrous CaCl₂ is hygroscopic, absorbs moisture. Used in desiccators. Not for NH₃ (forms adduct) or alcohols."
+  },
+  {
+    "question": "The element with largest atomic radius in Group 1 is:",
+    "options": ["Li", "Na", "K", "Rb"],
+    "correctAnswer": "Rb",
+    "explanation": "Atomic radius increases down group due to additional electron shells. Rb > K > Na > Li."
+  },
+  {
+    "question": "The gas produced when limestone is heated is:",
+    "options": ["CO₂", "CO", "O₂", "H₂"],
+    "correctAnswer": "CO₂",
+    "explanation": "Thermal decomposition: CaCO₃ → CaO + CO₂. Limestone (CaCO₃) produces carbon dioxide."
+  },
+  {
+    "question": "The salt used in baking powder is:",
+    "options": ["NaHCO₃", "Na₂CO₃", "NaCl", "Na₂SO₄"],
+    "correctAnswer": "NaHCO₃",
+    "explanation": "Sodium bicarbonate (baking soda) decomposes when heated: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂. CO₂ causes dough to rise."
+  },
+  {
+    "question": "The compound that decolorizes acidified KMnO₄ is:",
+    "options": ["Alkane", "Alkene", "Alcohol", "Carboxylic acid"],
+    "correctAnswer": "Alkene",
+    "explanation": "Alkenes decolorize purple KMnO₄ via oxidation to diols. Test for unsaturation. Alkynes also decolorize, but alkanes do not."
+  },
+  {
+    "question": "The metal used in galvanizing iron is:",
+    "options": ["Cu", "Zn", "Sn", "Cr"],
+    "correctAnswer": "Zn",
+    "explanation": "Galvanizing: coating iron with zinc to prevent rusting. Zn protects sacrificially (more reactive) and forms protective layer."
+  },
+  {
+    "question": "The acid used in vinegar is:",
+    "options": ["Formic acid", "Acetic acid", "Butyric acid", "Lactic acid"],
+    "correctAnswer": "Acetic acid",
+    "explanation": "Vinegar is dilute acetic acid (CH₃COOH), typically 5-8%, produced by fermentation of ethanol."
+  },
+  {
+    "question": "The number of electrons in M shell of chlorine atom is:",
+    "options": ["2", "7", "8", "17"],
+    "correctAnswer": "7",
+    "explanation": "Cl (17): K=2, L=8, M=7 electrons. Configuration: 1s²2s²2p⁶3s²3p⁵. M shell (n=3) has 2+5=7 electrons."
+  },
+  {
+    "question": "The compound used in smoke screens is:",
+    "options": ["P₄O₁₀", "NH₄Cl", "ZnS", "CaC₂"],
+    "correctAnswer": "P₄O₁₀",
+    "explanation": "Phosphorus pentoxide (P₄O₁₀) reacts with moisture to form phosphoric acid mist, used in smoke screens."
+  },
+  {
+    "question": "The salt that is hygroscopic is:",
+    "options": ["Na₂CO₃", "Na₂CO₃·10H₂O", "NaCl", "CaO"],
+    "correctAnswer": "CaO",
+    "explanation": "Hygroscopic substances absorb moisture from air. CaO (quicklime) absorbs H₂O to form Ca(OH)₂. Used in drying gases."
+  },
+  {
+    "question": "The element with highest electron affinity in Group 17 is:",
+    "options": ["F", "Cl", "Br", "I"],
+    "correctAnswer": "Cl",
+    "explanation": "Electron affinity: Cl (349 kJ/mol) > F (328 kJ/mol) > Br (324 kJ/mol) > I (295 kJ/mol). F has lower than Cl due to small size/repulsion."
+  },
+  {
+    "question": "The gas produced when zinc reacts with NaOH is:",
+    "options": ["H₂", "O₂", "Cl₂", "NH₃"],
+    "correctAnswer": "H₂",
+    "explanation": "Amphoteric Zn reacts with strong base: Zn + 2NaOH + 2H₂O → Na₂Zn(OH)₄ + H₂. Hydrogen gas is evolved."
+  },
+  {
+    "question": "The compound used in vulcanization of rubber is:",
+    "options": ["S", "P", "C", "Si"],
+    "correctAnswer": "S",
+    "explanation": "Vulcanization: heating natural rubber with sulfur forms cross-links between chains, improving elasticity and durability."
+  },
+  {
+    "question": "The acid used in eye wash is:",
+    "options": ["Boric acid", "Oxalic acid", "Tartaric acid", "Citric acid"],
+    "correctAnswer": "Boric acid",
+    "explanation": "Dilute boric acid (H₃BO₃) solution is used as mild antiseptic eye wash. Other acids are irritating."
+  },
+  {
+    "question": "The salt used in fire extinguishers is:",
+    "options": ["NaHCO₃", "Na₂CO₃", "NaCl", "Na₂SO₄"],
+    "correctAnswer": "NaHCO₃",
+    "explanation": "Soda-acid extinguishers: H₂SO₄ + 2NaHCO₃ → Na₂SO₄ + 2H₂O + 2CO₂. CO₂ smothers fire."
+  },
+  {
+    "question": "The compound that gives white precipitate with AgNO₃ soluble in NH₃ is:",
+    "options": ["NaCl", "NaBr", "NaI", "All of the above"],
+    "correctAnswer": "NaCl",
+    "explanation": "AgCl (white ppt) soluble in NH₃(aq) forming [Ag(NH₃)₂]⁺. AgBr (pale yellow) partially soluble, AgI (yellow) insoluble."
+  },
+  {
+    "question": "The metal that forms amphoteric oxide is:",
+    "options": ["Ca", "Fe", "Zn", "Cu"],
+    "correctAnswer": "Zn",
+    "explanation": "ZnO + 2HCl → ZnCl₂ + H₂O; ZnO + 2NaOH + H₂O → Na₂Zn(OH)₄. Aluminum and tin also form amphoteric oxides."
+  },
+  {
+    "question": "The acid used in flavoring is:",
+    "options": [
+      "Acetic acid",
+      "Citric acid",
+      "Tartaric acid",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Acetic acid (vinegar), citric acid (citrus fruits), tartaric acid (grapes) are used as food additives for flavor."
+  },
+  {
+    "question": "The compound used as refrigerant is:",
+    "options": ["NH₃", "CO₂", "Freon", "All of the above"],
+    "correctAnswer": "All of the above",
+    "explanation": "Ammonia, carbon dioxide, and various freons (CFCs, HCFCs) are used as refrigerants. Freons are being phased out."
+  },
+  {
+    "question": "The salt that is blue in color is:",
+    "options": ["CuSO₄", "CuSO₄·5H₂O", "CuCl₂", "Cu(NO₃)₂"],
+    "correctAnswer": "CuSO₄·5H₂O",
+    "explanation": "Hydrated copper(II) sulfate: CuSO₄·5H₂O is blue. Anhydrous CuSO₄ is white. CuCl₂ and Cu(NO₃)₂ are blue-green in solution."
+  },
+  {
+    "question": "The element with lowest melting point in Group 1 is:",
+    "options": ["Li", "Na", "K", "Cs"],
+    "correctAnswer": "Cs",
+    "explanation": "Melting point decreases down Group 1 due to weaker metallic bonds with larger atoms. Cs (28.5°C) is liquid near room temperature."
+  },
+  {
+    "question": "The gas used in balloons is:",
+    "options": ["H₂", "He", "Ne", "O₂"],
+    "correctAnswer": "He",
+    "explanation": "Helium is used because it's inert and lighter than air. Hydrogen is flammable and not used for safety reasons."
+  },
+  {
+    "question": "The compound used in matches is:",
+    "options": ["P₄", "S", "KClO₃", "All of the above"],
+    "correctAnswer": "All of the above",
+    "explanation": "Match heads contain potassium chlorate (oxidizer), sulfur (fuel), and phosphorus sesquisulfide (igniter). Red phosphorus on strike strip."
+  }
+]
