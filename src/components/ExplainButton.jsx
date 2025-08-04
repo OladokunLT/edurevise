@@ -2,14 +2,12 @@ import React, { useState } from "react";
 import { Button, Typography, Collapse, Box, IconButton } from "@mui/material";
 import { ExpandMore, ExpandLess } from "@mui/icons-material";
 
-const ExplainButton = ({ explanation }) => {
-  const [expanded, setExpanded] = useState(false);
-
+const ExplainButton = ({ explanation, expanded, onToggle }) => {
   return (
     <Box mt={2}>
       <Button
         variant="outlined"
-        onClick={() => setExpanded(!expanded)}
+        onClick={onToggle}
         endIcon={expanded ? <ExpandLess /> : <ExpandMore />}
       >
         {expanded ? "Hide Explanation" : "Show Explanation"}

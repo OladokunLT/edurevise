@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import { useSearchParams, useNavigate } from "react-router-dom";
 import QuizCard from "../components/QuizCard";
 import { Box, Button, Typography, LinearProgress } from "@mui/material";
@@ -12,9 +12,13 @@ const Quiz = () => {
   const [loading, setLoading] = useState(true);
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
+  const [showExplanation, setShowExplanation] = useState(false);
+  const [timeLeft, setTimeLeft] = useState(0);
+  const timerRef = useRef(null);
 
   const subject = searchParams.get("subject");
   const questionCount = parseInt(searchParams.get("count")) || 10;
+  const quizTime = parseInt(searchParams.get("time")) || 5;
 
   useEffect(() => {
     const loadQuestions = async () => {
@@ -38,6 +42,24 @@ const Quiz = () => {
     loadQuestions();
   }, [subject, questionCount, navigate]);
 
+  useEffect(() => {
+    const totalSeconds = quizTime * 60;
+    setTimeLeft(totalSeconds);
+
+    timerRef.current = setInterval(() => {
+      setTimeLeft((prev) => {
+        if (prev < 1) {
+          clearInterval(timerRef.current);
+          handleAutoSubmit();
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(timerRef.current);
+  }, [quizTime]);
+
   const handleSelect = (answer) => {
     setAnswers({ ...answers, [index]: answer });
   };
@@ -45,6 +67,7 @@ const Quiz = () => {
   const handleNext = () => {
     if (index < displayedQuestions.length - 1) {
       setIndex(index + 1);
+      setShowExplanation(false);
     } else {
       navigate("/result", {
         state: {
@@ -58,6 +81,17 @@ const Quiz = () => {
 
   const handlePrev = () => {
     if (index > 0) setIndex(index - 1);
+    setShowExplanation(true);
+  };
+
+  const handleAutoSubmit = () => {
+    navigate("/result", {
+      state: {
+        questions: displayedQuestions,
+        answers,
+        totalQuestions: questions.length,
+      },
+    });
   };
 
   if (loading)
@@ -92,6 +126,25 @@ const Quiz = () => {
   return (
     <Box p={3} maxWidth="800px" margin="0 auto">
       <Box mb={2}>
+        <Typography
+          variant="subtitle1"
+          sx={{
+            mb: 1,
+            fontWeight: "bold",
+            color:
+              timeLeft <= 60
+                ? "error.main"
+                : timeLeft <= 120
+                ? "orange"
+                : "text.primary",
+          }}
+        >
+          Time Left:{" "}
+          {Math.floor(timeLeft / 60)
+            .toString()
+            .padStart(2, "0")}
+          : {(timeLeft % 60).toString().padStart(2, "0")}
+        </Typography>
         <LinearProgress variant="determinate" value={progress} />
         <Typography variant="subtitle2" mt={0.5} textAlign="right">
           {index + 1}/{displayedQuestions.length} ({Math.round(progress)}%)
@@ -108,7 +161,11 @@ const Quiz = () => {
         onSelect={handleSelect}
       />
 
-      <ExplainButton explanation={currentQuestion.explanation} />
+      <ExplainButton
+        explanation={currentQuestion.explanation}
+        expanded={showExplanation}
+        onToggle={() => setShowExplanation((prev) => !prev)}
+      />
 
       <Box mt={3} display="flex" justifyContent="space-between">
         <Button variant="outlined" onClick={handlePrev} disabled={index === 0}>

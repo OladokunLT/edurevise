@@ -21,10 +21,13 @@ const subjects = [
 const Home = () => {
   const navigate = useNavigate();
   const [questionCount, setQuestionCount] = useState(10);
+  const [quizTime, setQuizTime] = useState(5);
   const [selectedSubject, setSelectedSubject] = useState("english");
 
   const startQuiz = () => {
-    navigate(`/quiz?subject=${selectedSubject}&count=${questionCount}`);
+    navigate(
+      `/quiz?subject=${selectedSubject}&count=${questionCount}&time=${quizTime}`
+    );
   };
 
   return (
@@ -70,8 +73,32 @@ const Home = () => {
                 );
                 setQuestionCount(value);
               }}
-              slotProps={{ input: { min: 1, max: 50 } }}
+              inputProps={{ min: 1, max: 50 }}
               helperText={`Max 50 questions (${questionCount} selected)`}
+            />
+
+            <TextField
+              fullWidth
+              type="number"
+              label="Time (minutes)"
+              value={quizTime}
+              onChange={(e) => {
+                const value = Math.min(
+                  120,
+                  Math.max(1, parseInt(e.target.value) || 5)
+                );
+                setQuizTime(value);
+              }}
+              slotProps={{
+                input: {
+                  inputProps: {
+                    min: 1,
+                    max: 120,
+                  },
+                },
+              }}
+              helperText={`Timer: ${quizTime} minute(s)`}
+              sx={{ mt: 2 }}
             />
           </Paper>
         </Grid>
