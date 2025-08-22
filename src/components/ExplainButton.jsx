@@ -8,6 +8,7 @@ const ExplainButton = ({ explanation, expanded, onToggle }) => {
       <Button
         variant="outlined"
         onClick={onToggle}
+        disabled
         endIcon={expanded ? <ExpandLess /> : <ExpandMore />}
       >
         {expanded ? "Hide Explanation" : "Show Explanation"}
