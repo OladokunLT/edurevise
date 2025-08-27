@@ -15,9 +15,9 @@ const ExplainButton = ({ explanation, expanded, onToggle }) => {
       </Button>
 
       <Collapse in={expanded}>
-        <Typography mt={2} p={2} bgcolor="background.paper" borderRadius={1}>
+        {/* <Typography mt={2} p={2} bgcolor="background.paper" borderRadius={1}>
           {explanation || "No explanation available for this question."}
-        </Typography>
+        </Typography> */}
       </Collapse>
     </Box>
   );

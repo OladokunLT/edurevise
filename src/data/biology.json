@@ -1,237 +1,302 @@
 [
   {
-    "question": "What is the primary structural component of the cell wall in Kingdom Monera?",
-    "options": ["Cellulose", "Chitin", "Peptidoglycan", "Silica"],
-    "correctAnswer": "Peptidoglycan",
-    "explanation": "The document states that organisms in Kingdom Monera have 'cell walls of peptidoglycan'."
-  },
-  {
-    "question": "A unicellular, photosynthetic organism with an eye spot is most likely a member of which phylum?",
-    "options": ["Rhizopoda", "Ciliophora", "Euglenophyta", "Sporozoa"],
-    "correctAnswer": "Euglenophyta",
-    "explanation": "Euglenophyta, exemplified by Euglena, is described as having an 'Eye spot; photosynthesis'."
-  },
-  {
-    "question": "Which of the following is a key characteristic that distinguishes Kingdom Fungi from Kingdom Plantae?",
+    "question": "Which organelle is the primary site for the synthesis of proteins destined for export from the cell?",
     "options": [
-      "Presence of a nucleus",
-      "Cell wall composition",
-      "Mode of nutrition",
-      "Multicellularity"
+      "Free ribosomes",
+      "Smooth Endoplasmic Reticulum",
+      "Rough Endoplasmic Reticulum",
+      "Golgi apparatus"
     ],
-    "correctAnswer": "Cell wall composition",
-    "explanation": "Fungi have 'chitin cell walls', while plants have 'cellulose cell walls'. Both are eukaryotic and can be multicellular, and both can have saprophytic/non-photosynthetic members, making cell wall composition a primary distinguishing feature."
+    "correctAnswer": "Rough Endoplasmic Reticulum",
+    "explanation": "The rough ER is studded with ribosomes and is specialized for synthesizing and modifying proteins that will be secreted or embedded in membranes."
   },
   {
-    "question": "In the Nigerian context, which organism is cited for its role in nitrogen fixation within plant roots?",
-    "options": ["E. coli", "Rhizobium", "Lactobacillus", "Plasmodium"],
-    "correctAnswer": "Rhizobium",
-    "explanation": "The document lists '*Rhizobium* (fixes nitrogen in bean roots)' as an example under Kingdom Monera."
-  },
-  {
-    "question": "Which division of Kingdom Plantae is characterized by the presence of vascular tissue and reproduction via spores, but not seeds?",
+    "question": "A student observes a cell with a large central vacuole, chloroplasts, and a rigid cell wall. This cell is most likely from:",
     "options": [
-      "Bryophyta",
-      "Filicinophyta",
-      "Angiospermophyta",
-      "Gymnospermophyta"
+      "Human cheek lining",
+      "Onion bulb epidermis",
+      "Elodea leaf",
+      "Animal muscle tissue"
     ],
-    "correctAnswer": "Filicinophyta",
-    "explanation": "Filicinophyta (Ferns) are described as having 'Vascular tissue; spores'."
+    "correctAnswer": "Elodea leaf",
+    "explanation": "While both onion and Elodea are plant cells, the onion bulb is a storage organ and lacks chloroplasts. The Elodea leaf is photosynthetic and would clearly show chloroplasts."
   },
   {
-    "question": "According to the document, what is a major disadvantage of increased complexity in biological organization?",
+    "question": "The rigidity of a plant cell, preventing bursting in a hypotonic solution, is primarily due to the:",
     "options": [
-      "Lack of specialization",
-      "Decreased efficiency",
-      "Interdependence",
-      "Rapid response to stimuli"
+      "Turgor pressure from the vacuole",
+      "Selectively permeable cell membrane",
+      "Structural support from the cell wall",
+      "High osmotic concentration of the cytoplasm"
     ],
-    "correctAnswer": "Interdependence",
-    "explanation": "The 'Why Complexity Evolved' section lists 'Interdependence (kidney failure → systemic collapse)' as a disadvantage."
+    "correctAnswer": "Structural support from the cell wall",
+    "explanation": "The cellulose cell wall provides rigid external support that counteracts the inward pressure of the cell membrane, preventing lysis."
   },
   {
-    "question": "Which organism is an example of a colonial form of cellular organization where cells can live independently?",
-    "options": ["Spirogyra", "Volvox", "Onion epidermis", "Human muscle cell"],
-    "correctAnswer": "Volvox",
-    "explanation": "The document states that in a 'Colony' like Volvox, cells are 'loosely associated' and 'can separate and live independently'."
-  },
-  {
-    "question": "The malaria-causing parasite Plasmodium is classified under which phylum of Kingdom Protista?",
-    "options": ["Rhizopoda", "Ciliophora", "Euglenophyta", "Sporozoa"],
-    "correctAnswer": "Sporozoa",
-    "explanation": "Plasmodium is explicitly listed as an example of the phylum Sporozoa."
-  },
-  {
-    "question": "What is the primary waste product of nitrogen metabolism excreted by many animals, as mentioned in the plant vs. animal comparison?",
-    "options": ["Oxygen", "Urea", "Water", "Latex"],
-    "correctAnswer": "Urea",
-    "explanation": "The table lists 'CO₂, urea, uric acid' as waste products for animals."
-  },
-  {
-    "question": "Which of the following pairs represents a correct match between a Nigerian example and its kingdom?",
+    "question": "Which of the following is a key functional difference between smooth and rough endoplasmic reticulum?",
     "options": [
-      "Candida - Monera",
-      "Achatina - Protista",
-      "Tilapia - Animalia",
-      "Rhizopus - Plantae"
+      "ATP production",
+      "Lipid synthesis vs. Protein synthesis",
+      "Protein packaging",
+      "Waste digestion"
     ],
-    "correctAnswer": "Tilapia - Animalia",
-    "explanation": "Tilapia (fish) is correctly listed as a 'Nigerian Species' in Kingdom Animalia. Candida and Rhizopus are Fungi, and Achatina (snail) is also Animalia."
+    "correctAnswer": "Lipid synthesis vs. Protein synthesis",
+    "explanation": "Smooth ER is involved in lipid synthesis and detoxification, while rough ER, with its attached ribosomes, is involved in protein synthesis."
   },
   {
-    "question": "A organism is multicellular, has chitin in its cell wall, and absorbs nutrients from decaying organic matter. It most likely belongs to which kingdom?",
-    "options": ["Monera", "Protista", "Fungi", "Plantae"],
-    "correctAnswer": "Fungi",
-    "explanation": "These are the defining traits of Kingdom Fungi: 'Multicellular (except yeast), chitin cell walls. Saprophytic (decomposers)...'"
-  },
-  {
-    "question": "What is the fundamental distinction between a tissue and a colony, as defined in the document?",
+    "question": "In a biological drawing of an onion cell, the presence of a nucleus is confirmed only after:",
     "options": [
-      "Number of cells",
-      "Presence of a nucleus",
-      "Ability of cells to survive independently",
-      "Method of reproduction"
+      "Peeling a very thin layer",
+      "Using a coverslip",
+      "Staining with iodine",
+      "Viewing under high power"
     ],
-    "correctAnswer": "Ability of cells to survive independently",
-    "explanation": "The 'Critical Distinction' states: '*Tissues*: Cells cannot survive alone... *Colonies*: Cells can separate and live independently'."
+    "correctAnswer": "Staining with iodine",
+    "explanation": "Iodine stain binds to DNA and other components, making the nucleus and other organelles visible against the clear cytoplasm."
   },
   {
-    "question": "Which plant division mentioned is entirely lacking in true roots and vascular tissue?",
+    "question": "Which pair of organelles is directly involved in the production and processing of a secretory enzyme?",
     "options": [
-      "Bryophyta",
-      "Filicinophyta",
-      "Angiospermophyta",
-      "All of the above"
+      "Mitochondria & Chloroplast",
+      "Nucleus & Lysosome",
+      "Ribosome & Golgi apparatus",
+      "Vacuole & Cell wall"
     ],
-    "correctAnswer": "Bryophyta",
-    "explanation": "Bryophyta (Mosses) are described with the feature 'No roots/vascular tissue'."
+    "correctAnswer": "Ribosome & Golgi apparatus",
+    "explanation": "Ribosomes synthesize the protein, and the Golgi apparatus modifies, packages, and sorts it into vesicles for secretion."
   },
   {
-    "question": "The presence of chloroplasts is a key characteristic that immediately places an organism in which kingdom?",
-    "options": ["Monera", "Protista", "Fungi", "Plantae"],
-    "correctAnswer": "Plantae",
-    "explanation": "While some protists (e.g., Euglena) can photosynthesize, the document defines Kingdom Plantae by the trait 'photosynthetic'. The presence of chloroplasts is the cellular basis for this trait and is a fundamental defining feature of plants."
+    "question": "A cell is observed to lack a nucleus and membrane-bound organelles. This cell must be a:",
+    "options": ["Fungal cell", "Plant cell", "Animal cell", "Prokaryotic cell"],
+    "correctAnswer": "Prokaryotic cell",
+    "explanation": "Prokaryotes, like bacteria, are defined by the absence of a true nucleus and membrane-bound organelles."
   },
   {
-    "question": "Based on the 'Misconception Alert', which bacterium is beneficial in the production of a Nigerian food?",
-    "options": ["E. coli", "Rhizobium", "Plasmodium", "Lactobacillus"],
-    "correctAnswer": "Lactobacillus",
-    "explanation": "The text corrects the misconception that all bacteria are harmful by stating '*Lactobacillus* makes *nono* (fermented milk)'."
-  },
-  {
-    "question": "In the hierarchy of complexity, which level is defined as 'Organs working together'?",
-    "options": ["Tissue", "Organ", "System", "Organism"],
-    "correctAnswer": "System",
-    "explanation": "The document defines 'System' as 'Organs working together (e.g., human circulatory system)'."
-  },
-  {
-    "question": "An organism is discovered that is unicellular, lacks a nucleus, and is found in a hot spring. Its most likely classification is:",
-    "options": ["Protist", "Fungus", "Animal", "Moneran"],
-    "correctAnswer": "Moneran",
-    "explanation": "The traits 'Unicellular, no nucleus' are the primary defining characteristics of Kingdom Monera (Prokaryotes)."
-  },
-  {
-    "question": "Which of the following organisms exemplifies the 'Filament' form of cellular organization?",
-    "options": ["Amoeba", "Volvox", "Spirogyra", "Human"],
-    "correctAnswer": "Spirogyra",
-    "explanation": "The document lists '*Spirogyra*' as an example of a 'Filament: Linear chains'."
-  },
-  {
-    "question": "A Nigerian plant with net-like leaf veins and seeds enclosed in fruit is most likely a:",
-    "options": ["Monocot", "Dicot", "Fern", "Moss"],
-    "correctAnswer": "Dicot",
-    "explanation": "The document states that Dicots (e.g., Beans, mango) have 'net-like veins'. Angiospermophyta (flowering plants, which include dicots) have 'Seeds in fruits' and are 'dominant in Nigeria'."
-  },
-  {
-    "question": "Which phylum within Kingdom Animalia includes both insects and crustaceans?",
-    "options": ["Chordata", "Arthropoda", "Mollusca", "Annelida"],
-    "correctAnswer": "Arthropoda",
-    "explanation": "The document lists 'Arthropoda: Insects (cockroach), crustaceans (crayfish)' as a critical phylum."
-  },
-  {
-    "question": "What is the primary basis for Whittaker's five-kingdom system of classification, as indicated in the subtitle?",
+    "question": "The biconcave shape of a mammalian red blood cell is an adaptation primarily for:",
     "options": [
-      "Color and size",
-      "Evolutionary history only",
-      "Cell structure, nutrition, complexity",
-      "Habitat and geographical location"
+      "Increased surface area for diffusion",
+      "Cell division",
+      "Protein synthesis",
+      "Structural defense"
     ],
-    "correctAnswer": "Cell structure, nutrition, complexity",
-    "explanation": "The subtitle of section II explicitly states the system is 'Based on Whittaker's system -- cell structure, nutrition, complexity'."
+    "correctAnswer": "Increased surface area for diffusion",
+    "explanation": "The biconcave shape maximizes the surface area-to-volume ratio, facilitating faster oxygen and carbon dioxide exchange."
   },
   {
-    "question": "The organism responsible for spoiling *akamu* (pap) in Nigeria is provided as an example for which kingdom?",
-    "options": ["Monera", "Protista", "Fungi", "Plantae"],
-    "correctAnswer": "Fungi",
-    "explanation": "The document lists '*Rhizopus*: Spoils *akamu* (pap)' as a 'Nigerian Example' under Kingdom Fungi."
-  },
-  {
-    "question": "Which characteristic is unique to animals when compared to plants, according to the comparison table?",
+    "question": "Methylene blue is used when preparing human cheek cells primarily to:",
     "options": [
-      "Multicellularity",
-      "Presence of organelles",
-      "Heterotrophic nutrition",
-      "No cell walls"
+      "Kill bacteria",
+      "Stain the nucleus",
+      "Provide nutrients",
+      "Prevent bursting"
     ],
-    "correctAnswer": "No cell walls",
-    "explanation": "While both are multicellular eukaryotes, and plants are autotrophic, the table lists 'No cell wall, no chloroplasts' as a defining cell structure difference for animals."
+    "correctAnswer": "Stain the nucleus",
+    "explanation": "Methylene blue is a basic dye that binds to acidic components like DNA, making the nucleus distinctly visible."
   },
   {
-    "question": "A free-living, single-celled organism with a nucleus and cilia would be classified in:",
+    "question": "Which of the following is NOT a reason plant cells can maintain a regular, rectangular shape?",
     "options": [
-      "Kingdom Monera",
-      "Kingdom Protista",
-      "Kingdom Fungi",
-      "Kingdom Animalia"
+      "The presence of a cell wall",
+      "High turgor pressure",
+      "The presence of centrioles",
+      "A large central vacuole"
     ],
-    "correctAnswer": "Kingdom Protista",
-    "explanation": "The traits 'unicellular, has nucleus/organelles' and 'Motile (cilia...)' are defining for Kingdom Protista, as seen in the example of Paramecium."
+    "correctAnswer": "The presence of centrioles",
+    "explanation": "Centrioles are involved in animal cell division and are not a factor in determining plant cell shape. The rigid wall and turgor pressure are key."
   },
   {
-    "question": "What is the highest level of biological organization exemplified by *Amoeba* according to the document?",
-    "options": ["Tissue", "Organ", "System", "Cell"],
-    "correctAnswer": "Cell",
-    "explanation": "The document states that a 'Cell' is the 'Basic unit' and gives '*Amoeba* = single cell' as the example."
+    "question": "In a well-hydrated plant, turgor pressure is generated when water enters the cell and accumulates in the:",
+    "options": ["Chloroplast", "Nucleus", "Central vacuole", "Cytoplasm"],
+    "correctAnswer": "Central vacuole",
+    "explanation": "The large central vacuole fills with water, pushing the cytoplasm and cell membrane against the rigid cell wall, creating turgor pressure."
   },
   {
-    "question": "Which of the following is NOT a trait shared by all members of Kingdom Animalia?",
-    "options": ["Multicellular", "Heterotrophic", "Motile", "No cell walls"],
-    "correctAnswer": "Motile",
-    "explanation": "While the document states animals are 'Motile (nervous/muscular systems)', this is a general trait. Some adult animals, like sponges or corals, are sessile (non-motile), though their larval forms may be motile. The other options are absolute defining traits."
+    "question": "Which organelle would be most abundant in a highly active muscle cell to provide the required energy?",
+    "options": ["Ribosomes", "Lysosomes", "Mitochondria", "Golgi apparatus"],
+    "correctAnswer": "Mitochondria",
+    "explanation": "Mitochondria are the sites of aerobic respiration and ATP production, which is essential for meeting the high energy demands of muscle contraction."
   },
   {
-    "question": "The cattle egret, a common Nigerian bird, belongs to which phylum?",
-    "options": ["Arthropoda", "Annelida", "Chordata", "Mollusca"],
-    "correctAnswer": "Chordata",
-    "explanation": "Birds are vertebrates. The document lists 'Chordata' as the phylum containing 'Mammals (humans, cattle), reptiles (lizard)'. This phylum includes all vertebrates, which encompass birds, mammals, reptiles, fish, and amphibians."
-  },
-  {
-    "question": "Which form of cellular organization involves cells that are 'Specialized units' for functions like protection?",
+    "question": "Plasmodesmata are structures found in _____ cells that allow for _____.",
     "options": [
-      "Single, Free-living",
-      "Colony",
-      "Filament",
-      "Tissue/Organ Cells"
+      "Animal / communication",
+      "Plant / communication",
+      "Prokaryotic / movement",
+      "Fungal / digestion"
     ],
-    "correctAnswer": "Tissue/Organ Cells",
-    "explanation": "The document defines 'Tissue/Organ Cells' as 'Specialized units' and gives 'onion epidermis cells for protection' as an example."
+    "correctAnswer": "Plant / communication",
+    "explanation": "Plasmodesmata are channels that traverse the cell walls of plant cells, enabling transport and communication between adjacent cells."
   },
   {
-    "question": "What is the primary mode of nutrition for organisms in Kingdom Fungi?",
+    "question": "The scientific name for an organism is correctly derived from its:",
     "options": [
-      "Autotrophic (Photosynthesis)",
-      "Heterotrophic (Ingestion)",
-      "Heterotrophic (Absorption)",
-      "Chemosynthetic"
+      "Genus and species",
+      "Family and order",
+      "Kingdom and phylum",
+      "Class and family"
     ],
-    "correctAnswer": "Heterotrophic (Absorption)",
-    "explanation": "Fungi are described as 'Saprophytic (decomposers) or parasitic', both of which are heterotrophic strategies involving the absorption of nutrients through their cell walls, not ingestion."
+    "correctAnswer": "Genus and species",
+    "explanation": "Binomial nomenclature uses the Genus (capitalized) and species (lowercase) names to form the scientific name (e.g., Homo sapiens)."
   },
   {
-    "question": "The document cites cyanobacteria as an example of photosynthetic monerans. What is their common name?",
-    "options": ["Green algae", "Red algae", "Brown algae", "Blue-green algae"],
-    "correctAnswer": "Blue-green algae",
-    "explanation": "The document explicitly lists '*Cyanobacteria*: Blue-green algae'."
+    "question": "A student's biological drawing of a cell includes shading and criss-crossing label lines. This violates the standards of:",
+    "options": [
+      "Accuracy and proportion",
+      "Neatness and labeling",
+      "Title and magnification",
+      "Scale and detail"
+    ],
+    "correctAnswer": "Neatness and labeling",
+    "explanation": "Biological drawing standards require neat, clear lines without shading, and labels with straight, ruled lines that do not cross."
+  },
+  {
+    "question": "Excessive watering can cause wilting in plants growing in salty soils because the soil solution is:",
+    "options": [
+      "Hypotonic, causing plasmolysis",
+      "Hypertonic, causing plasmolysis",
+      "Isotonic, preventing osmosis",
+      "Hypotonic, causing turgidity"
+    ],
+    "correctAnswer": "Hypertonic, causing plasmolysis",
+    "explanation": "A salty soil is hypertonic. Water leaves the plant cells by osmosis, causing the cytoplasm to shrink away from the cell wall (plasmolysis), leading to wilting."
+  },
+  {
+    "question": "Which characteristic is unique to eukaryotic cells when compared to prokaryotic cells?",
+    "options": [
+      "Presence of DNA",
+      "Presence of ribosomes",
+      "Presence of a cell membrane",
+      "Presence of membrane-bound organelles"
+    ],
+    "correctAnswer": "Presence of membrane-bound organelles",
+    "explanation": "While both have DNA, ribosomes, and a cell membrane, the defining feature of eukaryotes is the compartmentalization of functions within membrane-bound organelles like the nucleus and mitochondria."
+  },
+  {
+    "question": "The function of the Golgi apparatus can be best described as:",
+    "options": [
+      "Synthesizing proteins",
+      "Producing ATP",
+      "Modifying and packaging substances",
+      "Digesting foreign material"
+    ],
+    "correctAnswer": "Modifying and packaging substances",
+    "explanation": "The Golgi apparatus receives, modifies, sorts, and packages proteins and lipids into vesicles for transport to their final destinations."
+  },
+  {
+    "question": "Which of the following is a correct pairing of a cell structure with its polymer?",
+    "options": [
+      "Cell wall - Glycogen",
+      "Cell membrane - Cellulose",
+      "Cell wall - Cellulose",
+      "Vacuole - Starch"
+    ],
+    "correctAnswer": "Cell wall - Cellulose",
+    "explanation": "The plant cell wall is primarily composed of the polysaccharide cellulose, which provides structural strength."
+  },
+  {
+    "question": "A root hair cell is specialized for absorption due to its:",
+    "options": [
+      "Numerous chloroplasts",
+      "Long, thin extension",
+      "Ability to photosynthesize",
+      "Thick, impermeable wall"
+    ],
+    "correctAnswer": "Long, thin extension",
+    "explanation": "The long, thin hair-like projection massively increases the surface area of the root cell, maximizing its capacity to absorb water and mineral ions."
+  },
+  {
+    "question": "Which organelle contains its own genetic material?",
+    "options": ["Golgi apparatus", "Lysosome", "Mitochondrion", "Vacuole"],
+    "correctAnswer": "Mitochondrion",
+    "explanation": "Mitochondria (and chloroplasts) contain their own small circular DNA, supporting the endosymbiotic theory of their origin."
+  },
+  {
+    "question": "The primary function of lysosomes is:",
+    "options": [
+      "Lipid storage",
+      "Intracellular digestion",
+      "Protein synthesis",
+      "Structural support"
+    ],
+    "correctAnswer": "Intracellular digestion",
+    "explanation": "Lysosomes contain hydrolytic enzymes that break down worn-out organelles, food particles, and engulfed viruses or bacteria."
+  },
+  {
+    "question": "Which of the following is a key difference in energy storage between plant and animal cells?",
+    "options": [
+      "Plants store energy as glycogen",
+      "Animals store energy as starch",
+      "Plants store energy as starch",
+      "Animals store energy in chloroplasts"
+    ],
+    "correctAnswer": "Plants store energy as starch",
+    "explanation": "Plant cells store excess glucose as the polysaccharide starch, while animal cells store it as glycogen."
+  },
+  {
+    "question": "When comparing plant and animal cells, which structure is typically found only in animal cells?",
+    "options": ["Vacuole", "Mitochondria", "Centrioles", "Ribosomes"],
+    "correctAnswer": "Centrioles",
+    "explanation": "Centrioles, which play a role in organizing the spindle fibers during cell division, are present in most animal cells but are absent in higher plant cells."
+  },
+  {
+    "question": "The control center of the cell, housing genetic material, is the:",
+    "options": ["Nucleolus", "Nucleus", "Mitochondria", "Golgi apparatus"],
+    "correctAnswer": "Nucleus",
+    "explanation": "The nucleus contains the cell's chromosomes (DNA) and acts as the control center, regulating gene expression and mediating the replication of DNA during the cell cycle."
+  },
+  {
+    "question": "Which property of the cell membrane allows it to control the movement of substances?",
+    "options": [
+      "Complete impermeability",
+      "Selective permeability",
+      "Rigid structure",
+      "Positive charge"
+    ],
+    "correctAnswer": "Selective permeability",
+    "explanation": "The phospholipid bilayer is selectively permeable, allowing small, nonpolar molecules to pass freely while regulating the passage of ions and larger molecules."
+  },
+  {
+    "question": "A student is asked to list five differences between plant and animal cells. A valid pair would be:",
+    "options": [
+      "Plant cells have a nucleus, animal cells do not",
+      "Animal cells have a cell wall, plant cells do not",
+      "Plant cells have a large vacuole, animal cells have small vacuoles",
+      "Animal cells have chloroplasts, plant cells do not"
+    ],
+    "correctAnswer": "Plant cells have a large vacuole, animal cells have small vacuoles",
+    "explanation": "This is a standard difference. Mature plant cells typically have a single, large, permanent central vacuole, while animal cells have smaller, temporary vacuoles if any."
+  },
+  {
+    "question": "Which specialized animal cell is correctly matched with its adaptation?",
+    "options": [
+      "Nerve cell: Flagellum for movement",
+      "Sperm cell: Long axon for transmission",
+      "Red blood cell: Biconcave shape for carriage",
+      "Muscle cell: Cilia for contraction"
+    ],
+    "correctAnswer": "Red blood cell: Biconcave shape for carriage",
+    "explanation": "The biconcave shape of a red blood cell increases its surface area for oxygen binding and makes it flexible to squeeze through capillaries."
+  },
+  {
+    "question": "The organelle responsible for converting light energy into chemical energy is the:",
+    "options": [
+      "Mitochondrion",
+      "Chloroplast",
+      "Ribosome",
+      "Endoplasmic Reticulum"
+    ],
+    "correctAnswer": "Chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and are the site of photosynthesis, where light energy is converted into the chemical energy of glucose."
+  },
+  {
+    "question": "Disposal of used cheek swabs in a bleach solution is a critical safety step to:",
+    "options": [
+      "Improve staining",
+      "Prevent microbial growth and cross-contamination",
+      "Clean the microscope",
+      "Reuse the swabs"
+    ],
+    "correctAnswer": "Prevent microbial growth and cross-contamination",
+    "explanation": "Human cheek cells are a biological hazard. Disinfecting them in bleach prevents the potential spread of pathogens."
   }
 ]

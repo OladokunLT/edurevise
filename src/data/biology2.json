@@ -1,0 +1,237 @@
+[
+  {
+    "question": "What is the primary structural component of the cell wall in Kingdom Monera?",
+    "options": ["Cellulose", "Chitin", "Peptidoglycan", "Silica"],
+    "correctAnswer": "Peptidoglycan",
+    "explanation": "The document states that organisms in Kingdom Monera have 'cell walls of peptidoglycan'."
+  },
+  {
+    "question": "A unicellular, photosynthetic organism with an eye spot is most likely a member of which phylum?",
+    "options": ["Rhizopoda", "Ciliophora", "Euglenophyta", "Sporozoa"],
+    "correctAnswer": "Euglenophyta",
+    "explanation": "Euglenophyta, exemplified by Euglena, is described as having an 'Eye spot; photosynthesis'."
+  },
+  {
+    "question": "Which of the following is a key characteristic that distinguishes Kingdom Fungi from Kingdom Plantae?",
+    "options": [
+      "Presence of a nucleus",
+      "Cell wall composition",
+      "Mode of nutrition",
+      "Multicellularity"
+    ],
+    "correctAnswer": "Cell wall composition",
+    "explanation": "Fungi have 'chitin cell walls', while plants have 'cellulose cell walls'. Both are eukaryotic and can be multicellular, and both can have saprophytic/non-photosynthetic members, making cell wall composition a primary distinguishing feature."
+  },
+  {
+    "question": "In the Nigerian context, which organism is cited for its role in nitrogen fixation within plant roots?",
+    "options": ["E. coli", "Rhizobium", "Lactobacillus", "Plasmodium"],
+    "correctAnswer": "Rhizobium",
+    "explanation": "The document lists '*Rhizobium* (fixes nitrogen in bean roots)' as an example under Kingdom Monera."
+  },
+  {
+    "question": "Which division of Kingdom Plantae is characterized by the presence of vascular tissue and reproduction via spores, but not seeds?",
+    "options": [
+      "Bryophyta",
+      "Filicinophyta",
+      "Angiospermophyta",
+      "Gymnospermophyta"
+    ],
+    "correctAnswer": "Filicinophyta",
+    "explanation": "Filicinophyta (Ferns) are described as having 'Vascular tissue; spores'."
+  },
+  {
+    "question": "According to the document, what is a major disadvantage of increased complexity in biological organization?",
+    "options": [
+      "Lack of specialization",
+      "Decreased efficiency",
+      "Interdependence",
+      "Rapid response to stimuli"
+    ],
+    "correctAnswer": "Interdependence",
+    "explanation": "The 'Why Complexity Evolved' section lists 'Interdependence (kidney failure → systemic collapse)' as a disadvantage."
+  },
+  {
+    "question": "Which organism is an example of a colonial form of cellular organization where cells can live independently?",
+    "options": ["Spirogyra", "Volvox", "Onion epidermis", "Human muscle cell"],
+    "correctAnswer": "Volvox",
+    "explanation": "The document states that in a 'Colony' like Volvox, cells are 'loosely associated' and 'can separate and live independently'."
+  },
+  {
+    "question": "The malaria-causing parasite Plasmodium is classified under which phylum of Kingdom Protista?",
+    "options": ["Rhizopoda", "Ciliophora", "Euglenophyta", "Sporozoa"],
+    "correctAnswer": "Sporozoa",
+    "explanation": "Plasmodium is explicitly listed as an example of the phylum Sporozoa."
+  },
+  {
+    "question": "What is the primary waste product of nitrogen metabolism excreted by many animals, as mentioned in the plant vs. animal comparison?",
+    "options": ["Oxygen", "Urea", "Water", "Latex"],
+    "correctAnswer": "Urea",
+    "explanation": "The table lists 'CO₂, urea, uric acid' as waste products for animals."
+  },
+  {
+    "question": "Which of the following pairs represents a correct match between a Nigerian example and its kingdom?",
+    "options": [
+      "Candida - Monera",
+      "Achatina - Protista",
+      "Tilapia - Animalia",
+      "Rhizopus - Plantae"
+    ],
+    "correctAnswer": "Tilapia - Animalia",
+    "explanation": "Tilapia (fish) is correctly listed as a 'Nigerian Species' in Kingdom Animalia. Candida and Rhizopus are Fungi, and Achatina (snail) is also Animalia."
+  },
+  {
+    "question": "A organism is multicellular, has chitin in its cell wall, and absorbs nutrients from decaying organic matter. It most likely belongs to which kingdom?",
+    "options": ["Monera", "Protista", "Fungi", "Plantae"],
+    "correctAnswer": "Fungi",
+    "explanation": "These are the defining traits of Kingdom Fungi: 'Multicellular (except yeast), chitin cell walls. Saprophytic (decomposers)...'"
+  },
+  {
+    "question": "What is the fundamental distinction between a tissue and a colony, as defined in the document?",
+    "options": [
+      "Number of cells",
+      "Presence of a nucleus",
+      "Ability of cells to survive independently",
+      "Method of reproduction"
+    ],
+    "correctAnswer": "Ability of cells to survive independently",
+    "explanation": "The 'Critical Distinction' states: '*Tissues*: Cells cannot survive alone... *Colonies*: Cells can separate and live independently'."
+  },
+  {
+    "question": "Which plant division mentioned is entirely lacking in true roots and vascular tissue?",
+    "options": [
+      "Bryophyta",
+      "Filicinophyta",
+      "Angiospermophyta",
+      "All of the above"
+    ],
+    "correctAnswer": "Bryophyta",
+    "explanation": "Bryophyta (Mosses) are described with the feature 'No roots/vascular tissue'."
+  },
+  {
+    "question": "The presence of chloroplasts is a key characteristic that immediately places an organism in which kingdom?",
+    "options": ["Monera", "Protista", "Fungi", "Plantae"],
+    "correctAnswer": "Plantae",
+    "explanation": "While some protists (e.g., Euglena) can photosynthesize, the document defines Kingdom Plantae by the trait 'photosynthetic'. The presence of chloroplasts is the cellular basis for this trait and is a fundamental defining feature of plants."
+  },
+  {
+    "question": "Based on the 'Misconception Alert', which bacterium is beneficial in the production of a Nigerian food?",
+    "options": ["E. coli", "Rhizobium", "Plasmodium", "Lactobacillus"],
+    "correctAnswer": "Lactobacillus",
+    "explanation": "The text corrects the misconception that all bacteria are harmful by stating '*Lactobacillus* makes *nono* (fermented milk)'."
+  },
+  {
+    "question": "In the hierarchy of complexity, which level is defined as 'Organs working together'?",
+    "options": ["Tissue", "Organ", "System", "Organism"],
+    "correctAnswer": "System",
+    "explanation": "The document defines 'System' as 'Organs working together (e.g., human circulatory system)'."
+  },
+  {
+    "question": "An organism is discovered that is unicellular, lacks a nucleus, and is found in a hot spring. Its most likely classification is:",
+    "options": ["Protist", "Fungus", "Animal", "Moneran"],
+    "correctAnswer": "Moneran",
+    "explanation": "The traits 'Unicellular, no nucleus' are the primary defining characteristics of Kingdom Monera (Prokaryotes)."
+  },
+  {
+    "question": "Which of the following organisms exemplifies the 'Filament' form of cellular organization?",
+    "options": ["Amoeba", "Volvox", "Spirogyra", "Human"],
+    "correctAnswer": "Spirogyra",
+    "explanation": "The document lists '*Spirogyra*' as an example of a 'Filament: Linear chains'."
+  },
+  {
+    "question": "A Nigerian plant with net-like leaf veins and seeds enclosed in fruit is most likely a:",
+    "options": ["Monocot", "Dicot", "Fern", "Moss"],
+    "correctAnswer": "Dicot",
+    "explanation": "The document states that Dicots (e.g., Beans, mango) have 'net-like veins'. Angiospermophyta (flowering plants, which include dicots) have 'Seeds in fruits' and are 'dominant in Nigeria'."
+  },
+  {
+    "question": "Which phylum within Kingdom Animalia includes both insects and crustaceans?",
+    "options": ["Chordata", "Arthropoda", "Mollusca", "Annelida"],
+    "correctAnswer": "Arthropoda",
+    "explanation": "The document lists 'Arthropoda: Insects (cockroach), crustaceans (crayfish)' as a critical phylum."
+  },
+  {
+    "question": "What is the primary basis for Whittaker's five-kingdom system of classification, as indicated in the subtitle?",
+    "options": [
+      "Color and size",
+      "Evolutionary history only",
+      "Cell structure, nutrition, complexity",
+      "Habitat and geographical location"
+    ],
+    "correctAnswer": "Cell structure, nutrition, complexity",
+    "explanation": "The subtitle of section II explicitly states the system is 'Based on Whittaker's system -- cell structure, nutrition, complexity'."
+  },
+  {
+    "question": "The organism responsible for spoiling *akamu* (pap) in Nigeria is provided as an example for which kingdom?",
+    "options": ["Monera", "Protista", "Fungi", "Plantae"],
+    "correctAnswer": "Fungi",
+    "explanation": "The document lists '*Rhizopus*: Spoils *akamu* (pap)' as a 'Nigerian Example' under Kingdom Fungi."
+  },
+  {
+    "question": "Which characteristic is unique to animals when compared to plants, according to the comparison table?",
+    "options": [
+      "Multicellularity",
+      "Presence of organelles",
+      "Heterotrophic nutrition",
+      "No cell walls"
+    ],
+    "correctAnswer": "No cell walls",
+    "explanation": "While both are multicellular eukaryotes, and plants are autotrophic, the table lists 'No cell wall, no chloroplasts' as a defining cell structure difference for animals."
+  },
+  {
+    "question": "A free-living, single-celled organism with a nucleus and cilia would be classified in:",
+    "options": [
+      "Kingdom Monera",
+      "Kingdom Protista",
+      "Kingdom Fungi",
+      "Kingdom Animalia"
+    ],
+    "correctAnswer": "Kingdom Protista",
+    "explanation": "The traits 'unicellular, has nucleus/organelles' and 'Motile (cilia...)' are defining for Kingdom Protista, as seen in the example of Paramecium."
+  },
+  {
+    "question": "What is the highest level of biological organization exemplified by *Amoeba* according to the document?",
+    "options": ["Tissue", "Organ", "System", "Cell"],
+    "correctAnswer": "Cell",
+    "explanation": "The document states that a 'Cell' is the 'Basic unit' and gives '*Amoeba* = single cell' as the example."
+  },
+  {
+    "question": "Which of the following is NOT a trait shared by all members of Kingdom Animalia?",
+    "options": ["Multicellular", "Heterotrophic", "Motile", "No cell walls"],
+    "correctAnswer": "Motile",
+    "explanation": "While the document states animals are 'Motile (nervous/muscular systems)', this is a general trait. Some adult animals, like sponges or corals, are sessile (non-motile), though their larval forms may be motile. The other options are absolute defining traits."
+  },
+  {
+    "question": "The cattle egret, a common Nigerian bird, belongs to which phylum?",
+    "options": ["Arthropoda", "Annelida", "Chordata", "Mollusca"],
+    "correctAnswer": "Chordata",
+    "explanation": "Birds are vertebrates. The document lists 'Chordata' as the phylum containing 'Mammals (humans, cattle), reptiles (lizard)'. This phylum includes all vertebrates, which encompass birds, mammals, reptiles, fish, and amphibians."
+  },
+  {
+    "question": "Which form of cellular organization involves cells that are 'Specialized units' for functions like protection?",
+    "options": [
+      "Single, Free-living",
+      "Colony",
+      "Filament",
+      "Tissue/Organ Cells"
+    ],
+    "correctAnswer": "Tissue/Organ Cells",
+    "explanation": "The document defines 'Tissue/Organ Cells' as 'Specialized units' and gives 'onion epidermis cells for protection' as an example."
+  },
+  {
+    "question": "What is the primary mode of nutrition for organisms in Kingdom Fungi?",
+    "options": [
+      "Autotrophic (Photosynthesis)",
+      "Heterotrophic (Ingestion)",
+      "Heterotrophic (Absorption)",
+      "Chemosynthetic"
+    ],
+    "correctAnswer": "Heterotrophic (Absorption)",
+    "explanation": "Fungi are described as 'Saprophytic (decomposers) or parasitic', both of which are heterotrophic strategies involving the absorption of nutrients through their cell walls, not ingestion."
+  },
+  {
+    "question": "The document cites cyanobacteria as an example of photosynthetic monerans. What is their common name?",
+    "options": ["Green algae", "Red algae", "Brown algae", "Blue-green algae"],
+    "correctAnswer": "Blue-green algae",
+    "explanation": "The document explicitly lists '*Cyanobacteria*: Blue-green algae'."
+  }
+]
